@@ -291,15 +291,13 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2497/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports 1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2478/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Sports-2
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.m3u8
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2479/index.3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
-http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/71.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Mix
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/72.m3u8
+http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://c1live.com:8081/c1-play/willow/playlist.m3u8
+https://109.liveflashplayer.org:8088/stream/lizata1/playlist.m3u8?vidictid=18647903001&pk=e0614d1820b92d7834439c604bf2fa3fe845ba1c3671d29d2a34c146b525e348&id=43662
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",T-SPORTS
 http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",T-SPORTS
