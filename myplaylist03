@@ -165,7 +165,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 http://103.205.133.48/hls/arymusic.m3u8
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="IND. ENT.",SONY
 http://103.205.133.48/hls/chs.m3u8
-#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="Entertainment", Star Plus
+#EXTINF: -1 tvg-logo="https://assets.botallen.live/images/t/RIbBBNnwJc.png" group-title="IND. ENT.", Star Plus
 http://103.205.133.48/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="IND. ENT.",ICC_Zee TV
 http://103.205.133.48/hls/zeetv.m3u8
