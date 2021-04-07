@@ -121,9 +121,10 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@ama
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery HD
 http://mcsh.xyz:8080/abcdef/800900/51925
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Bangla
+http://185.71.64.6/8687122274/7806044871/83822
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFO",Discovery Science
 https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Hindi
 https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFO",NAT GEO HD [BANGLA]
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="INFO",TRAVEL XP
@@ -140,7 +141,7 @@ http://103.205.133.48/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFO",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="KIDS",DURONTO TV [BD]
-http://pn.tvott.info/477823265351104/477823265351104/83777
+http://185.71.64.6/8687122274/7806044871/83822
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://103.205.133.48/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS",BBC Cbeebies
@@ -159,7 +160,6 @@ http://103.205.133.21/hls/sangeetbangla.m3u8
 http://103.205.133.21/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",Zoom
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424363/71120893.jpg" group-title="MUSIC", Zee ETC
-http://103.205.133.21/hls/zetc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
@@ -233,11 +233,11 @@ http://203.154.243.89:11205/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="SPORTS",T Sports
 http://103.102.27.172:6464/Channel-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-http://103.102.27.172:6464/Channel-2/index.m3u8
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://103.205.133.48/hls/chss1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/25.m3u8
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/220
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
@@ -247,7 +247,7 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-http://103.153.175.254:8080/hls/stream12.m3u8
+http://45.127.244.7:8080/hls/channel5.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/28.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
