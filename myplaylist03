@@ -142,7 +142,7 @@ http://103.205.133.48/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFO",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="KIDS",DURONTO TV [BD]
-http://185.71.64.6/8687122274/7806044871/83822
+http://185.71.64.6/8687122274/7806044871/83777
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://103.205.133.48/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS",BBC Cbeebies
