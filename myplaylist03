@@ -137,7 +137,7 @@ http://51.195.44.53:8081/tv/national-geographic/playlist.m3u8
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="INFO", Animal Planet HD
 http://mcsh.xyz:8080/abcdef/800900/51927
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Sony-BBC-Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="INFO",Sony-BBC-Earth
 http://103.205.133.48/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="INFO",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
