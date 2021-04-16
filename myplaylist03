@@ -284,7 +284,7 @@ http://103.205.133.21/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 http://103.102.27.172:6464/Channel-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+http://45.127.244.7:8080/hls/channel9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Super TV" tvg-logo="" group-title="SPORTS ",Geo Super TV
 http://185.71.64.6/8687122274/7806044871/84028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
