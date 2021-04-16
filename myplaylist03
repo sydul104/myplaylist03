@@ -366,29 +366,83 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
 http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",T-SPORTS
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/102.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E1" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",CONTRACT SEASON 01E1
-http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E01.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E2" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",CONTRACT SEASON 01E2
-http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E02.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E3" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",CONTRACT SEASON 01E3
-http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E03.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E4" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",CONTRACT SEASON 01E4
-http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E04.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E5" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",CONTRACT SEASON 01E5
-http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E05.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CONTRACT SEASON 01E6" tvg-logo="http://10.16.100.244/files/contract_season_01__2021__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",CONTRACT SEASON 01E6
-http://10.16.100.202/ftps10/iccftps10sasd10/TV%20Shows/Bangla/Contract%20Season%2001%20(2021)%20Completed/Contract%20S01E06.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E1" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",KUHOK SEASON 01E1
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E01.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E2" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",KUHOK SEASON 01E2
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E02.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E3" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",KUHOK SEASON 01E3
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E03.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E4" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",KUHOK SEASON 01E4
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E04.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E5" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",KUHOK SEASON 01E5
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E05.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E6" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",KUHOK SEASON 01E6
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E06.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KUHOK SEASON 01E7" tvg-logo="http://10.16.100.244/files/kuhok_season_01__2019__completed.jpg" group-title="BrightWall Technology  (Bangla Series)",KUHOK SEASON 01E7
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Bangla/Kuhok%20Season%2001%20(2019)%20Completed/Kuhok%20S01E07.mkv
+#EXTINF:-1   group-title="dnf",BD: 1
+http://45.127.244.7:8080/hls/channel1.m3u8
+#EXTINF:-1   group-title="dnf",BD: 2
+http://45.127.244.7:8080/hls/channel2.m3u8
+#EXTINF:-1   group-title="dnf",BD: 3
+http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-1   group-title="dnf",BD: 4
+http://45.127.244.7:8080/hls/channel4.m3u8
+#EXTINF:-1   group-title="dnf",BD: 5
+http://45.127.244.7:8080/hls/channel5.m3u8
+#EXTINF:-1   group-title="dnf",BD: 6
+http://45.127.244.7:8080/hls/channel6.m3u8
+#EXTINF:-1   group-title="dnf",BD: 7
+http://45.127.244.7:8080/hls/channel7.m3u8
+#EXTINF:-1   group-title="dnf",BD: 8
+http://45.127.244.7:8080/hls/channel8.m3u8
+#EXTINF:-1   group-title="dnf",BD: 9
+http://45.127.244.7:8080/hls/channel9.m3u8
+#EXTINF:-1   group-title="dnf",BD: 10
+http://45.127.244.7:8080/hls/channel10.m3u8
+#EXTINF:-1   group-title="dnf",BD: 11
+http://45.127.244.7:8080/hls/channel11.m3u8
+#EXTINF:-1   group-title="dnf",BD: 12
+http://45.127.244.7:8080/hls/channel12.m3u8
+#EXTINF:-1   group-title="dnf",BD: 13
+http://45.127.244.7:8080/hls/channel13.m3u8
+#EXTINF:-1   group-title="dnf",BD: 14
+http://45.127.244.7:8080/hls/channel14.m3u8
+#EXTINF:-1   group-title="dnf",BD: 15
+http://45.127.244.7:8080/hls/channel15.m3u8
+#EXTINF:-1   group-title="dnf",BD: 16
+http://45.127.244.7:8080/hls/channel16.m3u8
+#EXTINF:-1   group-title="dnf",BD: 17
+http://103.196.232.76/tv1/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 18
+http://103.196.232.76/tv2/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 19
+http://103.196.232.76/tv3/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 20
+http://103.196.232.76/tv4/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 21
+http://103.196.232.76/tv5/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 22
+http://103.196.232.76/tv6/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 23
+http://103.196.232.76/tv7/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 24
+http://103.196.232.76/tv8/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 25
+http://103.196.232.76/tv9/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 26
+http://103.196.232.76/tv10/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 27
+http://103.196.232.76/tv11/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 28
+http://103.196.232.76/tv12/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 29
+http://103.196.232.76/tv13/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 30
+http://103.196.232.76/tv14/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 31
+http://103.196.232.76/tv15/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 32
+http://103.196.232.76/tv16/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 33
+http://103.196.232.76/tv17/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 34
+http://103.196.232.76/tv18/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 35
+http://103.196.232.76/tv19/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 36
+http://103.196.232.76/tv20/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 37
+http://103.196.232.76/tv21/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 38
+http://103.196.232.76/tv22/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 39
+http://103.196.232.76/tv23/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 40
+http://103.196.232.76/tv24/index.m3u8
