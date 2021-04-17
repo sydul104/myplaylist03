@@ -317,21 +317,21 @@ http://185.71.64.6/8687122274/7806044871/163898
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports-2
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports3.png" group-title="SPORTS",Fox sports-3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="SPORTS",Fox sports-3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="SPORTS",TRUE SPORT HD1
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
 http://77.83.117.60:8888//02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title="SPORTS",TRUE SPORT HD1
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
 http://77.83.117.60:8888//02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",Golf
 http://203.154.243.89:11208/
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/74/c8/4a/74c84a5c82d4d2426c995b57e48c4ef4.jpg" group-title="SPORTS", ESPN
 https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="SPORTS",Digisports-1
+#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2523/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="SPORTS",Digisports-2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a599.png" group-title="SPORTS",Digisports-2
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2522/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="SPORTS",Digisports-3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GcRo8a9Egug/hqdefault.jpg" group-title="SPORTS",Digisports-3
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2524/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.png" group-title="SPORTS",sports tv-1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2525/index.m3u8
@@ -360,7 +360,7 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
 http://ultrastreams.live:25461/zzVX9m7DEz/pyLYfawzuy/174257
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football
+#EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/ssfootball.png" group-title="SPORTS",Sky football
 http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/222
