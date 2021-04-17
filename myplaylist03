@@ -325,6 +325,8 @@ http://77.83.117.60:8888//02_PremierHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888//02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",Golf
 http://203.154.243.89:11208/
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/74/c8/4a/74c84a5c82d4d2426c995b57e48c4ef4.jpg" group-title="SPORTS", ESPN
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="SPORTS",Digisports-1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2523/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title="SPORTS",Digisports-2
