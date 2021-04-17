@@ -246,7 +246,7 @@ http://203.154.243.89:11205/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="SPORTS",T Sports
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 token
-http://43.230.123.20:8082/25/index.m3u8?remote=27.131.12.246&token=8c49562c65b9f0b1b35562baee6cafdd6864b18c-74e6fd0a0652181244391eaad9bfad40-1618572829-1618562029
+http://43.230.123.20:8082/25/index.m3u8?token=5bc7fd7a656f0b7e3843596f569c1cd170babd9f-5707f42694c6bb3b865ef1218ef1588f-1618643402-1618632602&remote=114.31.8.118
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
