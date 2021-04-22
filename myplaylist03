@@ -4,7 +4,7 @@ http://103.205.133.48/hls/btvworld.m3u8
 #EXTINF:-2 tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="BANGLA",BTV 
 http://103.205.133.48/hls/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-http://185.71.64.6/8687122274/7806044871/83821
+http://172.50.50.66:8080/24/index.m3u8
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",EKATTOR TV HD
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 http://103.205.133.48/hls/somoy.m3u8
@@ -402,71 +402,71 @@ http://45.127.244.7:8080/hls/channel14.m3u8
 http://45.127.244.7:8080/hls/channel15.m3u8
 #EXTINF:-202   group-title="dnf",BD: 16
 http://45.127.244.7:8080/hls/channel16.m3u8
-#EXTINF:-203   group-title="dnf",BD: 17
-http://103.196.232.76:8080/17/index.m3u8
-#EXTINF:-204   group-title="dnf",BD: 18
-http://103.196.232.76:8080/18/index.m3u8
-#EXTINF:-205  group-title="dnf",BD: 19
-http://103.196.232.76:8080/19/index.m3u8
-#EXTINF:-206   group-title="dnf",BD: 20
-http://103.196.232.76:8080/20/index.m3u8
-#EXTINF:-207   group-title="dnf",BD: 21
-http://103.196.232.76:8080/21/index.m3u8
-#EXTINF:-208   group-title="dnf",BD: 22
-http://103.196.232.76:8080/22/index.m3u8
-#EXTINF:-209   group-title="dnf",BD: 23
-http://103.196.232.76:8080/23/index.m3u8
-#EXTINF:-210   group-title="dnf",BD: 24
-http://103.196.232.76:8080/24/index.m3u8
-#EXTINF:-211   group-title="dnf",BD: 25
-http://103.196.232.76:8080/25/index.m3u8
-#EXTINF:-212   group-title="dnf",BD: 26
-http://103.196.232.76:8080/26/index.m3u8
-#EXTINF:-213   group-title="dnf",BD: 27
-http://103.196.232.76:8080/27/index.m3u8
-#EXTINF:-214   group-title="dnf",BD: 28
-http://103.196.232.76:8080/28/index.m3u8
-#EXTINF:-215   group-title="dnf",BD: 29
-http://103.196.232.76:8080/29/index.m3u8
-#EXTINF:-216  group-title="dnf",BD: 30
-http://103.196.232.76:8080/30/index.m3u8
-#EXTINF:-217   group-title="dnf",BD: 31
-http://103.196.232.76:8080/31/index.m3u8
-#EXTINF:-218  group-title="dnf",BD: 32
-http://103.196.232.76:8080/32/index.m3u8
-#EXTINF:-219   group-title="dnf",BD: 33
-http://103.196.232.76:8080/33/index.m3u8
-#EXTINF:-220   group-title="dnf",BD: 34
-http://103.196.232.76:8080/34/index.m3u8
-#EXTINF:-221   group-title="dnf",BD: 35
-http://103.196.232.76:8080/35/index.m3u8
-#EXTINF:-222   group-title="dnf",BD: 36
-http://103.196.232.76:8080/36/index.m3u8
-#EXTINF:-223   group-title="dnf",BD: 37
-http://103.196.232.76:8080/37/index.m3u8
-#EXTINF:-224   group-title="dnf",BD: 38
-http://103.196.232.76:8080/38/index.m3u8
-#EXTINF:-225   group-title="dnf",BD: 39
-http://103.196.232.76:8080/39/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 40
-http://103.196.232.76:8080/40/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 41
-http://103.196.232.76:8080/41/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 42
-http://103.196.232.76:8080/42/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 43
-http://103.196.232.76:8080/43/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 44
-http://103.196.232.76:8080/44/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 45
-http://103.196.232.76:8080/45/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 46
-http://103.196.232.76:8080/46/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 47
-http://103.196.232.76:8080/47/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 48
-http://103.196.232.76:8080/48/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 49
-http://103.196.232.76:8080/49/index.m3u8
-#EXTINF:-226   group-title="dnf",BD: 50
-http://103.196.232.76:8080/50/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 17
+http://172.50.50.66:8080/17/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 18
+http://172.50.50.66:8080/18/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 19
+http://172.50.50.66:8080/19/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 20
+http://172.50.50.66:8080/20/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 21
+http://172.50.50.66:8080/21/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 22
+http://172.50.50.66:8080/22/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 23
+http://172.50.50.66:8080/23/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 24
+http://172.50.50.66:8080/24/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 25
+http://172.50.50.66:8080/25/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 26
+http://172.50.50.66:8080/26/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 27
+http://172.50.50.66:8080/27/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 28
+http://172.50.50.66:8080/28/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 29
+http://172.50.50.66:8080/29/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 30
+http://172.50.50.66:8080/30/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 31
+http://172.50.50.66:8080/31/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 32
+http://172.50.50.66:8080/32/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 33
+http://172.50.50.66:8080/33/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 34
+http://172.50.50.66:8080/34/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 35
+http://172.50.50.66:8080/35/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 36
+http://172.50.50.66:8080/36/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 37
+http://172.50.50.66:8080/37/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 38
+http://172.50.50.66:8080/38/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 39
+http://172.50.50.66:8080/39/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 40
+http://172.50.50.66:8080/40/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 41
+http://172.50.50.66:8080/41/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 42
+http://172.50.50.66:8080/42/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 43
+http://172.50.50.66:8080/43/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 44
+http://172.50.50.66:8080/44/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 45
+http://172.50.50.66:8080/45/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 46
+http://172.50.50.66:8080/46/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 47
+http://172.50.50.66:8080/47/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 48
+http://172.50.50.66:8080/48/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 49
+http://172.50.50.66:8080/49/index.m3u8
+#EXTINF:-1   group-title="BANGLA CH",BD: 50
+http://172.50.50.66:8080/50/index.m3u8
