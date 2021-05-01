@@ -159,6 +159,7 @@ https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:-82 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Bangla talkies
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
 http://103.205.133.21/hls/9xm.m3u8
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
