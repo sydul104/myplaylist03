@@ -156,6 +156,7 @@ http://103.205.133.48/hls/gaanbangla.m3u8
 #EXTINF:-79 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUSIC",RTV Music
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
+http://ipm.oncast.me:1931/iplived/app-atnmusic.stream/playlist.m3u8
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:-82 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Bangla talkies
