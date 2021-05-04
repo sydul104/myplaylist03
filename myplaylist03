@@ -303,7 +303,7 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 http://ferrarico.referrari.com/live/60093_.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 http://185.71.64.6/8687122274/7806044871/163919
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng 
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports.qa.png" group-title="SPORTS",BeIN Sports  Eng 
 http://185.71.64.6/8687122274/7806044871/163931
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng 
 http://185.71.64.6/8687122274/7806044871/163897
