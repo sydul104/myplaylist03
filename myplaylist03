@@ -372,7 +372,7 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1649.png",Eleven Sport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Football
-http://stariptv.xyz:8880/661562/505844/115836
+http://stariptv.xyz:8880/661562/505844/115837
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Action
 http://stariptv.xyz:8880/661562/505844/115840
 #EXTINF:-175 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports AS-1
