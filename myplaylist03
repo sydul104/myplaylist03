@@ -120,10 +120,10 @@ http://203.162.235.41:16918
 http://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-61 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="NEWS",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@amarnettv.live
-#EXTINF:-62 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery HD Bangla
+#EXTINF:-62 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Bangla
 http://starshare.live:8080/live/arfat/arfat/406.ts
-#EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Bangla
-http://185.71.64.6/8687122274/7806044871/83822
+#EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Bangla HD
+http://starshare.live:8080/live/arfat/arfat/156.ts
 #EXTINF:-64 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFO",Discovery Science
 https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
 #EXTINF:-65 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFO",Discovery Hindi
