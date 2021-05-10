@@ -158,7 +158,7 @@ http://starshare.live:8080/live/arfat/arfat/205.ts
 #EXTINF:-78 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 http://103.205.133.21/hls/gaanbangla.m3u8
 #EXTINF:-79 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUSIC",RTV Music
-https://rhridoy136.shortcm.li/rtvmusic.m3u8
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
 http://ipm.oncast.me:1931/iplived/app-atnmusic.stream/playlist.m3u8
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
@@ -236,21 +236,17 @@ http://103.205.133.21/hls/sonypix.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-118 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="WORLD MOVIES", & Prive HD
 http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="WORLD MOVIES",Lotus Maccau
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="WORLD MOVIES",Star Movies
 http://stariptv.xyz:8880/661562/505844/113935
 #EXTINF:-119 tvg-logo="https://i.imgur.com/5FgT60n.png" group-title="WORLD MOVIES",Film 4
 http://starshare.live:8080/live/arfat/arfat/178.ts
 #EXTINF:-120 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="WORLD MOVIES",Sony Movies Action
 http://starshare.live:8080/live/arfat/arfat/179.ts
-#EXTINF:-121 type="stream" channelId="-1" group="WORLD MOVIES" logo="https://i.imgur.com/smmZBzH.png", MBC MAX FHD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
-#EXTINF:-122 type="stream" channelId="-1" group="WORLD MOVIES" logo="https://i.imgur.com/uXHPdeq.jpg", MBC 2 FHD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
-#EXTINF:-123 type="stream" channelId="-1" group="WORLD MOVIES" logo="https://i.imgur.com/diJCR16.png", MBC Action FHD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-124 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="WORLD MOVIES",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-125 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="WORLD MOVIES",WD
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="WORLD MOVIES",WD TV
 http://203.154.243.89:11205/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="SPORTS", Gazi TV
 https://piratesiptv.shortcm.li/gazi.m3u8
