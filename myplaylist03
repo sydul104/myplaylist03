@@ -317,7 +317,7 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3 Premium
 http://ferrarico.referrari.com/live/60093_.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
-http://185.71.64.6/8687122274/7806044871/163919
+http://1.alhawalouh.xyz/live/9962564400/index.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports  Eng 
 http://185.71.64.6/8687122274/7806044871/163931
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
@@ -327,27 +327,29 @@ http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
 http://185.71.64.6/8687122274/7806044871/163897
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 (Backup)
-http://stariptv.xyz:8880/661562/505844/115819
+http://2.alhawalouh.xyz/live/918454578/index.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 (Backup)
-http://stariptv.xyz:8880/661562/505844/115784
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
 #EXTINF:-154 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",Bein sports-3 Eng (Backup)
 http://185.71.64.6/8687122274/7806044871/163917
 #EXTINF:-154 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",Bein sports-3 (Backup)
 http://stariptv.xyz:8880/661562/505844/115786
 #EXTINF:-155 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",Bein sports-4 (Backup)
-http://stariptv.xyz:8880/661562/505844/115787
+http://1.alhawalouh.xyz/live/9787488847/index.m3u8
 #EXTINF:-156 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",Bein sports-5 (Backup)
 http://185.71.64.6/8687122274/7806044871/163922
 #EXTINF:-157 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",Bein sports-6 (Backup)
-http://185.71.64.6/8687122274/7806044871/163921
+http://2.alhawalouh.xyz/live/1515000000/index.m3u8
 #EXTINF:-159 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Fra
-http://185.71.64.6/8687122274/7806044871/163916
+http://1.adrawayoun.xyz/live/103/index.m3u8
 #EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Fra
-http://185.71.64.6/8687122274/7806044871/163915
+http://1.adrawayoun.xyz/live/104/index.m3u8
+#EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Fra
+http://1.adrawayoun.xyz/live/105/index.m3u8
 #EXTINF:-148 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
-http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
+http://1.adrawayoun.xyz/live/143/index.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
-http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
+http://1.adrawayoun.xyz/live/144/index.m3u8
 #EXTINF:-161 tvg-logo="https://i.pinimg.com/564x/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg" group-title="SPORTS",FOX SPORT 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-162 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports-2
