@@ -367,6 +367,8 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-163 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="SPORTS",Fox sports-3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-162 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports-501
+http://starshare.live:8080/live/arfat/arfat/1856.ts
 #EXTINF:-162 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports-502
 http://stariptv.xyz:8880/661562/505844/115813
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
