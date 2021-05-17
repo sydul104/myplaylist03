@@ -309,6 +309,10 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-146 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://starshare.live:8080/live/arfat/arfat/101.ts
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
+http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
+http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 http://ferrarico.referrari.com/live/60166_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
@@ -333,10 +337,6 @@ http://ferrarico.referrari.com/live/60093_.m3u8
 http://1.alhawalouh.xyz/live/9962564400/index.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports  Eng 
 http://185.71.64.6/8687122274/7806044871/163931
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
-http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
-http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
 http://185.71.64.6/8687122274/7806044871/163897
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 (Backup)
