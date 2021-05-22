@@ -59,12 +59,6 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 http://103.205.133.48/hls/tsports.m3u8
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 http://103.205.133.21/hls/nagorik.m3u8
-#EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
-http://103.205.133.21/hls/ntv.m3u8
-#EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
-http://103.205.133.21/hls/rtv.m3u8
-#EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
-http://103.205.133.21/hls/satv.m3u8
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 http://103.205.133.21/hls/deshtv.m3u8
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
