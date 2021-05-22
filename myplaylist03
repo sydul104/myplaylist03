@@ -92,6 +92,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-48 tvg-id="(no tvg-id)" tvg-name="Saudi Sunnah" tvg-logo="https://i.imgur.com/6uT41kj.png" group-title="Islamic",Saudi Sunnah
 #EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla
 http://103.205.133.19/hls/peacetv.m3u8
+#EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV English
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/3070
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA",Star Jalsha
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies HD
@@ -161,7 +163,7 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-77 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS",Discovery Kid
 https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
 #EXTINF:-77 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="KIDS",Nick
-http://starshare.live:8080/live/arfat/arfat/205.ts
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/3073
 #EXTINF:-78 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
 http://103.205.133.21/hls/gaanbangla.m3u8
 #EXTINF:-79 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUSIC",RTV Music
@@ -260,6 +262,7 @@ http://77.83.117.60:8888//02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",FOX THAI
 http://77.83.117.60:8888//02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX ACTION EN
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/3092
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
 http://77.83.117.60:8888//02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",FOX FAMILY HD EN
@@ -410,7 +413,8 @@ http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.
 http://stariptv.xyz:8880/661562/505844/115837
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Action
 http://stariptv.xyz:8880/661562/505844/115840
-#EXTINF:-175 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports AS-1
+#EXTINF:-175 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Encore
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/3094
 #EXTINF:-176 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports PL
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-177 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Sports mix
@@ -427,6 +431,8 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 http://stariptv.xyz:8880/661562/505844/179346
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Cricket plus
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30328
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",BIG Network
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/3076
 #EXTINF:-185 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",T-SPORTS
 http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-186 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS", Gtv
