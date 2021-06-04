@@ -239,7 +239,7 @@ http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="WORLD MOVIES",Lotus Maccau
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="WORLD MOVIES",Star Movies
-http://103.153.175.254:8080/hls/stream3.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="WORLD MOVIES",AXN HD
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN ASIA
 http://77.83.117.60:8888//02_AXNHD_720p/chunklist.m3u8
