@@ -268,6 +268,8 @@ http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
 http://pulsetv.uk:8080/88888/99999/285002
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://pulsetv.uk:8080/88888/99999/290845
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+http://pulsetv.uk:8080/88888/99999/252043
 #EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket
 http://85.203.33.88:80/JCJd0ex114/tj6BHP7630/5601
 #EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
@@ -378,8 +380,6 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14659
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png" group-title="SPORTS" ,Eurosport 1 HD UK
 http://pulsetv.uk:8080/88888/99999/290841
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png" group-title="SPORTS" ,Eurosport 2 HD UK
-#EXTINF:-161 tvg-logo="https://i.pinimg.com/564x/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg" group-title="SPORTS",FOX SPORT 501
-http://pulsetv.uk:8080/88888/99999/252043
 #EXTINF:-161 tvg-logo="https://i.pinimg.com/564x/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg" group-title="SPORTS",FOX SPORT 1
 http://77.83.117.60:8888//02_foxsport_720p/chunklist.m3u8
 #EXTINF:-162 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports-2
