@@ -428,6 +428,7 @@ http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 #EXTINF:-184 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/ssfootball.png" group-title="SPORTS",Sky football
 http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+https://atc.hopto.org/Cricket-Willow-Quality/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Cricket plus
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30328
 #EXTINF:-166 tvg-logo="https://www.logolynx.com/images/logolynx/3d/3d315a20ed7f4be66f38f0f7d9c9cab1.png" group-title="SPORTS",Golf
