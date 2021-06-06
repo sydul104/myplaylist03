@@ -264,8 +264,16 @@ http://203.154.243.89:11205/
 https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-126 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="SPORTS",T Sports
 http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
-#EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Cricket
+http://pulsetv.uk:8080/88888/99999/285002
+#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://pulsetv.uk:8080/88888/99999/290845
+#EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket
+http://85.203.33.88:80/JCJd0ex114/tj6BHP7630/5601
+#EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
+http://185.180.15.17:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
+http://luckonline.eu:8080/17424/cnyzqDETiP/1317
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://103.205.133.48/hls/chss1.m3u8
 #EXTINF:-128 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi token
@@ -342,8 +350,6 @@ http://ferrarico.referrari.com/live/60092_.m3u8
 http://ferrarico.referrari.com/live/60093_.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Cricket
-http://pulsetv.uk:8080/88888/99999/285002
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 (Backup)
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24697
@@ -402,8 +408,6 @@ http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1649.png",Eleven Sport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
-http://luckonline.eu:8080/17424/cnyzqDETiP/1317
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport-2 
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/22808
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport-3
@@ -421,10 +425,6 @@ http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-176 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports mix
 http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 #EXTINF:-182 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Action
-#EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket
-http://85.203.33.88:80/JCJd0ex114/tj6BHP7630/5601
-#EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
-http://185.180.15.17:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-184 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/ssfootball.png" group-title="SPORTS",Sky football
 http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
