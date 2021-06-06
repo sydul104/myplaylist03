@@ -318,7 +318,7 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-146 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 https://piratesiptv.shortcm.li/ptvsports.m3u8
 #EXTINF:-147 tvg-logo="https://pbs.twimg.com/profile_images/1048556098582708224/qPWHnIYD_400x400.jpg" group-title="SPORTS",Geo super
-GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
+http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-147 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" group-title="SPORTS",Ten sports
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-147 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" group-title="SPORTS",Ten Cricket
