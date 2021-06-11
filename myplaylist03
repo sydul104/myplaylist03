@@ -6,7 +6,6 @@ http://103.205.133.21/hls/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 http://172.50.50.66:8080/24/index.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-http://master.beeiptv.com:8081/master/ekattor/chunks.m3u8
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 http://103.205.133.21/hls/somoy.m3u8
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
@@ -297,7 +296,6 @@ http://103.205.133.48/hls/chss2.m3u8
 #EXTINF:-132 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
-http://stariptv.xyz:8880/661562/505844/179353
 #EXTINF:-134 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 http://stream.amrbd.com:8082/kn3a/tracks-v1a1/mono.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
@@ -374,11 +372,8 @@ http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24693
 #EXTINF:-157 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",Bein sports-6 (Backup)
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24692
 #EXTINF:-159 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Fra
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/5522
 #EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Fra
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14978
 #EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Fra
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/4477
 #EXTINF:-148 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
 http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
@@ -386,7 +381,6 @@ http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
 http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/14659
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png" group-title="SPORTS" ,Eurosport 1 HD UK
-http://pulsetv.uk:8080/88888/99999/290841
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-QXgqlK-vMek/TWKXVmw0nmI/AAAAAAAAARI/rc9n2iTBXWk/s1600/Eurosport+logo.png" group-title="SPORTS" ,Eurosport 2 HD UK
 #EXTINF:-161 tvg-logo="https://i.pinimg.com/564x/03/a3/82/03a3822bfa7d5e79c01c69e997ea1eac.jpg" group-title="SPORTS",FOX SPORT 1
 http://77.83.117.60:8888//02_foxsport_720p/chunklist.m3u8
@@ -395,9 +389,7 @@ http://77.83.117.60:8888//02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-163 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="SPORTS",Fox sports-3
 http://77.83.117.60:8888//02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-162 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports 1 US
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28597
 #EXTINF:-162 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="SPORTS",Fox sports 2 US
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/28599
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
 http://77.83.117.60:8888//02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
@@ -417,17 +409,11 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1649.png",Eleven Sport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport-2 
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/22808
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport-3
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/22809
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="SPORTS",Tring Sport 1 FHD AL
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/8078
 #EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="SPORTS",Tring Sport 2 FHD AL
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/8079
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="SPORTS",Tring Sport 3 HD AL
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/8080
 #EXTINF:-1 tvg-id="TringSport4.al" tvg-name="Tring Sport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport4hd.jpg" group-title="SPORTS",Tring Sport 4 HD AL
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/8081
 #EXTINF:-176 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Premier League 
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
 #EXTINF:-176 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports mix
@@ -438,7 +424,6 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-166 tvg-logo="https://www.logolynx.com/images/logolynx/3d/3d315a20ed7f4be66f38f0f7d9c9cab1.png" group-title="SPORTS",Golf
 http://203.154.243.89:11208/
 #EXTINF:-176 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Golf
-http://tv.rapidiptv.tvip.xyz:80/NHKqjhkzsd191/tFqfuA96/14654
 #EXTINF:-167 tvg-logo="https://i.pinimg.com/564x/74/c8/4a/74c84a5c82d4d2426c995b57e48c4ef4.jpg" group-title="SPORTS", ESPN
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",BIG Network
