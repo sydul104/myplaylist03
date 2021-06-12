@@ -542,3 +542,85 @@ http://172.50.50.66:8080/48/index.m3u8
 http://172.50.50.66:8080/49/index.m3u8
 #EXTINF:-1   group-title="dnf",BD: 50
 http://172.50.50.66:8080/50/index.m3u8
+
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 1
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6597
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 2
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6598
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 3
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6599
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 4
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6600
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 5
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6601
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 6
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6602
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 7
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6603
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 8
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6604
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 9
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6605
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 10
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6606
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 11
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6607
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 12
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6608
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,BeIN Sport 13
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6609
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,beIN Sports
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6749
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,beIN MAX
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6748
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,beIN MAX 2
+http://iptv.tvSports FHD.cc:80/penang172/penang172/7195
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,ASTRO Arena HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6707
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,ASTRO SUPERSPORT HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6708
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,ASTRO SUPERSPORT 2 HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6710
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,ASTRO SUPERSPORT 3 HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6711
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,ASTRO SUPERSPORT 4 HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6712
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,FOX Sports HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6793
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,FOX Sports 2 HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6791
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,FOX Sports 3 HD
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6792
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,ASTRO Cricket
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6717
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,DSTV: SuperSport Grandstand
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6572
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,DSTV: SuperSport PSL
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6573
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,DSTV: SuperSport Premier League
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6574
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,DSTV: SuperSport La Liga
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6575
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,DSTV: SuperSport Football
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6576
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Arena
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6615
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Action
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6616
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports F1
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6617
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Golf
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6618
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Football
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6620
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Premier League
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6621
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Cricket
+http://iptv.tvSports FHD.cc:80/penang172/penang172/6619
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Racing
+http://iptv.tvSports FHD.cc:80/penang172/penang172/7114
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Main Event
+http://iptv.tvSports FHD.cc:80/penang172/penang172/7115
+#EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Mix
+http://iptv.tvSports FHD.cc:80/penang172/penang172/7116
+
