@@ -101,9 +101,9 @@ http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF: -52 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/73604404.png" group-title="BANGLA", Zee Bangla HD
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA",Zee Bangla
-http://45.127.244.7:8080/hls/channel10.m3u8
+https://piratesiptv.shortcm.li/zeebangla.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema
-http://45.127.244.7:8080/hls/channel11.m3u8
+https://piratesiptv.shortcm.li/zeebanglacinema.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA",Colors Bangla
 http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="BANGLA",Sun Bangla
@@ -354,7 +354,7 @@ http://ferrarico.referrari.com/live/60097_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 http://ferrarico.referrari.com/live/60134_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-http://ferrarico.referrari.com/live/60169_.m3u8
+http://ferrarico.referrari.com/live/60099_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
 http://ferrarico.referrari.com/live/60136_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",BeIN Sports 6
