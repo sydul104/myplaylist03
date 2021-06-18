@@ -346,19 +346,19 @@ http://143.244.60.78/BEINSport2ENHD/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-154 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",Bein sports-13 EnG
 http://143.244.60.78/BEINSport3ENHD/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
-http://ferrarico.referrari.com/live/60166_.m3u8
+http://ferrarico.referrari.com/live/60132_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-http://ferrarico.referrari.com/live/60167_.m3u8
+http://ferrarico.referrari.com/live/60097_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-http://ferrarico.referrari.com/live/60168_.m3u8
+http://ferrarico.referrari.com/live/60134_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 http://ferrarico.referrari.com/live/60169_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
-http://ferrarico.referrari.com/live/60170_.m3u8
+http://ferrarico.referrari.com/live/60136_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",BeIN Sports 6
-http://ferrarico.referrari.com/live/60171_.m3u8
+http://ferrarico.referrari.com/live/60137_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
-http://ferrarico.referrari.com/live/60172_.m3u8
+http://ferrarico.referrari.com/live/60138_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Premium
 http://ferrarico.referrari.com/live/60091_.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
@@ -368,20 +368,17 @@ http://ferrarico.referrari.com/live/60093_.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng (Backup)
-#EXTINF:-152 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 (Backup)
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24697
-#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 (Backup)
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24696
+http://212.102.60.40:2200/EX/bein11hd-ar/index.m3u8
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng (Backup)
+http://212.102.60.40:2200/EX/bein12hd-ar/index.m3u8
 #EXTINF:-154 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",Bein sports-3 (Backup)
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24695
 #EXTINF:-155 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",Bein sports-4 (Backup)
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24694
 #EXTINF:-156 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",Bein sports-5 (Backup)
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24693
 #EXTINF:-157 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",Bein sports-6 (Backup)
-http://cloudcdn.tk:80/vhh64vCXs4/46GcRL6947/24692
 #EXTINF:-159 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Fra
+http://212.102.60.40:2200/EX/bein14hd-ar/index.m3u8
 #EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Fra
+http://212.102.60.40:2200/EX/bein15hd-ar/index.m3u8
 #EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Fra
 #EXTINF:-148 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
 http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -420,9 +417,7 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1649.png",Eleven Sport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport-2
-http://93.157.62.180/Supersport7/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport-3
-http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="SPORTS",Tring Sport 1 FHD AL
 #EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="SPORTS",Tring Sport 2 FHD AL
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="SPORTS",Tring Sport 3 HD AL
