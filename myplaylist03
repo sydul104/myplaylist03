@@ -254,16 +254,16 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="WORLD MOVIES",Lotus Maccau
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="WORLD MOVIES",Star Movies
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="WORLD MOVIES",Star Movies Select
 http://103.153.39.34:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="WORLD MOVIES",Star Movie Select
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/axn.jpg" group-title="WORLD MOVIES",Star Movie HD
 http://103.153.39.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png",AXN ASIA
 http://77.83.117.60:8888//02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png",FOX THAI
 http://77.83.117.60:8888//02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX ACTION EN
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/3092
+#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?sydul
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
 http://77.83.117.60:8888//02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="WORLD MOVIES" ,Sky Cinema Comedy FHD UK
@@ -318,21 +318,21 @@ http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?tok
 #EXTINF:-137 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/index.m3u8?token=
 #EXTINF:-138 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX
-http://103.81.104.118/hls/stream10.m3u8
+http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-139 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX
 http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-140 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",ICC_Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",ICC_Sony Ten 1
-http://103.81.104.118/hls/stream40.m3u8
+http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-142 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="SPORTS",Sony ten-2
-http://103.81.104.118/hls/stream39.m3u8
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-143 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="SPORTS",ICC_Sony Ten 2
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-144 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="SPORTS",ICC_Sony Ten 3
 http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-144 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="SPORTS",ICC_Sony Ten 3
-http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-146 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
