@@ -319,15 +319,15 @@ http://212.224.98.212:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?tok
 #EXTINF:-137 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/index.m3u8?token=
 #EXTINF:-138 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX
-http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-139 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX
 http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-140 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",ICC_Sony Ten 1
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 1
-http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-142 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="SPORTS",Sony ten-2
-http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-143 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="SPORTS",ICC_Sony Ten 2
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-144 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="SPORTS",ICC_Sony Ten 3
