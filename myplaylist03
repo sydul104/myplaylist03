@@ -610,18 +610,8 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7115
 #EXTINF:-1tvg-logo="" group-title="Sports FHD" ,UK: Sky Sports Mix
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7116
 
-#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Ananda TV
-https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-id="BanglaTV.uk" group-title="Toffee Server",Bangla TV
-https://streamer-1.toffeelive.com/mobile_hls/bangla_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Bijoy TV
-https://streamer-1.toffeelive.com/mobile_hls/bijoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Boishakhi TV
-https://streamer-1.toffeelive.com/mobile_hls/boishakhi/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-id="ext" group-title="Toffee Server",Channel 24
 https://streamer-1.toffeelive.com/mobile_hls/channel_24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Channel I HD
-https://streamer-1.toffeelive.com/mobile_hls/channel_i/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-id="ext" group-title="Toffee Server",DBC News
 https://streamer-1.toffeelive.com/mobile_hls/dbc_news/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-id="ext" group-title="Toffee Server",Desh TV
@@ -630,6 +620,16 @@ https://streamer-1.toffeelive.com/mobile_hls/desh_tv/5/04dfcf51f5f17bc7739a41f29
 https://streamer-1.toffeelive.com/mobile_hls/my_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:0 tvg-id="ext" group-title="Toffee Server",NTV BD
 https://streamer-1.toffeelive.com/mobile_hls/ntv_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Boishakhi TV
+https://streamer-1.toffeelive.com/mobile_hls/boishakhi/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Channel I HD
+https://streamer-1.toffeelive.com/mobile_hls/channel_i/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Ananda TV
+https://streamer-1.toffeelive.com/mobile_hls/ananda_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0 tvg-id="BanglaTV.uk" group-title="Toffee Server",Bangla TV
+https://streamer-1.toffeelive.com/mobile_hls/bangla_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:0 tvg-id="ext" group-title="Toffee Server",Bijoy TV
+https://streamer-1.toffeelive.com/mobile_hls/bijoy_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:0 tvg-id="ext" group-title="Toffee Server",Akash Aath
 https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
