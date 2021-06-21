@@ -305,7 +305,7 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/1369
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://103.205.133.19/hls/chss2.m3u8
+http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-132 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
