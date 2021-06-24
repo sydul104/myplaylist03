@@ -299,7 +299,8 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30329
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Cricket plus
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30328
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-http://103.205.133.19/hls/chss1.m3u8
+#http://103.205.133.19/hls/chss1.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1370
 #EXTINF:-128 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi token
 https://5opm.vkcdn5.com/hls/ipl.m3u8
 #EXTINF:-129 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
@@ -342,8 +343,9 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-147 tvg-logo="https://pbs.twimg.com/profile_images/1048556098582708224/qPWHnIYD_400x400.jpg" group-title="SPORTS",Geo super
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-147 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" group-title="SPORTS",Ten sports
-http://103.81.104.118/hls/stream34.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1372
 #EXTINF:-147 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" group-title="SPORTS",Ten Cricket
+http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
 http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
