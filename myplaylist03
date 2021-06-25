@@ -382,12 +382,13 @@ http://212.102.60.40:2200/EX/bein12hd-ar/index.m3u8
 #EXTINF:-155 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",Bein sports-4 (Backup)
 #EXTINF:-156 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",Bein sports-5 (Backup)
 #EXTINF:-157 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",Bein sports-6 (Backup)
-#EXTINF:-159 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Fra
-http://212.102.60.40:2200/EX/bein14hd-ar/index.m3u8
-#EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Fra
-http://212.102.60.40:2200/EX/bein15hd-ar/index.m3u8
-#EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Fra
-#EXTINF:-148 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
+#EXTINF:-159 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 MAX
+http://f.winourata.xyz/live/6262622200/index.m3u8
+#EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 MAX
+http://h.yaminoura.xyz/live/331210000/index.m3u8
+#EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 MAX
+http://f.winourata.xyz/live/001087800/index.m3u8
+#EXTINF:-148 tvg-http://f.winourata.xyz/live/001087800/index.m3u8="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
 http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
 http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
