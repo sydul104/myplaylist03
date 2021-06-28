@@ -24,7 +24,7 @@ http://103.205.133.19/hls/ichannel.m3u8
 http://103.205.133.19/hls/deeptotv.m3u8
 
 #EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Islamic",Saudi Quran
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/quran_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla
 http://103.205.133.19/hls/peacetv.m3u8
 
@@ -46,6 +46,8 @@ http://103.81.104.118/hls/stream37.m3u8
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA",Jalsha Movies HD
 http://103.81.104.118/hls/stream27.m3u8
+#EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
+http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA",Zee Bangla
 https://streamer-1.toffeelive.com/mobile_hls/zee_bangla_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema
@@ -61,11 +63,19 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f
 http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
 http://103.205.133.19/hls/sangeetbangla.m3u8
+#EXTINF:-82 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="MUSIC",Bangla talkies
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+#EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",MTV Beats HD
+https://streamer-1.toffeelive.com/mobile_hls/mtv_beats_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+#EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Sony Entertainment HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainmnt_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-99 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424364/71489533.jpg" group-title="Hindi", Dabang
@@ -74,20 +84,23 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema Me
+#EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 https://streamer-1.toffeelive.com/mobile_hls/zee_cinema/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
 https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="" group-title="English Movie",Lotus Macau
+https://streamer-1.toffeelive.com/mobile_hls/lotus/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
-http://www.pandar.tv:25461/HVchqoEJiJvaM0H/Ev5zpDZDv5oKHVt/93727
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
@@ -96,19 +109,19 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/1315
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Toffee Server",Sports LIVE 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
 https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Toffee Server",Sports LIVE 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
 https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Toffee Server",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Toffee Server",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Toffee Server",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="" group-title="Toffee Server",Sony SIX HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
 https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:0 tvg-id="SonySixHD.in" group-title="Toffee Server",Sony Six SD
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
 https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 http://103.81.104.118/hls/stream11.m3u8
