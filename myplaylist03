@@ -150,6 +150,22 @@ http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://luckonline.eu:8080/17424/cnyzqDETiP/1315
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 01
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E01.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 02
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E02.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 03
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E03.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 04
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E04.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 05
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E05.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 06
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E06.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 07
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E07.mkv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 08
+http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E08.mkv
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Aste ladis E 01
