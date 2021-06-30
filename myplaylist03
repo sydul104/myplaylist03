@@ -53,7 +53,7 @@ http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
-http://45.127.244.7:8080/hls/channel10.m3u8
+http://103.81.104.118/hls/stream30.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 http://172.50.50.66:8080/42/index.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
@@ -100,7 +100,7 @@ http://45.127.244.7:8080/hls/channel14.m3u8
 
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-
+http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movie",Lotus Macau
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
@@ -112,7 +112,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
-https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://103.106.243.163:8181/1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
 https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
@@ -122,7 +122,7 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
-http://103.81.104.118/hls/stream10.m3u8
+http://103.106.243.163:8181/18/index.m3u8
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
 http://103.109.56.116/live/skyfeed1025/index.m3u8
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
