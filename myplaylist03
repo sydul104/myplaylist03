@@ -122,7 +122,7 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
 http://103.109.56.116/live/skyfeed1025/index.m3u8
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
