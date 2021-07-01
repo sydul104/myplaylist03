@@ -124,15 +124,15 @@ http://103.106.243.163:8181/1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
-http://103.109.56.116/live/skyfeed1018/index.m3u8
+http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 http://103.205.133.48/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
 http://103.106.243.163:8181/18/index.m3u8
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
-http://103.109.56.116/live/skyfeed1025/index.m3u8
+http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
