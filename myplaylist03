@@ -135,7 +135,6 @@ http://103.109.56.116/live/skyfeed1025/index.m3u8
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
-
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
@@ -148,7 +147,6 @@ http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/9913
 #EXTINF:-183 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket
-
 http://live.fauconteam.com:8080/Amigotv_online/aC1wShg1/4102
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
