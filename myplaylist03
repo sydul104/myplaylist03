@@ -23,22 +23,23 @@ http://103.205.133.19/hls/ichannel.m3u8
 #EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA",Deepto TV
 http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
-http://103.106.243.163:8181//1/index.m3u8
+http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Islamic",Saudi Quran
-http://103.153.175.254:8080/hls/stream33.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla
 http://103.205.133.19/hls/peacetv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick
-http://103.153.175.254:8080/hls/stream23.m3u8
+http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sony Yay
-http://103.153.175.254:8080/hls/stream32.m3u8
-
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-76 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",Rongeen tv
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
 http://103.81.104.118/hls/stream9.m3u8
@@ -156,12 +157,11 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6717
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
 
-
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
