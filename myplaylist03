@@ -124,7 +124,7 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
 http://103.106.243.163:8181/1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
-
+http://meu02.cularu.com:8880/sch15m2n020/b56y5eves/1904
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
