@@ -155,20 +155,22 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://91.194.110.22:9097/AU_FOX_SPORTS_501/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-http://103.81.104.118/hls/stream15.m3u8
+#http://103.81.104.118/hls/stream15.m3u8
+http://192.99.54.242/spo/STAR_SPORTS_1/index.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://103.81.104.118/hls/stream16.m3u8
+#http://103.81.104.118/hls/stream16.m3u8
+http://192.99.54.242/spo/STAR_SPORTS_2/index.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-http://103.81.104.118/hls/stream12.m3u8
+#http://103.81.104.118/hls/stream12.m3u8
+http://192.99.54.242/spo/STAR_SPORTS_SELECT_1/index.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-
+http://192.99.54.242/spo/STAR_SPORTS_SELECT_2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 01
