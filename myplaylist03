@@ -168,9 +168,9 @@ http://192.99.54.242/spo/STAR_SPORTS_2/index.m3u8
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.81.104.118/hls/stream12.m3u8
-http://192.99.54.242/spo/STAR_SPORTS_SELECT_1/index.m3u8
+http://178.62.107.180/woh/index.m3u8?id=48110
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-http://192.99.54.242/spo/STAR_SPORTS_SELECT_2/index.m3u8
+http://178.62.107.180/woh/index.m3u8?id=48111
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 01
