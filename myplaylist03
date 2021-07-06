@@ -115,7 +115,8 @@ http://103.153.39.34:8000/play/a046/index.m3u8
 
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-http://89.41.180.253:8080/INDIA_HINDI/SONY_PIX_HD/index.m3u8
+#http://89.41.180.253:8080/INDIA_HINDI/SONY_PIX_HD/index.m3u8
+http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movie",Lotus Macau
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
@@ -139,7 +140,8 @@ http://103.106.243.163:8181/18/index.m3u8
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
 http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
-http://103.81.104.118/hls/stream11.m3u8
+#http://103.81.104.118/hls/stream11.m3u8
+http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
