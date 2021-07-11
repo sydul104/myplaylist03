@@ -145,10 +145,10 @@ http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
 http://45.127.244.7:8080/hls/channel5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 #http://103.205.133.48/hls/ten3.m3u8
-http://45.127.244.7:8080/hls/channel7.m3u8
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
 #http://103.106.243.163:8181/18/index.m3u8
 http://tv.pmcon.net/hls/stream10.m3u8
