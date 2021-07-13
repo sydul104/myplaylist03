@@ -181,6 +181,10 @@ http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 
+#EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
+#http://152.89.62.111:8080/88888/99999/222647
+http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RE
+
 #EXTINF: -1 tvg-logo="" group-title="SPORTS",Sky Sports Cricket HD
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
