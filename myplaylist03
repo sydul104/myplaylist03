@@ -45,18 +45,17 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
-#http://103.81.104.118/hls/stream9.m3u8
-http://103.109.56.116/live/skyfeed1015/index.m3u8
+#http://103.109.56.116/live/skyfeed1015/index.m3u8
+http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
-#http://tv.pmcon.net/hls/stream13.m3u8
 #http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #http://103.157.237.18:8000/play/502
 http://tv.pmcon.net/hls/stream13.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO Wild
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp Bangla
-#http://tv.pmcon.net/hls/stream37.m3u8
-https://wyjs.tk/index.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#https://wyjs.tk/index.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://103.157.237.18:8000/play/507
 http://tv.pmcon.net/hls/stream13.m3u8
@@ -196,20 +195,21 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-#http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
+#http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-#http://tv.pmcon.net/hls/stream15.m3u8
-http://178.62.107.180/woh/index.m3u8?id=48105
+#http://178.62.107.180/woh/index.m3u8?id=48105
+http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://178.62.107.180/woh/index.m3u8?id=48103
-http://103.157.237.18:8000/play/604
+#http://103.157.237.18:8000/play/604
+http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://103.157.237.18:8000/play/605
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-#http://tv.pmcon.net/hls/stream12.m3u8
-http://178.62.107.180/woh/index.m3u8?id=48110
+#http://178.62.107.180/woh/index.m3u8?id=48110
+http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
 http://178.62.107.180/woh/index.m3u8?id=48111
