@@ -143,18 +143,17 @@ https://aslive.club/cn/sports/gtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
 https://cutt.ly/QmDsSSU
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1
 #http://45.127.244.7:8080/hls/channel9.m3u8
-https://jio.instream.ml/jio.php?c=Ten_HD&q=800&e=.m3u8
+https://aslive.club/cn/sports/ten1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
+http://103.157.237.18:8000/play/612
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
-http://103.157.237.18:8000/play/613
+https://aslive.club/cn/sports/ten2/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
 http://199.66.95.242:80/3/3094/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
-http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 #http://103.109.56.116/live/skyfeed1019/index.m3u8
-#https://jio.instream.ml/jio.php?c=Ten3_HD&q=800&e=.m3u8
 http://103.157.237.18:8000/play/616
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
 #https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
@@ -209,10 +208,13 @@ http://tv.pmcon.net/hls/stream16.m3u8
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://178.62.107.180/woh/index.m3u8?id=48110
+#http://103.157.237.18:8000/play/608
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
-http://178.62.107.180/woh/index.m3u8?id=48111
+#http://178.62.107.180/woh/index.m3u8?id=48111
+http://103.157.237.18:8000/play/610
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 01
