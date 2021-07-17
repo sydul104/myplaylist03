@@ -122,13 +122,14 @@ https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 http://103.157.237.18:8000/play/337
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 #http://103.153.39.34:8000/play/a046/index.m3u8
-https://aslive.club/cn/hindi/sonymax/chunks.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
 
 
 
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-https://aslive.club/cn/english/sonypix/chunks.m3u8
+#https://aslive.club/cn/english/sonypix/chunks.m3u8
+http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movie",Lotus Macau
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
