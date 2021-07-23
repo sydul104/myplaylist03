@@ -138,8 +138,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
 http://103.157.237.18:8000/play/630
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
-http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
-
+#http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
+http://103.157.237.18:8000/play/630
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
@@ -178,8 +178,11 @@ http://tv.pmcon.net/hls/stream34.m3u8
 http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.q
+a.png" group-title="SPORTS",BeIN Sports 3 Cricket
+#http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?token=sydul
+
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Max
 #EXTINF:-160 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 5 MAX
 
@@ -187,17 +190,18 @@ http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
 http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://212.224.98.208:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
+http://212.224.98.208:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=sydul
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
 #http://152.89.62.111:8080/88888/99999/222647
-http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RE
+http://212.224.98.204:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=sydul
 
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33654
 #EXTINF: -1 tvg-logo="" group-title="SPORTS",Sky Sports Cricket HD
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
-#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33654
+
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
