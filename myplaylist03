@@ -138,8 +138,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
 http://103.157.237.18:8000/play/630
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
-#http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
-http://103.157.237.18:8000/play/630
+http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
@@ -178,8 +177,7 @@ http://tv.pmcon.net/hls/stream34.m3u8
 http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.q
-a.png" group-title="SPORTS",BeIN Sports 3 Cricket
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
 #http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?token=sydul
 
