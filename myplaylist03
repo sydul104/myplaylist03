@@ -49,7 +49,8 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
 #http://103.109.56.116/live/skyfeed1015/index.m3u8
-http://tv.pmcon.net/hls/stream9.m3u8
+#http://tv.pmcon.net/hls/stream9.m3u8
+http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #http://103.157.237.18:8000/play/502
@@ -58,7 +59,8 @@ http://tv.pmcon.net/hls/stream13.m3u8
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp Bangla
 #https://wyjs.tk/index.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-http://tv.pmcon.net/hls/stream37.m3u8
+#http://tv.pmcon.net/hls/stream37.m3u8
+http://180.210.191.2/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://103.157.237.18:8000/play/507
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
@@ -131,7 +133,8 @@ http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=RK
 
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-http://tv.pmcon.net/hls/stream1.m3u8
+#http://tv.pmcon.net/hls/stream1.m3u8
+https://is.gd/ObFrpt
 #EXTINF:-1 tvg-logo="" group-title="English Movie",Lotus Macau
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
@@ -214,19 +217,19 @@ http://103.157.237.18:8000/play/601
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-#http://178.62.107.180/woh/index.m3u8?id=48105
-http://tv.pmcon.net/hls/stream15.m3u8
+#http://tv.pmcon.net/hls/stream15.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?syduliptv
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-#http://178.62.107.180/woh/index.m3u8?id=48103
 #http://103.157.237.18:8000/play/604
-http://tv.pmcon.net/hls/stream16.m3u8
+#http://tv.pmcon.net/hls/stream16.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?syduliptv
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://103.157.237.18:8000/play/605
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-#http://178.62.107.180/woh/index.m3u8?id=48110
 #http://103.157.237.18:8000/play/608
-http://tv.pmcon.net/hls/stream12.m3u8
+#http://tv.pmcon.net/hls/stream12.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.157.237.18:8000/play/610
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
@@ -251,24 +254,5 @@ http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2
 http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E07.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 08
 http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E08.mkv
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Aste ladis E 01
-http://103.152.18.18/Data/Tv%20Series/Bangla/Astey%20Ladies//Season%201/S01%20E01.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Aste ladis E 02
-http://103.152.18.18/Data/Tv%20Series/Bangla/Astey%20Ladies//Season%201/S01%20E02.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Aste ladis E 03
-http://103.152.18.18/Data/Tv%20Series/Bangla/Astey%20Ladies//Season%201/S01%20E03.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Aste ladis E 04
-http://103.152.18.18/Data/Tv%20Series/Bangla/Astey%20Ladies//Season%201/S01%20E04.mp4
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Bou keno psycho E 1
-http://103.152.18.18/Data/Tv%20Series/Bangla/Bou%20Keno%20Psycho/Season%201/S01%20E01.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Bou keno psycho E 2
-http://103.152.18.18/Data/Tv%20Series/Bangla/Bou%20Keno%20Psycho/Season%201/S01%20E02.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Bou keno psycho E 3
-http://103.152.18.18/Data/Tv%20Series/Bangla/Bou%20Keno%20Psycho/Season%201/S01%20E03.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series", Bou keno psycho E 4
-http://103.152.18.18/Data/Tv%20Series/Bangla/Bou%20Keno%20Psycho/Season%201/S01%20E04.mp4
 
 
