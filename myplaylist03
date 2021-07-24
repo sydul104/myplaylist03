@@ -136,16 +136,17 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
-http://103.157.237.18:8000/play/630
+#http://103.157.237.18:8000/play/630
+http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
-http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
+http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
 http://199.66.95.242/3/3093/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
-http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=RK
+http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1
 http://103.157.237.18:8000/play/612
@@ -223,6 +224,7 @@ http://tv.pmcon.net/hls/stream12.m3u8
 #http://103.157.237.18:8000/play/610
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
 http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
+
 
 
 
