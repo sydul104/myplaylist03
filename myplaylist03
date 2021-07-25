@@ -146,13 +146,13 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.153.39.34:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 #http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
-http://103.157.237.18:8000/play/630
+http://103.157.237.18:8000/play/630?sydul
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports HD
-http://103.157.237.18:8000/play/630
+http://103.157.237.18:8000/play/630?sydul
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
-http://199.66.95.242/3/3093/tracks-v1a1/mono.m3u8?token=test
+http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
 http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
@@ -164,7 +164,7 @@ http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
-http://199.66.95.242:80/3/3094/index.m3u8?token=test
+http://103.157.237.18:8000/play/613
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
@@ -173,7 +173,7 @@ http://103.157.237.18:8000/play/616
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
 #http://199.66.95.242:80/3/3096/index.m3u8?token=test
-http://103.157.237.18:8000/play/618
+http://103.157.237.18:8000/play/618?sydul
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
@@ -227,7 +227,7 @@ http://103.157.237.18:8000/play/602
 #http://103.157.237.18:8000/play/604
 #http://tv.pmcon.net/hls/stream16.m3u8
 #http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?syduliptv
-http://103.157.237.18:8000/play/604
+http://103.157.237.18:8000/play/604?sydul
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://103.157.237.18:8000/play/605
 http://103.109.56.116/live/skyfeed1022/index.m3u8
