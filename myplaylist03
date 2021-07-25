@@ -100,6 +100,8 @@ https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",MTV Beats HD
 
+#EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
@@ -155,31 +157,32 @@ http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
 http://103.153.39.34:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 #http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
-http://103.157.237.18:8000/play/630?sydul
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports HD
-http://103.157.237.18:8000/play/630?sydul
+#http://103.157.237.18:8000/play/630?sydul
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-#http://tv.pmcon.net/hls/stream15.m3u8
+http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?syduliptv
-http://103.157.237.18:8000/play/602
+#http://103.157.237.18:8000/play/602
+http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-#http://103.157.237.18:8000/play/604
-#http://tv.pmcon.net/hls/stream16.m3u8
 #http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?syduliptv
-http://103.157.237.18:8000/play/604?sydul
+#http://103.157.237.18:8000/play/604?sydul
+http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://103.157.237.18:8000/play/605
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-##http://tv.pmcon.net/hls/stream12.m3u8
 #http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
-http://103.157.237.18:8000/play/608
+#http://103.157.237.18:8000/play/608
+http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #http://103.157.237.18:8000/play/610
@@ -192,7 +195,8 @@ http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
-http://103.157.237.18:8000/play/613?sydul
+#http://103.157.237.18:8000/play/613?sydul
+http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
@@ -200,8 +204,8 @@ http://103.157.237.18:8000/play/616
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
-#http://199.66.95.242:80/3/3096/index.m3u8?token=test
-http://103.157.237.18:8000/play/618?sydul
+http://103.109.56.116/live/skyfeed1025/index.m3u8
+#http://103.157.237.18:8000/play/618?sydul
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
