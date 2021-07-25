@@ -159,63 +159,6 @@ http://103.157.237.18:8000/play/630?sydul
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports HD
 http://103.157.237.18:8000/play/630?sydul
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
-http://103.157.237.18:8000/play/612
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
-http://tv.pmcon.net/hls/stream40.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
-http://tv.pmcon.net/hls/stream39.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
-http://103.157.237.18:8000/play/613?sydul
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
-http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
-http://103.157.237.18:8000/play/616
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
-http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
-#http://199.66.95.242:80/3/3096/index.m3u8?token=test
-http://103.157.237.18:8000/play/618?sydul
-
-#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
-#http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
-#http://tv.pmcon.net/hls/stream11.m3u8
-http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
-http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Cricket
-http://tv.pmcon.net/hls/stream34.m3u8
-
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
-http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
-http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
-#http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?syduliptv
-
-#EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
-#http://152.89.62.111:8080/88888/99999/222647
-http://212.102.60.40:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
-
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
-#http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
-http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?syduliptv
-
-#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
-
-
-
-#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33654
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
-
-#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
-
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
@@ -241,6 +184,74 @@ http://103.157.237.18:8000/play/608
 #http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #http://103.157.237.18:8000/play/610
 http://103.109.56.116/live/skyfeed1024/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
+http://103.157.237.18:8000/play/612
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
+http://tv.pmcon.net/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
+http://103.157.237.18:8000/play/613?sydul
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
+http://103.157.237.18:8000/play/616
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
+http://tv.pmcon.net/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
+#http://199.66.95.242:80/3/3096/index.m3u8?token=test
+http://103.157.237.18:8000/play/618?sydul
+
+#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
+#http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
+#http://tv.pmcon.net/hls/stream11.m3u8
+http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Cricket
+http://tv.pmcon.net/hls/stream34.m3u8
+
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
+http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
+http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
+http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token=linksports
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2  Eng
+http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=linksports
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
+#http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?syduliptv
+
+#EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
+http://212.102.60.40:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+#EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
+http://212.102.60.40:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+#EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
+#http://152.89.62.111:8080/88888/99999/222647
+http://212.102.60.40:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
+#http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
+http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?syduliptv
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
+
+#EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33654
+
+#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 01
