@@ -59,8 +59,8 @@ http://tv.pmcon.net/hls/stream13.m3u8
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp Bangla
 #https://wyjs.tk/index.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-#http://tv.pmcon.net/hls/stream37.m3u8
-http://180.210.191.2/hls/stream37.m3u8
+#http://180.210.191.2/hls/stream37.m3u8
+http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://103.157.237.18:8000/play/507
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
@@ -143,10 +143,11 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
-#http://103.157.237.18:8000/play/630
-http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8?syduliptv
+#http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8?syduliptv
+http://103.153.39.34:8000/play/a041/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="SPORTS",T Sports
-http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
+#http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
+http://103.157.237.18:8000/play/630
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
@@ -168,14 +169,15 @@ http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 http://103.157.237.18:8000/play/616
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
-#http://103.157.237.18:8000/play/618
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
-http://199.66.95.242:80/3/3096/index.m3u8?token=test
+#http://199.66.95.242:80/3/3096/index.m3u8?token=test
+http://103.157.237.18:8000/play/618
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
-http://tv.pmcon.net/hls/stream11.m3u8
+#http://tv.pmcon.net/hls/stream11.m3u8
+http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Cricket
@@ -214,28 +216,28 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
+#http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 #http://tv.pmcon.net/hls/stream15.m3u8
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?syduliptv
+#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?syduliptv
+http://103.157.237.18:8000/play/602
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://103.157.237.18:8000/play/604
 #http://tv.pmcon.net/hls/stream16.m3u8
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?syduliptv
+#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?syduliptv
+http://103.157.237.18:8000/play/604
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://103.157.237.18:8000/play/605
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-#http://103.157.237.18:8000/play/608
-#http://tv.pmcon.net/hls/stream12.m3u8
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
+##http://tv.pmcon.net/hls/stream12.m3u8
+#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
+http://103.157.237.18:8000/play/608
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
+#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #http://103.157.237.18:8000/play/610
-#http://103.109.56.116/live/skyfeed1024/index.m3u8
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
-
-
+http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 01
