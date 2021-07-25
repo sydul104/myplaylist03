@@ -157,21 +157,21 @@ http://103.157.237.18:8000/play/630?sydul
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports HD
 http://103.157.237.18:8000/play/630?sydul
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 http://103.157.237.18:8000/play/612
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 http://tv.pmcon.net/hls/stream40.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
 http://103.157.237.18:8000/play/613?sydul
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 http://103.157.237.18:8000/play/616
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony SIX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
-#EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
 #http://199.66.95.242:80/3/3096/index.m3u8?token=test
 http://103.157.237.18:8000/play/618?sydul
 
@@ -208,7 +208,7 @@ http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33654
 
-#EXTINF: -1 tvg-logo="" group-title="SPORTS",Sky Sports Cricket HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
