@@ -141,6 +141,13 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
+http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
+http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 #http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/index.m3u8?syduliptv
 http://103.153.39.34:8000/play/a041/index.m3u8
@@ -150,13 +157,6 @@ http://103.157.237.18:8000/play/630?sydul
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports HD
 http://103.157.237.18:8000/play/630?sydul
 
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
-http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
-
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
-http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1
 http://103.157.237.18:8000/play/612
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 1 HD
@@ -164,7 +164,7 @@ http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 2
-http://103.157.237.18:8000/play/613
+http://103.157.237.18:8000/play/613?sydul
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sony Ten 3 HD
