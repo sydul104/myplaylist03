@@ -48,8 +48,8 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
 #http://103.109.56.116/live/skyfeed1015/index.m3u8
-#http://tv.pmcon.net/hls/stream9.m3u8
-http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+http://tv.pmcon.net/hls/stream9.m3u8
+#http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #http://103.157.237.18:8000/play/502
