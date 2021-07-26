@@ -143,6 +143,11 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-116 tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="WORLD MOVIES",Netflix Comedy
+http://ar148ferrari.referrari.com/live/601361_.m3u8
+#EXTINF:-116 tvg-logo="https://download.logo.wine/logo/Netflix/Netflix-Logo.wine.png" group-title="WORLD MOVIES",Netflix Movies
+http://ar148ferrari.referrari.com/live/601365_.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
 
