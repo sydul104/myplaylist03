@@ -162,8 +162,7 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
 http://103.157.237.18:8000/play/630?sydul
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [S]
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
 
@@ -208,13 +207,12 @@ http://103.157.237.18:8000/play/616
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
-http://103.109.56.116/live/skyfeed1025/index.m3u8
 #http://103.157.237.18:8000/play/618?sydul
+http://103.109.56.116/live/skyfeed1025/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
-#http://tv.pmcon.net/hls/stream11.m3u8
-http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
+http://tv.pmcon.net/hls/stream11.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -232,23 +230,29 @@ http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token=linksports
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2  Eng
 http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=linksports
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
-#http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?syduliptv
+#http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?syduliptv
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+
+
+
 
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
-http://212.102.60.40:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+#http://212.102.60.40:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+http://152.89.62.111:8080/88888/99999/222645
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
-http://212.102.60.40:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+#http://212.102.60.40:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+http://152.89.62.111:8080/88888/99999/222646
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
-#http://152.89.62.111:8080/88888/99999/222647
-http://212.102.60.40:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+#http://212.102.60.40:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?syduliptv
+http://152.89.62.111:8080/88888/99999/222647
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
-#http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
-http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?syduliptv
+#http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?syduliptv
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
+#http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?syduliptv
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28904
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/33654
