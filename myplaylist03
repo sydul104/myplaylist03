@@ -162,6 +162,11 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/index.m3u8?token=sydul
 http://103.157.237.18:8000/play/630?sydul
 
+
+
+
+
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [S]
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
