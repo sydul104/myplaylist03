@@ -49,8 +49,9 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
 #http://103.109.56.116/live/skyfeed1015/index.m3u8
-http://tv.pmcon.net/hls/stream9.m3u8
 #http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+http://tv.pmcon.net/hls/stream9.m3u8
+
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #http://103.157.237.18:8000/play/502
@@ -70,8 +71,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-#http://tv.pmcon.net/hls/stream27.m3u8
-http://212.102.60.40:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?syduliptv
+#http://212.102.60.40:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?syduliptv
+http://tv.pmcon.net/hls/stream27.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
