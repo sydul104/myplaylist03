@@ -153,7 +153,8 @@ http://ar148ferrari.referrari.com/live/601365_.m3u8
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
-http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
+#http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.153.39.34:8000/play/a041/index.m3u8
@@ -175,25 +176,21 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/525
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-#http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
-http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+#http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?syduliptv
 #http://103.157.237.18:8000/play/602
 http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?syduliptv
 #http://103.157.237.18:8000/play/604?sydul
 http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://103.157.237.18:8000/play/605
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
 #http://103.157.237.18:8000/play/608
 http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8
 #http://103.157.237.18:8000/play/610
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 
@@ -232,12 +229,15 @@ http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Eng
-http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token=linksports
+#http://212.224.98.207:2200/EX/bein11hd-ar/index.m3u8?token=linksports
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2  Eng
-http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=linksports
+#http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=linksports
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
 #http://212.102.60.40:2200/EX/beIN_Sports_13_HD-ar/mono.m3u8?syduliptv
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 
 
 
@@ -253,7 +253,6 @@ http://152.89.62.111:8080/88888/99999/222646
 http://152.89.62.111:8080/88888/99999/222647
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
-#http://212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?syduliptv
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/28905
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
