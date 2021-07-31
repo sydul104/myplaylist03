@@ -55,8 +55,8 @@ http://tv.pmcon.net/hls/stream9.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-http://rv.imax.re:80/307210711113/307210711113/83731
-#http://tv.pmcon.net/hls/stream13.m3u8
+#http://rv.imax.re:80/307210711113/307210711113/83731
+http://tv.pmcon.net/hls/stream13.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO Wild
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp Bangla
@@ -70,12 +70,15 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
-http://103.205.133.19/hls/chsj.m3u8
+#http://103.205.133.19/hls/chsj.m3u8
+http://180.210.191.2/hls/stream31.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://212.102.60.40:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?syduliptv
 http://tv.pmcon.net/hls/stream27.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 #http://45.127.244.7:8080/hls/channel13.m3u8
+http://103.157.237.18:8000/play/203
+#EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Tatasky Movies
 http://rv.imax.re:80/307210711113/307210711113/83727
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 http://103.205.133.19/hls/zeebanglahd.m3u8
@@ -83,8 +86,8 @@ http://103.205.133.19/hls/zeebanglahd.m3u8
 #https://piratesiptv.shortcm.li/zeebanglacinema.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
-#http://10.16.100.205/hls/colorsbd480.m3u8
-http://103.205.133.19/hls/colorsbangla.m3u8
+#http://103.205.133.19/hls/colorsbangla.m3u8
+http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
