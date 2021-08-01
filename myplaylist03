@@ -160,6 +160,9 @@ http://ar148ferrari.referrari.com/live/601365_.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
+http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHV
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 2
 #http://212.224.98.207:2200/TR/watan2-afg/tracks-v1a1/mono.m3u8?token=sydul
@@ -277,6 +280,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8
 
 
 
