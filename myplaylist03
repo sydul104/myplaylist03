@@ -48,16 +48,18 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
-http://103.109.56.116/live/skyfeed1015/index.m3u8
 #http://mygoodstream.pw/proxy.php/http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #http://rv.imax.re:80/307210711113/307210711113/83741
 #http://tv.pmcon.net/hls/stream9.m3u8
 #http://103.81.104.118/hls/stream9.m3u8
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-http://rv.imax.re:80/307210711113/307210711113/83731
 #http://tv.pmcon.net/hls/stream13.m3u8
 #http://103.81.104.118/hls/stream13.m3u8
+http://rv.imax.re:80/307210711113/307210711113/83731
+
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO Wild
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp Bangla
@@ -105,7 +107,6 @@ http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-79 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUSIC",RTV Music
 #https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 http://rv.imax.re:80/307210711113/307210711113/83783
-#http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-81 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
