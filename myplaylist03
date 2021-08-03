@@ -187,7 +187,7 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://103.157.237.18:8000/play/630?sydul
 #http://rv.imax.re:80/307210711113/307210711113/83850
-#http://209.126.120.155/hls//tsports.m3u8
+http://209.126.120.155/hls//tsports.m3u8
 
 
 
