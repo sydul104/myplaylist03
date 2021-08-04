@@ -148,12 +148,11 @@ http://rv.imax.re:80/307210711113/307210711113/83850
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
-http://luckonline.eu:8080/17424/cnyzqDETiP/1371
+http://103.153.39.34:8000/play/a040/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-http://luckonline.eu:8080/17424/cnyzqDETiP/1369
+http://smart.hdtv112.com:8080/streaming/clients_live.php?extension=ts&username=flussonicperveeti&password=uWRmys3E6r&stream=28333&type=hls
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-#http://103.153.39.34:8000/play/a041/index.m3u8
-http://luckonline.eu:8080/17424/cnyzqDETiP/1370
+http://103.153.39.34:8000/play/a041/index.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
