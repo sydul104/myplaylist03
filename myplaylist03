@@ -49,13 +49,16 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
-http://103.109.56.116/live/skyfeed1015/index.m3u8
+#http://103.109.56.116/live/skyfeed1015/index.m3u8
+http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
-http://rv.imax.re:80/307210711113/307210711113/83731
+#http://rv.imax.re:80/307210711113/307210711113/83731
+http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO Wild
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+http://103.81.104.118/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 http://mygoodstream.pw/proxy.php/http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
@@ -64,7 +67,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
+#http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
+http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Tatasky Movies
@@ -123,10 +127,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
-#http://103.157.237.18:8000/play/337
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#http://45.127.244.7:8080/hls/channel14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 http://103.153.39.34:8000/play/a046/index.m3u8
+#EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",Risty Cinaplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 https://is.gd/ObFrpt
@@ -145,7 +150,7 @@ http://jupiter.bdcabletv.com/willow_hd-sim/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://rv.imax.re:80/307210711113/307210711113/83850
+
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [S]
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
@@ -154,22 +159,25 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/525
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://103.153.39.34:8000/play/a040/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
-http://103.109.56.116/live/skyfeed1023/index.m3u8
+#http://103.109.56.116/live/skyfeed1023/index.m3u8
+http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://103.153.39.34:8000/play/a041/index.m3u8
+#http://103.153.39.34:8000/play/a041/index.m3u8
+http://103.81.104.118/hls/stream16.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-http://103.109.56.116/live/skyfeed1023/index.m3u8
+#http://103.109.56.116/live/skyfeed1023/index.m3u8
+http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
-
+http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
-
+http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 
@@ -178,7 +186,7 @@ http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
-
+http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
 http://103.109.56.116/live/skyfeed1025/index.m3u8
 
@@ -204,9 +212,9 @@ http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
 
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
-http://152.89.62.111:8080/88888/99999/222645
+http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
-http://152.89.62.111:8080/88888/99999/222646
+http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
 http://152.89.62.111:8080/88888/99999/222647
 
@@ -259,12 +267,14 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 
+#EXTINF:-1 tvg-name="S tar Sports Bangla" group-title="SPORTS HD",S tar Sports Bangla
+http://luckonline.eu:8080/17424/cnyzqDETiP/502
+#EXTINF:-1 tvg-name="S TAR SPRTS HD1 Hindi" group-title="SPORTS HD",S TAR SPRTS HD1 Hindi
+http://luckonline.eu:8080/17424/cnyzqDETiP/1371
 #EXTINF:-1 tvg-name="S TAR SPRTS HD1" group-title="SPORTS HD",S TAR SPRTS HD1
 http://luckonline.eu:8080/17424/cnyzqDETiP/1369
 #EXTINF:-1 tvg-name="ind: S tar sports HD1" group-title="SPORTS HD",ind: S tar sports HD1
 http://luckonline.eu:8080/17424/cnyzqDETiP/1063
-#EXTINF:-1 tvg-name="S TAR SPRTS HD1 Hindi" group-title="SPORTS HD",S TAR SPRTS HD1 Hindi
-http://luckonline.eu:8080/17424/cnyzqDETiP/1371
 #EXTINF:-1 tvg-name="ind: S tar sprts HD1 HINDI" group-title="SPORTS HD",ind: S tar sprts HD1 HINDI
 http://luckonline.eu:8080/17424/cnyzqDETiP/1065
 #EXTINF:-1 tvg-name="S TAR SPRTS HD2" group-title="SPORTS HD",S TAR SPRTS HD2
@@ -277,8 +287,6 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/1125
 http://luckonline.eu:8080/17424/cnyzqDETiP/1315
 #EXTINF:-1 tvg-name="S TAR SPRTS 1 TAMIL" group-title="SPORTS HD",S TAR SPRTS 1 TAMIL
 http://luckonline.eu:8080/17424/cnyzqDETiP/1529
-#EXTINF:-1 tvg-name="S tar Sports Bangla" group-title="SPORTS HD",S tar Sports Bangla
-http://luckonline.eu:8080/17424/cnyzqDETiP/502
 #EXTINF:-1 tvg-name="S tar sprts Kanada" group-title="SPORTS HD",S tar sprts Kanada
 http://luckonline.eu:8080/17424/cnyzqDETiP/501
 #EXTINF:-1 tvg-name="S tar sprts Telugu" group-title="SPORTS HD",S tar sprts Telugu
