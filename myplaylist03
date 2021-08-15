@@ -173,7 +173,9 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 #http://103.109.56.116/live/skyfeed1023/index.m3u8
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-http://103.109.56.116/live/skyfeed1024/index.m3u8
+#http://103.109.56.116/live/skyfeed1024/index.m3u8
+http://182.176.169.29:7000/play/a0fd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 http://45.127.244.7:8080/hls/channel6.m3u8
