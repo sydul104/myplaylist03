@@ -164,10 +164,8 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [S]
-#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
-http://103.81.104.118/hls/Gazi-TV.m3u8
+
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 http://luckonline.eu:8080/17424/cnyzqDETiP/502
@@ -225,13 +223,39 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/1372
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
-
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
-
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
+#http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
+#http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",BeIN Sports 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-1
+http://1.adrawayoun.xyz/live/103/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-2
+http://1.adrawayoun.xyz/live/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-3
+http://1.adrawayoun.xyz/live/105/index.m3u8
 
+#EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
+http://77.83.117.60:8888//02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
+http://77.83.117.60:8888//02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-149 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
 http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -260,15 +284,6 @@ http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
 
-#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro-1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro-2
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro-3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro-4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="SPORTS", Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
@@ -280,114 +295,6 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="SPORTS", Super Sports 5
 http://93.157.62.180/Supersport5/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDCErVN.png" group-title="SPORTS", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="SPORTS", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOUauO8.png" group-title="SPORTS", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
-
-#EXTINF:-1 tvg-name="S tar Sports Bangla" group-title="SPORTS HD",S tar Sports Bangla
-http://luckonline.eu:8080/17424/cnyzqDETiP/502
-#EXTINF:-1 tvg-name="S TAR SPRTS HD1 Hindi" group-title="SPORTS HD",S TAR SPRTS HD1 Hindi
-http://luckonline.eu:8080/17424/cnyzqDETiP/1371
-#EXTINF:-1 tvg-name="S TAR SPRTS HD1" group-title="SPORTS HD",S TAR SPRTS HD1
-http://luckonline.eu:8080/17424/cnyzqDETiP/1369
-#EXTINF:-1 tvg-name="ind: S tar sports HD1" group-title="SPORTS HD",ind: S tar sports HD1
-http://luckonline.eu:8080/17424/cnyzqDETiP/1063
-#EXTINF:-1 tvg-name="ind: S tar sprts HD1 HINDI" group-title="SPORTS HD",ind: S tar sprts HD1 HINDI
-http://luckonline.eu:8080/17424/cnyzqDETiP/1065
-#EXTINF:-1 tvg-name="S TAR SPRTS HD2" group-title="SPORTS HD",S TAR SPRTS HD2
-http://luckonline.eu:8080/17424/cnyzqDETiP/1370
-#EXTINF:-1 tvg-name="ind: S tar sprts HD2" group-title="SPORTS HD",ind: S tar sprts HD2
-http://luckonline.eu:8080/17424/cnyzqDETiP/1066
-#EXTINF:-1 tvg-name="S TAR SPRTS SELECT HD1" group-title="SPORTS HD",S TAR SPRTS SELECT HD1
-http://luckonline.eu:8080/17424/cnyzqDETiP/1125
-#EXTINF:-1 tvg-name="S tar sprts select HD2" group-title="SPORTS HD",S tar sprts select HD2
-http://luckonline.eu:8080/17424/cnyzqDETiP/1315
-#EXTINF:-1 tvg-name="S TAR SPRTS 1 TAMIL" group-title="SPORTS HD",S TAR SPRTS 1 TAMIL
-http://luckonline.eu:8080/17424/cnyzqDETiP/1529
-#EXTINF:-1 tvg-name="S tar sprts Kanada" group-title="SPORTS HD",S tar sprts Kanada
-http://luckonline.eu:8080/17424/cnyzqDETiP/501
-#EXTINF:-1 tvg-name="S tar sprts Telugu" group-title="SPORTS HD",S tar sprts Telugu
-http://luckonline.eu:8080/17424/cnyzqDETiP/500
-#EXTINF:-1 tvg-name="Sly Sprts main evnt HD" group-title="SPORTS HD",Sly Sprts main evnt HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/504
-#EXTINF:-1 tvg-name="Sly Sprts Main evnt SD" group-title="SPORTS HD",Sly Sprts Main evnt SD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2479
-#EXTINF:-1 tvg-name="Sly Sprts Cricket  HD" group-title="SPORTS HD",Sly Sprts Cricket  HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2480
-#EXTINF:-1 tvg-name="Sly Sprts Cricket SD" group-title="SPORTS HD",Sly Sprts Cricket SD
-http://luckonline.eu:8080/17424/cnyzqDETiP/505
-#EXTINF:-1 tvg-name="Sly Sprts action HD" group-title="SPORTS HD",Sly Sprts action HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/506
-#EXTINF:-1 tvg-name="TEN 1 HD" group-title="SPORTS HD",TEN 1 HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/497
-#EXTINF:-1 tvg-name="TEN 2 HD" group-title="SPORTS HD",TEN 2 HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/513
-#EXTINF:-1 tvg-name="TEN 3 HD" group-title="SPORTS HD",TEN 3 HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/518
-#EXTINF:-1 tvg-name="TEN 4 Tamil" group-title="SPORTS HD",TEN 4 Tamil
-http://luckonline.eu:8080/17424/cnyzqDETiP/512
-#EXTINF:-1 tvg-name="ASTRO FOOTBALL" group-title="SPORTS HD",ASTRO FOOTBALL
-http://luckonline.eu:8080/17424/cnyzqDETiP/1064
-#EXTINF:-1 tvg-name="Astro Cricket" group-title="SPORTS HD",Astro Cricket
-http://luckonline.eu:8080/17424/cnyzqDETiP/516
-#EXTINF:-1 tvg-name="FOX Cricket" group-title="SPORTS HD",FOX Cricket
-http://luckonline.eu:8080/17424/cnyzqDETiP/1755
-#EXTINF:-1 tvg-name="Ten cricket" group-title="SPORTS HD",Ten cricket
-http://luckonline.eu:8080/17424/cnyzqDETiP/510
-#EXTINF:-1 tvg-name="TEN SPRTS PK" group-title="SPORTS HD",TEN SPRTS PK
-http://luckonline.eu:8080/17424/cnyzqDETiP/1372
-#EXTINF:-1 tvg-name="Sony SIX Bengali" group-title="SPORTS HD",Sony SIX Bengali
-http://luckonline.eu:8080/17424/cnyzqDETiP/514
-#EXTINF:-1 tvg-name="B IN Sprts USA" group-title="SPORTS HD",B IN Sprts USA
-http://luckonline.eu:8080/17424/cnyzqDETiP/1955
-#EXTINF:-1 tvg-name="B IN Sprts 1 HD" group-title="SPORTS HD",B IN Sprts 1 HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2253
-#EXTINF:-1 tvg-name="B IN Sprts 2 HD" group-title="SPORTS HD",B IN Sprts 2 HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/3058
-#EXTINF:-1 tvg-name="B IN Sprts 3 HD" group-title="SPORTS HD",B IN Sprts 3 HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/3059
-#EXTINF:-1 tvg-name="B IN Sprts 4HD" group-title="SPORTS HD",B IN Sprts 4HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2250
-#EXTINF:-1 tvg-name="B IN Sprts 5HD" group-title="SPORTS HD",B IN Sprts 5HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2249
-#EXTINF:-1 tvg-name="B IN Sprts 6HD" group-title="SPORTS HD",B IN Sprts 6HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2248
-#EXTINF:-1 tvg-name="B IN Sprts 7HD" group-title="SPORTS HD",B IN Sprts 7HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2247
-#EXTINF:-1 tvg-name="B IN Sprts 8HD" group-title="SPORTS HD",B IN Sprts 8HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2246
-#EXTINF:-1 tvg-name="B IN Sprts 9HD" group-title="SPORTS HD",B IN Sprts 9HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2245
-#EXTINF:-1 tvg-name="B IN Sprts 10HD" group-title="SPORTS HD",B IN Sprts 10HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/2244
-#EXTINF:-1 tvg-name="B IN Sprts 1HD ENG" group-title="SPORTS HD",B IN Sprts 1HD ENG
-http://luckonline.eu:8080/17424/cnyzqDETiP/2243
-#EXTINF:-1 tvg-name="B IN Sprts 2HD ENG" group-title="SPORTS HD",B IN Sprts 2HD ENG
-http://luckonline.eu:8080/17424/cnyzqDETiP/2242
-#EXTINF:-1 tvg-name="B IN Sprts 3HD ENG" group-title="SPORTS",B IN Sprts 3HD ENG
-http://luckonline.eu:8080/17424/cnyzqDETiP/1124
-#EXTINF:-1 tvg-name="B IN SportS 1 FR" group-title="SPORTS HD",B IN SportS 1 FR
-http://luckonline.eu:8080/17424/cnyzqDETiP/1003
-#EXTINF:-1 tvg-name="B IN Sports 2 FR" group-title="SPORTS HD",B IN Sports 2 FR
-http://luckonline.eu:8080/17424/cnyzqDETiP/1004
-#EXTINF:-1 tvg-name="B IN Sprts ES" group-title="SPORTS HD",B IN Sprts ES
-http://luckonline.eu:8080/17424/cnyzqDETiP/529
-#EXTINF:-1 tvg-name="B IN SPRTS MAX 4" group-title="SPORTS HD",B IN SPRTS MAX 4
-http://luckonline.eu:8080/17424/cnyzqDETiP/1139
-#EXTINF:-1 tvg-name="B IN SPRTS MAX 5" group-title="SPORTS HD",B IN SPRTS MAX 5
-http://luckonline.eu:8080/17424/cnyzqDETiP/1069
-#EXTINF:-1 tvg-name="Sly Sprts 1HD DE" group-title="SPORTS HD",Sly Sprts 1HD DE
-http://luckonline.eu:8080/17424/cnyzqDETiP/530
-#EXTINF:-1 tvg-name="Sly Sprt 2HD DE" group-title="SPORTS",Sly Sprt 2HD DE
-http://luckonline.eu:8080/17424/cnyzqDETiP/531
-#EXTINF:-1 tvg-name="Boxoffice PPV" group-title="SPORTS HD",Boxoffice PPV
-http://luckonline.eu:8080/17424/cnyzqDETiP/1423
 
 
 
@@ -407,6 +314,9 @@ http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2
 http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E07.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 08
 http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E08.mkv
+
+#EXTINF:-1 group-title="BANGLA MOVIES",Tumi Ashbe Bole (2021)
+http://mymoviebazar.net/Data/movies/indian%20bangla/new/Tumi%20Ashbe%20Bole%20(2021)/Tumi.Ashbe.Bole.2021.1080p.DSNP.WEB-DL.AAC2.0.x264-Telly.mp4
 
 #EXTINF:-1 group-title="HINDI MOVIES",Meri Pyari Bindu (2017)
 http://cdn.bdflix.ml/0:/Movies/BOLLYWOOD/M/Meri%20Pyaari%20Bindu%20(2017)%20-%201080p.h264.AC3.6ch.mkv
@@ -457,142 +367,6 @@ http://content.discoveryftp.net/Movies/Hindi/2019/Junglee/Junglee%20(2019)%20108
 #EXTINF:-1 group-title="HINDI MOVIES",Mission Mangal (2019)
 http://content.discoveryftp.net/Movies/Hindi/2019/Mission%20Mangal/Mission%20Mangal%20(2019)%20Hindi%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.2GB%20-%20ESub.mp4
 
-#EXTINF:-1 group-title="BANGLA MOVIES",Tumi Ashbe Bole (2021)
-http://mymoviebazar.net/Data/movies/indian%20bangla/new/Tumi%20Ashbe%20Bole%20(2021)/Tumi.Ashbe.Bole.2021.1080p.DSNP.WEB-DL.AAC2.0.x264-Telly.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Bromhodoityo (2020)
-http://content.discoveryftp.net/Movies/Bangla/2020/Bromhodoityo/Bromhodoityo%202020%20Bengali%201080P%20WEBDL%20x264%20AVC%20AAC%20[shadow]%20!!Exclusive!!.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Asur (2020)
-http://content.discoveryftp.net/Movies/Bangla/2020/Asur/Asur.2020.WEB-DL.MLSBD_1920x1080_b37bda6c3f2e06cc.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Love Aaj Kal Porshu (2020)
-http://content.discoveryftp.net/Movies/Bangla/2020/Love%20Aaj%20Kal%20Porshu/LAKP.MSLBD.CO.1080P.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Tui Amar Hero (2020)
-http://content.discoveryftp.net/Movies/Bangla/2020/Tui%20Amar%20Hero/Tui%20Amar%20Hero%20(2020)%201080p%20WEBDL.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Kathbirali (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Kathbirali/Kathbirali%20(2019)%20Bengali%20UNTOUCHED%20720p%20Hoichoi%20WEB-DL%20x264%20AACDD+2.0%20800MB.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Robibaar (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Robibaar/Robibaar%202019%20Bengali%201080P%20WEBRiP%20x265%20HEVC%20AAC%20[shadow].mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Konttho (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Konttho/KNTHO_MLSBD.CO_1920x1080+0d6e0bde4e9e85c2.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Jamai Badal (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Jamai%20Badal/JB.MLSBD.CO_1920x1080%208f98d56edddaf2d9.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Shankar Mudi (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Shankar%20Mudi/Shankar_Mudi_2019_MLSBD_1920x1080+d50eb531d67479b5.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Goyenda Junior (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Goyenda%20Junior/Goyenda%20Junior%20(2019)%201080p%20WEBDL.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Panther Hindustan Meri Jaan (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Panther%20Hindustan%20Meri%20Jaan/Panther%20Hindustan%20Meri%20Jaan%20Bengali%20(2019)%20720p%20WEBHD%20By%20SagarSingha(TeamDMR)%201st%20On%20Net.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Password B (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Password%20B/Password%20(2019)%20Bengali%20WEB-DL%20720p.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Parineeta (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Parineeta/Parineeta.2019.1080p.WEB-DL.AAC.x264.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Bibaho Obhijaan (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Bibaho%20Obhijaan/Bibaho%20Obhijaan%20(2019)%20Bengali%20720p%20WEB-DL%20x264%20[TeamSahdow].mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Ahaa Re (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Ahaa%20Re/Ahaa%20Re%20(2019)%20Bengali%20Full%20Movie%20720p%20HDRip%201.3GB%20x264%20AAC.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Password (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Password/Password%202019%20Bengali%20Movie%20DEV%20720p%20HDRip%20700MB%20MKV.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Bhokatta (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Bhokatta/Bhokatta%20(2019)%20720p%20HDRip.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Baccha Shoshur (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Baccha%20Shoshur/Baccha%20shoshur%20[2019]%20Beng.%20Movie%201080p%20Webdl%20x%20264%20AVC%20AAC%20[Cinemaghar]%20-%20xclusive%20.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Shesh Theke Shuru (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Shesh%20Theke%20Shuru/Shesh%20Theke%20Shuru%20[2019]%20Bengali%20Movie%201080p%20Untouched%20Webdl%20x%20264%20AVC%20AAC%20-%20[Cinemaghar]%20-%20Xclusive.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Ke Tumi Nandini (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Ke%20Tumi%20Nandini/Ke%20Tumi%20Nandini%20(2019)%20Bengali%20720p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Kidnap (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Kidnap/Kidnap_WEB-DL_.CO_1920x1080+b300315131b806e6.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Prem Amar 2 (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Prem%20Amar%202/Prem%20Amar%202%20(2019)%20720p%20WEBDL%20.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Durgeshgorer Guptodhon (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Durgeshgorer%20Guptodhon/Durgeshgorer%20Guptodhon%202019%20Bengali%201080P%20WEBRiP%2010%20bit%20x265%20HEVC%20AC3%20[shadow].mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Bhoot Chaturdashi (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Bhoot%20Chaturdashi/Bhoot%20Chaturdashi%20(2019)%20Bengali%20AMZN%20WEB-DL%201080p%20H265%20HEVC%20DD+5.1-BonsaiHD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Mon Jane Na (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Mon%20Jane%20Na/HDFilmBoss.info-Mon%20Jane%20na%20(2019)%20Bengali%201080p%20WEB-DL%20x264%20AAC%201.7GB.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Onek Diner Pore (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Onek%20Diner%20Pore/Onek%20Diner%20Pore%20(2019)%20Bengali%20720p%20WEBRip%20x264%20AAC%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Thai Curry (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Thai%20Curry/Thai%20Curry%20(2019)%20Bengali%20720p%20HDRip%20x264%20AAC%20-UnknownStAr.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Jodi Ekdin (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Jodi%20Ekdin/Jodi%20Ekdin%20(2019)%201080p%20WEBHD.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",The Lovely Mrs Mookherjee (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/The%20Lovely%20Mrs%20Mookherjee/The%20Lovely%20Mrs%20Mookherjee%20(2019)%20Bengali%20720p%20HDRip%20x264%20AAC%20[TeamMS].mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Bobbyr Bondhura (2019)
-http://content.discoveryftp.net/Movies/Bangla/2019/Bobbyr%20Bondhura/Bobbyr%20Bondhura%20(2019)%201080p%20WEBDL.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Dupur Thakurpo (2017)
-http://content.discoveryftp.net/Movies/Bangla/2017/Dupur%20Thakurpo/dupor%20thakor%20po.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Dupur Thakurpo 2 (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Dupur%20Thakurpo%202/Dupur%20Thakurpo%202%202018%20S2-E1-E5%20Bengali%20Web%20Series%20x264%20MP4.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Mitter Parar Maradona (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Mitter%20Parar%20Maradona/Mitter%20Parar%20Maradona%20(2018)%20Zee5%20Premium%20%20Bangla%20Movie%20%201080p%20WEB-DL%20AVC%20AAC%20REO.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Suitcase (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Suitcase/Suitcase%202018%20Zee5%20Premium%20%20Bangla%20Movie%201080p%20WEB-DL%20AVC%20AAC%20REO.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Girlfriend (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Girlfriend/Girlfriend%20(2018)%20Bengali%20720p%20HDRip%20x264%20AAC.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Villain (2018)
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Villain%20%282018%29/Villain.2018.Hoichoi.1080p.WEB-DL.AAC.264-TimepassBD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Captain Khan (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Captain%20Khan/SkyMoviesHD.in%20-%20Captain%20Khan%20(2018)%20Bangla%20Movie%20Original%20HDRip%20[NO%20Harbal%20ADS]%20720p%20x264%20[1.2].mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Hoichoi Unlimited (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Hoichoi%20Unlimited/Hoichoi%20Unlimited%20(2018)%20720p%20HDTVRip.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Chittagainga Powa Noakhailla Maia (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Chittagainga%20Powa%20Noakhailla%20Maia/Chittagainga%20Powa%20Noakhailla%20Maia%20(2018)%20720p%20HDRip.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Bizli Origin (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Bizli%20Origin/Bizli%20(2018)%20720p%20HDRip.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Bagh Bandi Khela (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Bagh%20Bandi%20Khela/Bagh%20Bandi%20Khela%20(2018)%20Bengali%20720p%20NEW%20HDTVRip%20x264%20AAC%20[SM%20Team].mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Honeymoon (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Honeymoon/Honeymoon.2018.Bengali.720p.WEB-DL.H264.AAC2.0%20-%20DTOne.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Dhatteriki (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Dhatteriki/Dhat%20Teri%20Ki%20(2018)%20DVDRip.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Naqaab (Mask)
-http://10.16.100.250/ftps10d1/Movies/Bangla/Naqaab%20(2018)%20720p%20HDTVRip.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Chalbaaz (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Chalbaaz/Chalbaaz%20(2018)%20480p%20CAMPRip.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Sultan The Saviour (2018)
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Sultan%3A%20The%20Saviour%20%282018%29/Sultan%20The%20Saviour%20%282018%29%201080p%20WEB-DL%20H264%20AAC_LillMASTER.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Inspector Notty K (2018)
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Inspector%20Notty%20K%20%282018%29/Inspector%20NottyK%202018%201080p%20AMZN%20WEB-RIP%20H264%20DDP%202.0%20D0T-Telly.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Bhaijaan Elo Re (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Bhaijaan%20Elo%20Re/Bhaijaan%20Elo%20Re%20(2018)%20720p%20HDRip.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Fidaa (2018)
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Fidaa%20%282018%29/Fidaa.2018.Hoichoi.1080p.WEB-DL.AAC.264-TimepassBD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Tumi Sudhu Amar
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Tumi%20Je%20Amar%20%282018%29/Tumi%20Je%20Amar%20%282018%29%201080p%20WEB%20HD%20Rip%20x264%20AAC%20-%20www.come2speed.com.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Total Dadagiri (2018)
-http://content.discoveryftp.net/Movies/Bangla/2018/Total%20Dadagiri/Total%20Dadagiri%20(2018)%20Bengali%20Movie%20720%20DTHRip%20x264%20AAC%20-%201.48GB.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Awara
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2012/Awara%20%282012%29/Awara%202012.HotStar.1080p.Web-HD.AVC.AAC.2.0.E-Sub.HoTsPuRs.24xHD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",100 percent love
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2012/100%20Percent%20Love%20%282012%29/100%20Percent%20Love%20%282012%29.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Phande Poriya Boga Kande Re (2011)
-http://content.discoveryftp.net/Movies/Bangla/2011/Phande%20Poriya%20Boga%20Kande%20Re/Fande%20Poriya%20Boga%20Kande%20Re.2011.1080p.WEB-DL.AVC.AAC.Torr3ntHD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Bacchan 
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2014/Bachchan%20%282014%29/Bachchan%202014%20Bengali%201080p%20WEB-DL%20AAC%20x264-NLT.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Action
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2014/Action%20%282014%29/Action-TimepassBD.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Bindaas (2014)
-http://content.discoveryftp.net/Movies/Bangla/2014/Bindaas/Bindaas%202014%201080p.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Hero Giri (2015)
-http://content.discoveryftp.net/Movies/Bangla/2015/Hero%20Giri/Herogiri%202015%20[Bengali]%20Untouched%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Ki Kore Toke Bolbo (2016)
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2016/Ki%20Kore%20Toke%20Bolbo%20%282016%29/Ki%20Kore%20Toke%20Bolbo%20%282016%29.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Yoddha (2014)
-http://content.discoveryftp.net/Movies/Bangla/2014/Yoddha/Yoddha.2014.1080p.WEB-DL.AVC.AAC.Torr3ntHD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Jamai 420 (2015)
-http://content.discoveryftp.net/Movies/Bangla/2015/Jamai%20420/Jamai.420.2015.Bengali.1080p.WebHD.AVC.AAC-M2Tv.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Ami Je Ke Tomar (2017)
-http://content.discoveryftp.net/Movies/Bangla/2017/Ami%20Je%20Ke%20Tomar/Ami%20Je%20Ke%20Tomar%20(2017)%20720p%20Untouched%20WEB%20HD%20-%20AVC%20-%20AAC%20-%20Team%20IcTv.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Deewana
-http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2013/Deewana%20%282013%29/Deewana.2013.1080p.Hoichoi%20WEB-DL.H264.AAC-TimepassBD.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Boss (2013)
-http://content.discoveryftp.net/Movies/Bangla/2013/Boss/Boss%202014.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Boss 2
-http://content.discoveryftp.net/Movies/Bangla/2017/Boss%202/Boss%202%20(2017)%20Bengali%20720p%20HDRip%20x264%20AAC%20ESubs%20900MB.mkv
-#EXTINF:-1 group-title="BANGLA MOVIES",Boss 2 icc
-http://10.16.100.248/ftps6d3/Movies/Bangla/Boss%202%20(2017)%20Kolkata%201080p%20WEBHD.mp4
-#EXTINF:-1 group-title="BANGLA MOVIES",Gangster (2016)
-http://content.discoveryftp.net/Movies/Bangla/2016/Gangster/Gangster%20(2016)%20-%20720p%20-%20HDRip%20-%20x264%20-%20AC3%20[DDR].mkv
 
 
 
