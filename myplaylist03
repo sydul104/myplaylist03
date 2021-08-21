@@ -227,6 +227,8 @@ http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports USA
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
@@ -276,7 +278,8 @@ http://jupiter.bdcabletv.com/willow_hd-sim/index.m3u8
 http://nicefly.xyz:80/h21041003/651032140/246246
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/55993.m3u8
+#http://iptv.starhd.pk:8880/live/AZEEMPK/rEac6QHVJj/55993.m3u8
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
