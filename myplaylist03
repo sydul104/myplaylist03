@@ -231,9 +231,13 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/1372
 
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
-http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
+#http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
+http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
-http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
+#http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
+http://xcwsnl28.mrnova.online/live/60071_.m3u8?token=
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2 Premium
+http://xcwsnl28.mrnova.online/live/60072_.m3u8?token=
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Cricket
 http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports USA
