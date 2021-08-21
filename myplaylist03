@@ -238,12 +238,7 @@ http://xcwsnl28.mrnova.online/live/60070_.m3u8?token=
 http://xcwsnl28.mrnova.online/live/60071_.m3u8?token=
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 3 Premium
 http://xcwsnl28.mrnova.online/live/60072_.m3u8?token=
-#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports USA
-http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
@@ -273,6 +268,12 @@ http://1.adrawayoun.xyz/live/103/index.m3u8
 http://1.adrawayoun.xyz/live/104/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-3
 http://1.adrawayoun.xyz/live/105/index.m3u8
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports USA
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
+#EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
 http://77.83.117.60:8888//02_PremierHD1_720p/chunklist.m3u8
