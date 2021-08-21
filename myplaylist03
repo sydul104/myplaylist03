@@ -173,6 +173,8 @@ http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
 #http://103.81.104.118/hls/stream15.m3u8
 #http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 http://173.199.120.51/hls/chss1.m3u8
+#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
+http://178.79.161.66/woh/index.m3u8?id=48105
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://103.81.104.118/hls/stream16.m3u8
 #http://103.153.39.34:8000/play/a041/index.m3u8
@@ -182,9 +184,10 @@ http://173.199.120.51/hls/chss2.m3u8
 http://103.153.39.34:8000/play/a04a/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.109.56.116/live/skyfeed1023/index.m3u8
-http://103.81.104.118/hls/stream12.m3u8
+#http://103.81.104.118/hls/stream12.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48110
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-#http://103.109.56.116/live/skyfeed1024/index.m3u8
+#http://178.79.161.66/woh/index.m3u8?id=48111
 #http://182.176.169.29:7000/play/a0fd
 http://bd.digiiptv.net:25461/moznu43/PA2443/719
 
