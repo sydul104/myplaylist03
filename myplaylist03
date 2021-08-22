@@ -253,8 +253,9 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://173.199.120.51/hls/ten3.m3u8
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
+#https://tvstream.space/jtv/jioliveexexr.php?c=Ten_4_HD_Tamil&=1200&e=.m3u8
 http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/512.m3u8
- #https://tvstream.space/jtv/jioliveexexr.php?c=Ten_4_HD_Tamil&=1200&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 #http://103.81.104.118/hls/stream10.m3u8
