@@ -187,13 +187,11 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/715
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
-#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-http://bd.digiiptv.net:25461/moznu43/PA2443/706
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports LIVE 1
 http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
-
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
