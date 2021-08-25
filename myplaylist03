@@ -83,7 +83,8 @@ http://103.205.133.48/hls/peacetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
-http://103.157.237.18:8000/play/132
+#http://103.157.237.18:8000/play/132
+http://103.106.243.163:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #http://103.109.56.116/live/skyfeed1014/index.m3u8
 #http://103.81.104.118/hls/stream23.m3u8
@@ -97,21 +98,21 @@ http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
-#http://103.109.56.116/live/skyfeed1015/index.m3u8
 #http://103.81.104.118/hls/stream9.m3u8
-http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+#http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+http://103.106.243.163:8989/discovery/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 http://103.81.104.118/hls/stream13.m3u8
-#EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Animal Planet
+#EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
-http://103.81.104.118/hls/stream6.m3u8
+http://103.106.243.163:8989/natgeo-wild/index.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
-#https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-http://103.81.104.118/hls/stream37.m3u8
+#http://103.81.104.118/hls/stream37.m3u8
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-#http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
-http://103.81.104.118/hls/stream5.m3u8
+#http://103.81.104.118/hls/stream5.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
