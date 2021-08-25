@@ -86,8 +86,8 @@ http://103.205.133.48/hls/peacetv.m3u8
 http://103.157.237.18:8000/play/132
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #http://103.109.56.116/live/skyfeed1014/index.m3u8
-#http://103.153.39.34:8000/play/a04r/index.m3u8
-http://103.81.104.118/hls/stream23.m3u8
+#http://103.81.104.118/hls/stream23.m3u8
+http://103.153.39.34:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-76 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",Rongeen tv
