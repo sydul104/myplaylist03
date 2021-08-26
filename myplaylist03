@@ -86,14 +86,15 @@ http://103.205.133.48/hls/peacetv.m3u8
 #http://103.157.237.18:8000/play/132
 http://103.106.243.163:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
-#http://103.109.56.116/live/skyfeed1014/index.m3u8
 #http://103.81.104.118/hls/stream23.m3u8
-http://103.153.39.34:8000/play/a04r/index.m3u8
+#http://103.153.39.34:8000/play/a04r/index.m3u8
+http://103.106.243.163:8989/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-76 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
+#http://103.106.243.163:8989/cartoon-network/index.m3u8
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 
@@ -111,8 +112,7 @@ http://103.106.243.163:8989/natgeo-wild/index.m3u8
 #http://103.81.104.118/hls/stream37.m3u8
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-#http://103.81.104.118/hls/stream5.m3u8
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7233
+http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
@@ -212,13 +212,17 @@ http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
+http://103.106.243.163:8989/tsports/index.m3u8
+
 
 #EXTINF:-21 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="SPORTS",GAZI TV [1]
 https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
 #EXTINF:-23 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="SPORTS",GAZI TV [3]
-#http://10.16.100.203:8082/bangla/gtv.m3u8
+http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-23 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="SPORTS",GAZI TV [4]
 http://137.59.155.77:8088/hls/01gazitv.m3u8
 
 
