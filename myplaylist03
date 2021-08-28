@@ -159,9 +159,8 @@ https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
+#EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Mtv Beats
 http://143.244.60.10/HINDI__MTV_BEATS_HD/tracks-v1a1/mono.m3u8?token=test
-
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
@@ -252,8 +251,7 @@ http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=test
 #http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43010
 http://103.153.39.34:8000/play/a04a/index.m3u8
 
-#EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.
-jpg" group-title="SPORTS",Star Sports Select 1
+#EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.81.104.118/hls/stream12.m3u8
 http://103.106.243.163:8989/star-sports-select1/index.m3u8
 
@@ -390,74 +388,6 @@ http://93.157.62.180/Supersport3/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 01
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E01.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 02
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E02.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 03
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E03.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 04
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E04.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 05
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E05.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 06
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E06.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 07
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E07.mkv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Bangla Series",Mohanogor E 08
-http://10.16.100.202/ftps10/iccftps10sasd3/Tv%20Show/Bangla/Mohanagar%20Season%2001%20(2021)%20Completed/Mohanagar%20S01E08.mkv
-
-#EXTINF:-1 group-title="BANGLA MOVIES",Tumi Ashbe Bole (2021)
-http://mymoviebazar.net/Data/movies/indian%20bangla/new/Tumi%20Ashbe%20Bole%20(2021)/Tumi.Ashbe.Bole.2021.1080p.DSNP.WEB-DL.AAC2.0.x264-Telly.mp4
-
-#EXTINF:-1 group-title="HINDI MOVIES",Meri Pyari Bindu (2017)
-http://cdn.bdflix.ml/0:/Movies/BOLLYWOOD/M/Meri%20Pyaari%20Bindu%20(2017)%20-%201080p.h264.AC3.6ch.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Radhe: Your Most Wanted Bhai (2021)
-http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)%20Hindi%201080p%20WEB-DL%20-MSub.mp4
-#EXTINF:-1 group-title="HINDI MOVIES",Dhoom (2004)
-http://content.discoveryftp.net/Movies/Hindi/2004/Dhoom/Dhoom%202004%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20HDSector.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Dhoom 2 (2006)
-http://content.discoveryftp.net/Movies/Hindi/2006/Dhoom%202/Dhoom%202%20(2006)%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20MSubs-HDSector.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Dhoom 3 (2013)
-http://content.discoveryftp.net/Movies/Hindi/2013/Dhoom%203/Dhoom%203%20(2013)%20Hindi%201080p%20BluRay%20AC3%20x264%20-%20BUZZccd.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Karam (2005)
-http://content.discoveryftp.net/Movies/Hindi/2005/Karam/Karam%20(2005)2.avi
-#EXTINF:-1 group-title="HINDI MOVIES",Krrish (2006)
-http://content.discoveryftp.net/Movies/Hindi/2006/Krrish/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Krrish 3 (2013)
-http://content.discoveryftp.net/Movies/Hindi/2013/Krrish%203/Krrish.3.2013.1080p.BluRay.6CH.ShAaNiG.com.man.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Housefull
-http://content.discoveryftp.net/Movies/Hindi/2010/Housefull/Housefull%20(2010)%20Hindi%201080p%20BluRay%20x264%20DD+5.1(224Kbps)%20ESubs%20-%202.3GB%20-%20MovCr.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Housefull 2
-http://content.discoveryftp.net/Movies/Hindi/2012/Housefull%202/HouseFull-2%202012%20Hindi%20BRRip%20720p%20x264%20AAC%205.1...Hon3y.mp4
-#EXTINF:-1 group-title="HINDI MOVIES",Housefull 3
-http://content.discoveryftp.net/Movies/Hindi/2016/Housefull%203/Housefull%203%202016%20Hindi%20720p%20BluRay%20x264%20AAC%205.1%20-%20Hon3y%20[Exclusive].mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Housefull 4
-http://content.discoveryftp.net/Movies/Hindi/2019/Housefull%204/HOUSEFULL%204%20(2019)%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%202.4GB%20-%20ESub.mp4
-#EXTINF:-1 group-title="HINDI MOVIES",Dabangg 1080p (2010)
-http://content.discoveryftp.net/Movies/Hindi/2010/Dabangg%20%201080p/Dabangg%20(2010)%20Hindi%20BluRay%201080p%20HEVC%20x265%20DTS...Team%20Telly.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Dabangg 2 (2012)
-http://content.discoveryftp.net/Movies/Hindi/2012/Dabangg%202/Dabangg%202%202012%20Hindi%20720p%20BRRip%20x264%20AC3%205.1%20CharmeLeon%20SilverRG.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Dabangg 3 (2019)
-http://content.discoveryftp.net/Movies/Hindi/2019/Dabangg%203/Dabangg%203%20(2020)%20Hindi%20WEB-DL%201080p%20DD5.1%20Esub.mkv.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Panipat (2019)
-http://content.discoveryftp.net/Movies/Hindi/2019/Panipat/Panipat%20-%20The%20Great%20Betrayal%202019%201080P%20NF%20WEBRiP.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Guru (2007)
-http://content.discoveryftp.net/Movies/Hindi/2007/Guru/Guru%202007%20Hindi%20720p%20Blu-Ray%20x264%20AAC%205.1%20ESub-HDSector.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Dhamaal (2007)
-http://content.discoveryftp.net/Movies/Hindi/2007/Dhamaal/Dhamaal%202007%20Hindi%201080p%20NF%20WEBRip%20x264%20DD%205.1%20ESubs%20-%20LOKiHD%20-%20Telly.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Double Dhamaal (2011)
-http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Double%20Dhamaal%20(2011)%201080p%20BluRay.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Total Dhamaal(2019)
-http://10.16.100.248/ftps6d2/Movies/Hindi/Total%20Dhamaal%20(2019)%201080p%20WEBDL.mp4
-#EXTINF:-1 group-title="HINDI MOVIES",Dream Girl (2019)
-http://content.discoveryftp.net/Movies/Hindi/2019/Dream%20Girl/Dream%20Girl%20(2019)%201080p%20WEBDL.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Game Over (2019)
-http://content.discoveryftp.net/Movies/Hindi/2019/Game%20Over/Game%20Over%20(2019)%201080p%20NF-WEBRip%20x265%20HEVC%20DD5.1%20ESub-REO.mkv
-#EXTINF:-1 group-title="HINDI MOVIES",Junglee (2019)
-http://content.discoveryftp.net/Movies/Hindi/2019/Junglee/Junglee%20(2019)%201080p%20BluRay.mp4
-#EXTINF:-1 group-title="HINDI MOVIES",Mission Mangal (2019)
-http://content.discoveryftp.net/Movies/Hindi/2019/Mission%20Mangal/Mission%20Mangal%20(2019)%20Hindi%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.2GB%20-%20ESub.mp4
 
 
 
