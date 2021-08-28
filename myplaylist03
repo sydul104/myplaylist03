@@ -240,14 +240,16 @@ http://103.106.243.163:8989/star-sports1/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://173.199.120.51/hls/chss2.m3u8
-http://watchindia.net:8880/live/33253/72963/1069.m3u8
-http://103.106.243.163:8989/sony-ten3/index.m3u8
+#http://103.106.243.163:8989/sony-ten3/index.m3u8
+http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=test
+
 
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43010
 http://103.153.39.34:8000/play/a04a/index.m3u8
 
-#EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
+#EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.
+jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.81.104.118/hls/stream12.m3u8
 http://103.106.243.163:8989/star-sports-select1/index.m3u8
 
