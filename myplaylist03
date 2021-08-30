@@ -201,6 +201,7 @@ http://45.127.244.7:8080/hls/channel16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.106.243.163:8989/setmax/index.m3u8
+http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 
@@ -225,6 +226,7 @@ http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 http://103.106.243.163:8989/tsports/index.m3u8
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-21 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="SPORTS",GAZI TV [1]
