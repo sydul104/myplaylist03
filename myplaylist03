@@ -109,17 +109,19 @@ http://143.244.60.10/BENGALI__NAT_GEO_BENGALI_HD/tracks-v1a1/mono.m3u8?token=tes
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 http://103.106.243.163:8989/natgeo-wild/index.m3u8
+http://tvflix03.ddns.net/nat_geo_Wild-Sim/video.m3u8
+
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://103.81.104.118/hls/stream37.m3u8
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-http://103.81.104.118/hls/stream5.m3u8
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://103.205.133.48/hls/chsj.m3u8
-http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #http://103.106.243.163:8989/jalsha-movies/index.m3u8
@@ -128,12 +130,13 @@ http://tvflix03.ddns.net/JalshaMovies/tracks-v1a1/mono.m3u8
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://103.205.133.48/hls/zeebanglahd.m3u8
-http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+http://137.59.155.77:8088/hls/12zeebangla.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://103.205.133.48/hls/colorsbangla.m3u8
-http://143.244.60.10/BENGALI__COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8?token=test
+http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
@@ -264,10 +267,10 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/719
 http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 #http://173.199.120.51/hls/ten1.m3u8
-http://103.106.243.163:8989/sony-ten1-hd/index.m3u8
+http://137.59.155.77:8088/hls/03sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://173.199.120.51/hls/ten2.m3u8
-http://103.106.243.163:8989/sony-ten2/index.m3u8
+http://137.59.155.77:8088/hls/04sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
 http://45.127.244.7:8080/hls/channel7.m3u8
 
