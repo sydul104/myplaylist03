@@ -86,15 +86,16 @@ http://103.205.133.48/hls/peacetv.m3u8
 http://103.106.243.163:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #http://103.81.104.118/hls/stream23.m3u8
-#http://103.153.39.34:8000/play/a04r/index.m3u8
-http://103.106.243.163:8989/nick/index.m3u8
+#http://103.106.243.163:8989/nick/index.m3u8
+http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-76 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
 #http://103.106.243.163:8989/cartoon-network/index.m3u8
-http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+http://103.159.4.38:5868/KIDS-2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
@@ -124,8 +125,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
-#http://103.106.243.163:8989/jalsha-movies/index.m3u8
-http://tvflix03.ddns.net/JalshaMovies/tracks-v1a1/mono.m3u8
+#http://tvflix03.ddns.net/JalshaMovies/tracks-v1a1/mono.m3u8
+http://143.244.60.10/BENGALI__STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
@@ -161,7 +162,8 @@ http://103.205.133.48/hls/sangeetbangla.m3u8
 #EXTINF:-82 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="MUSIC",Bangla talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
-https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+#https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Mtv Beats
@@ -169,9 +171,11 @@ http://143.244.60.10/HINDI__MTV_BEATS_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+#https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+http://103.159.4.38:5868/MUSIC-6/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Sony Entertainment HD
@@ -180,7 +184,8 @@ http://tv.aliflailabd.com:8989/sony-hd/index.m3u8
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
 http://103.205.133.48/hls/andpicture.m3u8
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeeaction/list/09zeeactionzeeaction.jpg" group-title="Hindi",Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+http://103.159.4.38:5868/MOVIE-8/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action
@@ -195,7 +200,8 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/706
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
-https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+#https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
 http://45.127.244.7:8080/hls/channel16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
