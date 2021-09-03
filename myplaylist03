@@ -97,12 +97,14 @@ http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
-#http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-http://103.81.104.118/hls/stream9.m3u8
+#http://103.81.104.118/hls/stream9.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#http://143.244.60.10/BENGALI__NAT_GEO_BENGALI_HD/tracks-v1a1/mono.m3u8?token=test
-http://103.81.104.118/hls/stream13.m3u8
+#http://103.81.104.118/hls/stream13.m3u8
+http://143.244.60.10/BENGALI__NAT_GEO_BENGALI_HD/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 http://tvflix03.ddns.net/nat_geo_Wild-Sim/video.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
@@ -166,9 +168,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Mtv Beats
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
-#https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
-#http://tvflix03.ddns.net/b4u_music-pak/video.m3u8
-https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+#https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+http://ahaohoo.com/.1/tv1/play.php?id=2751&e=.m3u8
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
 #http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
