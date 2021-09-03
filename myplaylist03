@@ -132,7 +132,7 @@ http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 #https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-http://bd.digiiptv.net:25461/moznu43/PA2443/573
+http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://103.205.133.48/hls/colorsbangla.m3u8
 http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
@@ -169,12 +169,14 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 #https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
-http://ahaohoo.com/.1/tv1/play.php?id=2751&e=.m3u8
+http://103.205.133.48/hls/b4umusic.m3u8
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
 #http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
-http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
+http://103.205.133.48/hls/masti.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+#https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+http://172.50.50.66:8080/45/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Sony Entertainment HD
