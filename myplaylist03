@@ -229,7 +229,7 @@ http://starprimoum.ddns.net:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-#https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.106.243.163:8989/tsports/index.m3u8
 http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
@@ -239,7 +239,7 @@ http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
-#EXTINF:-23 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="SPORTS",GAZI TV [3]
+#EXTINF:-21 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="SPORTS",GAZI TV [3]
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-23 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="SPORTS",GAZI TV [4]
 http://137.59.155.77:8088/hls/01gazitv.m3u8
