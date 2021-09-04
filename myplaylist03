@@ -89,7 +89,8 @@ http://103.106.243.163:8989/duronto-tv/index.m3u8
 #http://103.106.243.163:8989/nick/index.m3u8
 http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF:-76 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
