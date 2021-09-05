@@ -236,7 +236,9 @@ http://tvflix03.ddns.net/ENC-17/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIdPx79sCr4VGEyzwttdwXvSo-Bdrpnsktg&usqp=CAU" group-title="SPORTS",Sports LIVE 1
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
+#http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43012
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
@@ -415,6 +417,28 @@ http://93.157.62.180/Supersport2/index.m3u8
 http://93.157.62.180/Supersport3/index.m3u8
 
 
+#EXTINF:-1,group-title="SNEH Sports" IND:STAR SPORTS 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43006
+#EXTINF:-1,group-title="SNEH Sports" IND:STAR SPORTS 1 SD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43007
+#EXTINF:-1,group-title="SNEH Sports" IND:STAR SPORTS 2 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43008
+#EXTINF:-1,group-title="SNEH Sports" IND:STAR SPORTS 3 SD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43009
+#EXTINF:-1,group-title="SNEH Sports" IND:STAR SPORTS SELECT 1
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43010
+#EXTINF:-1,group-title="SNEH Sports" IND:STAR SPORTS SELECT 2
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43011
+#EXTINF:-1,group-title="SNEH Sports" IND:SONY SIX 4k
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43012
+#EXTINF:-1,group-title="SNEH Sports" IND:TEN 1 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43013
+#EXTINF:-1,group-title="SNEH Sports" IND:TEN 2 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43014
+#EXTINF:-1,group-title="SNEH Sports" IND:TEN 3 HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43015
+#EXTINF:-1,group-title="SNEH Sports" IND:DD SPORTS
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43016
 
 
 
