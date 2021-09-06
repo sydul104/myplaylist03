@@ -108,7 +108,8 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token
 http://143.244.60.10/BENGALI__NAT_GEO_BENGALI_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
-http://tvflix03.ddns.net/nat_geo_Wild-Sim/video.m3u8
+#http://tvflix03.ddns.net/nat_geo_Wild-Sim/video.m3u8
+http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #http://103.81.104.118/hls/stream37.m3u8
@@ -207,10 +208,9 @@ http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Hindi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
-#http://103.81.104.118/hls/stream19.m3u8
-http://143.244.60.10/HINDI__STAR_GOLD_HD/tracks-v1a1/mono.m3u8?token=test
+#http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
+http://137.59.155.77:8088/hls/11stargold.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
-#http://bd.digiiptv.net:25461/moznu43/PA2443/706
 http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 #http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
@@ -264,8 +264,8 @@ http://137.59.155.77:8088/hls/01gazitv.m3u8
 
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
-#http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
-http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/502
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
+http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/18807
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
@@ -304,7 +304,8 @@ http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://45.127.244.7:8080/hls/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/10169
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #https://cdn.cinemabaaz.live/SonyTen3/tracks-v1a1/mono.m3u8
 http://tvflix03.ddns.net/Ten3HD/mono.m3u8
