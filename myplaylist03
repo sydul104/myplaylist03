@@ -198,8 +198,8 @@ http://172.50.50.66:8080/45/index.m3u8
 #http://tvflix03.ddns.net/SonyTV_ENC/video.m3u8
 http://oqab.life:8080/3204/3204/112
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
-#http://103.205.133.48/hls/andpicture.m3u8
-http://oqab.life:8080/3204/3204/114
+#http://oqab.life:8080/3204/3204/114
+http://103.205.133.48/hls/andpicture.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
