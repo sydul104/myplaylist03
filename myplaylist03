@@ -137,14 +137,14 @@ http://45.127.244.7:8080/hls/channel13.m3u8
 http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
-#http://45.127.244.7:8080/hls/channel11.m3u8
-http://54.39.158.38:8080/9876543210/9876543210/5464
+http://45.127.244.7:8080/hls/channel11.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://103.205.133.48/hls/colorsbangla.m3u8
 http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
-http://103.109.56.116/live/skyfeed1009/index.m3u8
+#http://103.109.56.116/live/skyfeed1009/index.m3u8
+http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
 #http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 http://103.205.133.48/hls/sony8.m3u8
@@ -400,9 +400,16 @@ http://xcwsnl28.mrnova.online/live/60079_.m3u8?token=
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng
+http://yassooo.com:8080/benAlaa/829293992/80010
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
+http://yassooo.com:8080/benAlaa/829293992/80009
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng
 #http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng SD
+#http://yassooo.com:8080/benAlaa/829293992/80093
+http://yassooo.com:8080/benAlaa/829293992/80142
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
