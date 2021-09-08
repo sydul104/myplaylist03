@@ -406,7 +406,8 @@ http://yassooo.com:8080/benAlaa/829293992/80010
 http://yassooo.com:8080/benAlaa/829293992/80009
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng
 #http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#http://hbox.cdnss.me:80/bestcs/bestcs/7951
+http://yassooo.com:8080/benAlaa/829293992/80038
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng SD
 #http://yassooo.com:8080/benAlaa/829293992/80093
 http://yassooo.com:8080/benAlaa/829293992/80142
