@@ -211,8 +211,8 @@ http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
-#http://137.59.155.77:8088/hls/11stargold.m3u8
-http://oqab.life:8080/3204/3204/101
+#http://oqab.life:8080/3204/3204/101
+http://137.59.155.77:8088/hls/11stargold.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
@@ -248,8 +248,9 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43012
 
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports
+http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-#http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 http://103.106.243.163:8989/tsports/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
@@ -270,7 +271,8 @@ http://137.59.155.77:8088/hls/01gazitv.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 #http://103.109.56.116/live/skyfeed1023/index.m3u8
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+http://137.59.155.77:8088/hls/07starsports1.m3u8
 
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
