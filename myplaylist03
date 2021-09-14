@@ -26,7 +26,8 @@ http://103.205.133.48/hls/atnbangla.m3u8
 http://103.205.133.48/hls/banglavision.m3u8
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
 #http://103.205.133.48/hls/ntv.m3u8
-https://cdn.cinemabaaz.live/NTV/mono.m3u8
+#https://cdn.cinemabaaz.live/NTV/mono.m3u8
+http://103.81.104.118/hls/ntv.m3u8
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 http://103.205.133.48/hls/rtv.m3u8
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
