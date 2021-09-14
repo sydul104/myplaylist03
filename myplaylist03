@@ -120,8 +120,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://103.205.133.48/hls/chsj.m3u8
-#http://tvflixucs.ddns.net:8088/hls/10starjalsha.m3u8
-http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
+http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #http://143.244.60.10/BENGALI__STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
@@ -131,7 +131,8 @@ http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 http://103.81.104.118/hls/jalshamovies.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://103.205.133.48/hls/zeebanglahd.m3u8
-http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+http://babutv.aliflailabd.com:8989/zee-bangla/index.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 http://45.127.244.7:8080/hls/channel11.m3u8
@@ -197,13 +198,14 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action
-#http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
-http://103.81.104.118/hls/utvaction.m3u8
+#http://103.81.104.118/hls/utvaction.m3u8
+http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Hindi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
-http://137.59.155.77:8088/hls/11stargold.m3u8
+#http://137.59.155.77:8088/hls/11stargold.m3u8
+http://c.proserver.in:8080/testm/testm/11960
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
@@ -215,13 +217,11 @@ http://103.81.104.118/hls/zeecinemahd.m3u8
 #http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
-http://45.127.244.7:8080/hls/channel16.m3u8
+#http://45.127.244.7:8080/hls/channel16.m3u8
+http://c.proserver.in:8080/testm/testm/11958
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 #http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
-
-
-
 
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
@@ -259,15 +259,14 @@ http://10.16.100.203:8082/bangla/gtv.m3u8
 https://piratesiptv.shortcm.li/gazi.m3u8
 
 
-
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 http://103.81.104.118/hls/stersports1hd.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
-#http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
-http://137.59.155.77:8088/hls/07starsports1.m3u8
+#http://137.59.155.77:8088/hls/07starsports1.m3u8
+http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=test
 http://103.81.104.118/hls/starsports2.m3u8
