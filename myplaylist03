@@ -46,10 +46,10 @@ http://103.205.133.48/hls/ichannel.m3u8
 http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
 #http://45.127.244.7:8080/hls/channel3.m3u8
-http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
-http://45.127.244.7:8080/hls/channel2.m3u8
 http://babutv.aliflailabd.com:8989/gazi-tv/index.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
+#http://45.127.244.7:8080/hls/channel2.m3u8
+http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #http://103.81.104.118/hls/masranga.m3u8
@@ -92,13 +92,13 @@ http://103.205.133.48/hls/peacetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
-#http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
-http://103.81.104.118/hls/duronto.m3u8
+#http://103.81.104.118/hls/duronto.m3u8
+http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
-#http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
-http://103.81.104.118/hls/sonyyay.m3u8
+#http://103.81.104.118/hls/sonyyay.m3u8
+http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
@@ -113,14 +113,11 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token
 http://103.81.104.118/hls/ngohd.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
-
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
-#http://103.81.104.118/hls/travelxp.m3u8
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
+#https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+http://103.81.104.118/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
@@ -150,8 +147,8 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #http://103.109.56.116/live/skyfeed1009/index.m3u8
-#http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
-http://103.81.104.118/hls/sunbangla.m3u8
+#http://103.81.104.118/hls/sunbangla.m3u8
+http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
 #http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 http://103.205.133.48/hls/sony8.m3u8
