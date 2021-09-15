@@ -53,7 +53,7 @@ http://babutv.aliflailabd.com:8989/gazi-tv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #http://103.81.104.118/hls/masranga.m3u8
-https://cdn.cinemabaaz.live/j-Maasranga/tracks-v1a1/mono.m3u8
+https://cdn.cinemabaaz.live/j-Maasranga/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 #http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
 #http://103.81.104.118/hls/channel9.m3u8
