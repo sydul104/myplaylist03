@@ -20,9 +20,11 @@ http://137.59.155.77:8088/hls/02IndependentTv.m3u8
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
 http://103.205.133.48/hls/jamunatv.m3u8
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
-http://103.205.133.48/hls/atnnews.m3u8
+#http://103.205.133.48/hls/atnnews.m3u8
+http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
-http://103.205.133.48/hls/atnbangla.m3u8
+#http://103.205.133.48/hls/atnbangla.m3u8
+http://103.159.4.38:8080/BD-BANGLA-6/tracks-v1a1/mono.m3u8
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 http://103.205.133.48/hls/banglavision.m3u8
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
@@ -30,7 +32,8 @@ http://103.205.133.48/hls/banglavision.m3u8
 #http://103.81.104.118/hls/ntv.m3u8
 http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
-http://103.205.133.48/hls/rtv.m3u8
+#http://103.205.133.48/hls/rtv.m3u8
+http://173.199.120.51/hls/rtv.m3u8
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 http://103.205.133.48/hls/satv.m3u8
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
@@ -38,9 +41,11 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-15 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="BANGLA",BOISHAKHI Plus
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",Ekushey TV
-http://103.205.133.48/hls/ekushey.m3u8
+#http://103.205.133.48/hls/ekushey.m3u8
+http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 #EXTINF:-17 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="BANGLA",Channel I
-http://103.205.133.48/hls/ichannel.m3u8
+#http://103.205.133.48/hls/ichannel.m3u8
+http://103.159.4.38:8080/BD-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA",Deepto TV
 #http://indo51.gcdn.co/BANGLA-BD-DEEPTOTV/tracks-v1a1/mono.m3u8
 http://babutv.aliflailabd.com:8989/depto-bangla/index.m3u8
@@ -82,7 +87,10 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF:-42 tvg-logo="https://i.imgur.com/CIgayHY.jpg" group-title="BANGLA",NOKSHI IPTV [BD]
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Amar Bangla" tvg-logo="" group-title="BANGLA",DIGI Bangla
+http://10.16.100.201:8082/bangla/digibangLa_HD_24_local.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amar Bangla" tvg-logo="" group-title="BANGLA",Amar Bangla
+https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 #EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Islamic",Saudi Quran
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
@@ -204,7 +212,7 @@ http://172.50.50.66:8080/45/index.m3u8
 #http://indo51.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
 #http://babutv.aliflailabd.com:8989/sony-hd/index.m3u8
 #http://173.199.120.51/hls/chs.m3u8
-http://appleiptv.com:25461/3478/3478/81893
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
 http://103.205.133.48/hls/andpicture.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Box Cinema
