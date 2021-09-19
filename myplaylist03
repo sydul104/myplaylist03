@@ -14,9 +14,7 @@ http://103.205.133.48/hls/dbcnews.m3u8
 #EXTINF:-9 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA",Channel 24
 http://103.205.133.48/hls/channel24.m3u8
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
-#http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
-#http://103.81.104.118/hls/indepen.m3u8
-http://137.59.155.77:8088/hls/02IndependentTv.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-8 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
 http://103.205.133.48/hls/jamunatv.m3u8
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
@@ -120,14 +118,14 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://143.244.60.10/BENGALI__NAT_GEO_BENGALI_HD/tracks-v1a1/mono.m3u8?token=test
 #http://103.81.104.118/hls/ngohd.m3u8
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOCH/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b798594ea4703895a13c15835ab3644651242a882479d4ed734e49a6fbcfac2e76c84bbbed6abe3475fa67edcfb90c3a58b9563f440bc1dbbd25c005aa782b5d537c3dd05dc2ffaf3f6f02d57a6b2&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+http://indo51.gcdn.co/hindi-Nationalgeographicindia/tracks-v1a1/mono.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
-#https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #http://103.81.104.118/hls/travelxp.m3u8
-http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+http://indo51.gcdn.co/hindi-TravelXPHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 http://indo51.gcdn.co/hindi-SONYBBCEARTHHD/tracks-v1a1/mono.m3u8
@@ -147,19 +145,17 @@ http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
 #http://143.244.60.10/BENGALI__STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
 http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
-#http://45.127.244.7:8080/hls/channel13.m3u8
-#http://103.81.104.118/hls/jalshamovies.m3u8
-http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://103.205.133.48/hls/zeebanglahd.m3u8
-#http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+#http://173.199.120.51/hls/zeebanglahd.m3u8
 http://babutv.aliflailabd.com:8989/zee-bangla/index.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
-#http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
-http://45.127.244.7:8080/hls/channel11.m3u8
+#http://45.127.244.7:8080/hls/channel11.m3u8
+http://indo51.gcdn.co/BANGLA-IND-ZEEBANGLACinema/tracks-v1a1/mono.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://103.205.133.48/hls/colorsbangla.m3u8
-http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
+http://173.199.120.51/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #http://103.109.56.116/live/skyfeed1009/index.m3u8
 #http://103.81.104.118/hls/sunbangla.m3u8
@@ -245,6 +241,7 @@ http://143.244.60.10/HINDI__STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 #http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#http://indo51.gcdn.co/hindi-ZeeCinemaHDindia/tracks-v1a1/mono.m3u8
 http://appleiptv.com:25461/3478/3478/81901
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeeaction/list/09zeeactionzeeaction.jpg" group-title="Hindi",Zee Action
 #https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
@@ -328,19 +325,20 @@ http://jupiter.bdcabletv.com/Ten4/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 http://babutv.aliflailabd.com:8989/sony-six-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
-http://45.127.244.7:8080/hls/channel5.m3u8
-http://137.59.155.77:8088/hls/05sonysix.m3u8
+#http://45.127.244.7:8080/hls/channel5.m3u8
+http://indo51.gcdn.co/SONYSIXindia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
 #http://103.159.4.38:5868/SPORTS-7/index.m3u8
-http://server.nvisionbd.net:25461/live/ashrafulemon18/ashrafulemon18/1162.m3u8
+http://dxla2.gcdn.co/WC5216/tracks-v1a1/mono.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5434
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Sports
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5433
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5433
+http://ux38.gcdn.co/UKS47/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Cricket
 http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
 
@@ -417,6 +415,9 @@ http://yassooo.com:8080/benAlaa/829293992/80038
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng SD
 #http://yassooo.com:8080/benAlaa/829293992/80093
 http://yassooo.com:8080/benAlaa/829293992/80142
+
+#EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",Free Sports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?Token=
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
