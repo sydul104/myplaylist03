@@ -280,14 +280,14 @@ http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
 http://137.59.155.77:8088/hls/01gazitv.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
 http://babutv.aliflailabd.com:8989/gazi-tv/index.m3u8
-
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://103.81.104.118/hls/stersports1hd.m3u8
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
 #http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
-http://137.59.155.77:8088/hls/07starsports1.m3u8
+#http://137.59.155.77:8088/hls/07starsports1.m3u8
+http://45.127.244.7:8080/hls/channel4.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
 #http://103.81.104.118/hls/starsports2.m3u8
@@ -304,8 +304,8 @@ http://103.159.4.38:5868/SPORTS-2/index.m3u8
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
 http://137.59.155.77:8088/hls/08starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
-#http://45.127.244.7:8080/hls/channel6.m3u8
-http://137.59.155.77:8088/hls/03sonyten1.m3u8
+#http://137.59.155.77:8088/hls/03sonyten1.m3u8
+http://45.127.244.7:8080/hls/channel6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/10168
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
@@ -318,7 +318,8 @@ http://137.59.155.77:8088/hls/04sonyten2.m3u8
 http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/10169
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://cdn.cinemabaaz.live/SonyTen3/tracks-v1a1/mono.m3u8
-http://jupiter.bdcabletv.com/Ten3HD/mono.m3u8
+#http://jupiter.bdcabletv.com/Ten3HD/mono.m3u8
+http://45.127.244.7:8080/hls/channel9.m3u8
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 #http://tvflix03.ddns.net/Ten4/mono.m3u8
 http://jupiter.bdcabletv.com/Ten4/mono.m3u8
