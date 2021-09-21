@@ -283,7 +283,8 @@ http://203.154.243.89:1205
 #http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
+#http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
+http://indo51.gcdn.co/BANGLA-BD-GAZITV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV [1]
 #http://babutv.aliflailabd.com:8989/gazi-tv/index.m3u8
