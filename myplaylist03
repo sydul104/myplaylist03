@@ -23,18 +23,19 @@ http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #http://103.205.133.48/hls/atnbangla.m3u8
 http://babutv.aliflailabd.com:8989/atn-bangla/index.m3u8
+http://173.199.120.51/hls/atnbangla.m3u8
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 #http://103.205.133.48/hls/banglavision.m3u8
-#http://173.199.120.51/hls/banglavision.m3u8
-http://babutv.aliflailabd.com:8989/bangla-vision/index.m3u8
+#http://babutv.aliflailabd.com:8989/bangla-vision/index.m3u8
+http://173.199.120.51/hls/banglavision.m3u8
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
 #http://103.205.133.48/hls/ntv.m3u8
 #http://indo51.gcdn.co/BANGLA-BD-NTV/tracks-v1a1/mono.m3u8
-http://babutv.aliflailabd.com:8989/ntv/index.m3u8
+http://173.199.120.51/hls/ntv.m3u8
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 #http://103.205.133.48/hls/rtv.m3u8
-#http://173.199.120.51/hls/rtv.m3u8
-http://babutv.aliflailabd.com:8989/rtv/index.m3u8
+#http://babutv.aliflailabd.com:8989/rtv/index.m3u8
+http://173.199.120.51/hls/rtv.m3u8
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 http://103.205.133.48/hls/satv.m3u8
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
@@ -58,11 +59,11 @@ http://45.127.244.7:8080/hls/channel3.m3u8
 #http://45.127.244.7:8080/hls/channel2.m3u8
 http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
-#http://indo51.gcdn.co/BANGLA-BD-MAASRANGATV/tracks-v1a1/mono.m3u8
-http://babutv.aliflailabd.com:8989/maasranga/index.m3u8
+#http://babutv.aliflailabd.com:8989/maasranga/index.m3u8
+http://indo51.gcdn.co/BANGLA-BD-MAASRANGATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
-#https://piratesiptv.shortcm.li/channel9.m3u8
-http://babutv.aliflailabd.com:8989/channel9/index.m3u8
+#http://babutv.aliflailabd.com:8989/channel9/index.m3u8
+https://piratesiptv.shortcm.li/channel9.m3u8
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 http://103.205.133.48/hls/nagorik.m3u8
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
@@ -142,18 +143,18 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://103.205.133.48/hls/chsj.m3u8
-#http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
-http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
+#http://babutv.aliflailabd.com:8989/star-jalsha/index.m3u8
+http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-#http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #http://143.244.60.10/BENGALI__STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
-http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
+#http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
+http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://103.205.133.48/hls/zeebanglahd.m3u8
-#http://173.199.120.51/hls/zeebanglahd.m3u8
-http://babutv.aliflailabd.com:8989/zee-bangla/index.m3u8
+#http://babutv.aliflailabd.com:8989/zee-bangla/index.m3u8
+http://173.199.120.51/hls/zeebanglahd.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://45.127.244.7:8080/hls/channel11.m3u8
 http://indo51.gcdn.co/BANGLA-IND-ZEEBANGLACinema/tracks-v1a1/mono.m3u8
@@ -166,7 +167,8 @@ http://173.199.120.51/hls/colorsbangla.m3u8
 http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
 #http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
-http://103.205.133.48/hls/sony8.m3u8
+#http://103.205.133.48/hls/sony8.m3u8
+http://173.199.120.51/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
@@ -254,10 +256,10 @@ http://indo51.gcdn.co/hindi-ZeeCinemaHDindia/tracks-v1a1/mono.m3u8
 #https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
+#http://babutv.aliflailabd.com:8989/setmax/index.m3u8
 #http://45.127.244.7:8080/hls/channel16.m3u8
-http://babutv.aliflailabd.com:8989/setmax/index.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
-#http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 http://indo51.gcdn.co/hindi-SONYMAXHD/tracks-v1a1/mono.m3u8
 
 
