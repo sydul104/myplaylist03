@@ -88,9 +88,10 @@ http://103.205.133.48/hls/peacetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
-#http://103.81.104.118/hls/duronto.m3u8
 http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
+#http://jupiter.bdcabletv.com/ENC-15/video.m3u8
 http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 #http://103.81.104.118/hls/sonyyay.m3u8
@@ -103,11 +104,12 @@ http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
-#http://103.81.104.118/hls/stream9.m3u8
+#http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://indo51.gcdn.co/hindi-Nationalgeographicindia/tracks-v1a1/mono.m3u8
-http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8
@@ -207,7 +209,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action
-http://jupiter.bdcabletv.com/ENC-20/video.m3u8
+#http://jupiter.bdcabletv.com/ENC-20/video.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Hindi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
@@ -230,7 +233,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-
+http://jupiter.bdcabletv.com/SonyPixHD/video.m3u8
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
@@ -258,15 +261,17 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://137.59.155.77:8088/hls/01gazitv.m3u8
 https://piratesiptv.shortcm.li/gazi.m3u8
 
-#EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
+#EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1]
 #http://103.81.104.118/hls/stersports1hd.m3u8
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 
-#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1
+#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://137.59.155.77:8088/hls/07starsports1.m3u8
 #http://45.127.244.7:8080/hls/channel4.m3u8
 http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
+#EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [3]
+http://103.159.4.38:5868/SPORTS-2/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://103.81.104.118/hls/starsports2.m3u8
@@ -281,12 +286,13 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.109.56.116/live/skyfeed1020/index.m3u8
-http://103.159.4.38:5868/SPORTS-2/index.m3u8
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
 #http://137.59.155.77:8088/hls/08starsports2.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #http://45.127.244.7:8080/hls/channel6.m3u8
@@ -392,11 +398,14 @@ http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng
+https://1ojy.short.gy/nayeemparvez86/Bein-Sports-1-English.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
+https://1ojy.short.gy/nayeemparvez86/Bein-Sports-2-English.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng SD
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+https://1ojy.short.gy/nayeemparvez86/Bein-Sports-3-English.m3u8
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",Free Sports
 
