@@ -89,7 +89,7 @@ http://103.205.133.48/hls/peacetv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 
-http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
+#http://babutv.aliflailabd.com:8989/duronto-tv/index.m3u8
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #http://jupiter.bdcabletv.com/ENC-15/video.m3u8
@@ -134,7 +134,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
-http://jupiter.bdcabletv.com/ENC-17/video.m3u8
+http://jupiter.bdcabletv.com/ENC-6/index.m3u8
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
