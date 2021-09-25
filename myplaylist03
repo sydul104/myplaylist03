@@ -270,8 +270,8 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 https://piratesiptv.shortcm.li/gazi.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] Bangla
-#http://indo51.gcdn.co/STARSPORTS3/index.m3u8
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+http://indo51.gcdn.co/STARSPORTS3/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://137.59.155.77:8088/hls/07starsports1.m3u8
@@ -299,8 +299,7 @@ http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
 #http://137.59.155.77:8088/hls/08starsports2.m3u8
-#http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-http://ux38.gcdn.co/UKS9/tracks-v1a1/index.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
