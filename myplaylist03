@@ -145,7 +145,8 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 http://103.205.133.48/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #http://103.109.56.116/live/skyfeed1009/index.m3u8
-http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
+http://indo51.gcdn.co/TAMIL-SuntvHD/index.m3u8
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
 #http://173.199.120.51/hls/sony8.m3u8
 http://103.205.133.48/hls/sony8.m3u8
@@ -179,7 +180,8 @@ http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 #http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 http://103.205.133.18/hls/9xm.m3u8
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00%3A1A%3A79%3A3A%3A6B%3A91&ip=202.134.10.142&magic_server=MAIN_MP&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_MTVBEATS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394259c6db1d16e576027bb0db11aea0f2b34cf27214dfff0b3824c6d53da96bdf6f8e05e6cf62d003d161403e53f7ef378af936e02f1a18dfa2ed55e01cdcb9e382e124892a8f20077563ac4154ea7f4feb777d9f&mac=00%3A1A%3A79%3A3A%3A6B%3A91&ip=202.134.10.142&magic_server=MAIN_MP&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Bale
@@ -245,7 +247,7 @@ http://203.154.243.89:1205
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIdPx79sCr4VGEyzwttdwXvSo-Bdrpnsktg&usqp=CAU" group-title="SPORTS",Sports LIVE 1
-
+http://indo51.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
@@ -261,10 +263,10 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://137.59.155.77:8088/hls/01gazitv.m3u8
 https://piratesiptv.shortcm.li/gazi.m3u8
 
-#EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1]
-#http://103.81.104.118/hls/stersports1hd.m3u8
-#http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+#EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] Bangla
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+http://indo51.gcdn.co/STARSPORTS3/index.m3u8
+
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://137.59.155.77:8088/hls/07starsports1.m3u8
 #http://45.127.244.7:8080/hls/channel4.m3u8
@@ -297,16 +299,17 @@ http://ux38.gcdn.co/UKS9/tracks-v1a1/index.m3u8
 #http://45.127.244.7:8080/hls/channel6.m3u8
 http://jupiter.bdcabletv.com/Ten1HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
-http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/10168
+http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
-http://45.127.244.7:8080/hls/channel7.m3u8
+#http://45.127.244.7:8080/hls/channel7.m3u8
+http://103.159.4.38:8080/SPORTS-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
 http://jupiter.bdcabletv.com/Ten2HD/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/10169
+http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://45.127.244.7:8080/hls/channel9.m3u8
 http://jupiter.bdcabletv.com/Ten3HD/mono.m3u8
@@ -320,8 +323,8 @@ http://45.127.244.7:8080/hls/channel5.m3u8
 http://jupiter.bdcabletv.com/ENC-3/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
-#http://103.159.4.38:5868/SPORTS-7/index.m3u8
-http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
+#http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
+http://103.159.4.38:5868/SPORTS-7/index.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5434
