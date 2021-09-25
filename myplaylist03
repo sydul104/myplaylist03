@@ -274,8 +274,6 @@ http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
 http://103.159.4.38:5868/SPORTS-2/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-#http://103.81.104.118/hls/starsports2.m3u8
-#http://143.244.60.10/SPORTS__STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8?token=test
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
@@ -286,12 +284,13 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.109.56.116/live/skyfeed1020/index.m3u8
-http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
-
+#http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=RK
+http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.109.56.116/live/skyfeed1024/index.m3u8
 #http://137.59.155.77:8088/hls/08starsports2.m3u8
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+http://ux38.gcdn.co/UKS9/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
@@ -336,7 +335,8 @@ http://ux38.gcdn.co/UKS47/tracks-v1a1/mono.m3u8
 http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
-http://nwbz1u.ecm.tm/806B6CF/89181e/SR_SS2_HD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e301782cfd952ef8d6f27fc7afe88f4fde17df92ea28974dd12502b0d750cccdbeb6977499fae4167e90e4b5c084705623a9c7cbcd376060ee03a5d239b0ad122479676cfcf71b5d712805a39860bfe2fc25d6c93ab47a&mac=00:1A:79:3A:6B:91&ip=202.134.8.137&magic_server=MAIN_MP
+#http://nwbz1u.ecm.tm/806B6CF/89181e/SR_SS2_HD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e301782cfd952ef8d6f27fc7afe88f4fde17df92ea28974dd12502b0d750cccdbeb6977499fae4167e90e4b5c084705623a9c7cbcd376060ee03a5d239b0ad122479676cfcf71b5d712805a39860bfe2fc25d6c93ab47a&mac=00:1A:79:3A:6B:91&ip=202.134.8.137&magic_server=MAIN_MP
+http://ux38.gcdn.co/SSCricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [1]
 http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
@@ -352,7 +352,9 @@ http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5437
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
-http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/astrocricket_pye/playlist.m3u8
+#http://mantul.biz.id:8888/iptvtreemy/KKNWB4foYs/4986
+http://ux38.gcdn.co/UKS34/index.m3u8
 
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
@@ -398,14 +400,14 @@ http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng
-https://1ojy.short.gy/nayeemparvez86/Bein-Sports-1-English.m3u8
+http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
-https://1ojy.short.gy/nayeemparvez86/Bein-Sports-2-English.m3u8
+#https://1ojy.short.gy/nayeemparvez86/Bein-Sports-2-English.m3u8
+http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3 Eng SD
-#http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-https://1ojy.short.gy/nayeemparvez86/Bein-Sports-3-English.m3u8
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",Free Sports
 
