@@ -25,14 +25,17 @@ http://103.205.133.41/hls/atnnews.m3u8
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #http://173.199.120.51/hls/atnbangla.m3u8
 http://103.205.133.41/hls/atnbangla.m3u8
+
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
 #http://173.199.120.51/hls/banglavision.m3u8
 http://103.205.133.41/hls/banglavision.m3u8
+
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
-#http://173.199.120.51/hls/ntv.m3u8
-http://173.205.133.41/hls/ntv.m3u8
+http://103.205.133.41/hls/ntv.m3u8
+
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 http://173.205.133.41/hls/rtv.m3u8
+
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 http://103.205.133.41/hls/satv.m3u8
 #EXTINF:-14 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
