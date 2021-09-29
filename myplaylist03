@@ -96,6 +96,8 @@ http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 #http://mygoodstream.pw/proxy.php/http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
 http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Tom & Jary
+http://51.91.73.99:25461/live/usachannel/ngZnG8PD5i/17173.m3u8
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 #http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 http://14.199.164.20:4001/play/a0m1/index.m3u8
