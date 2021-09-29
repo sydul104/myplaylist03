@@ -150,8 +150,8 @@ http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
 #http://173.205.133.41/hls/sony8.m3u8
 http://jupiter.bdcabletv.com/SonyAath/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
-#http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-http://rubeliptv.zapto.org:25461/ips7/44332277/194
+#http://rubeliptv.zapto.org:25461/ips7/44332277/194
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg" group-title="Indian-Bangla",News-18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-56 tvg-logo="https://1.bp.blogspot.com/-LA8ncKcriPs/Xp6M6FXWJVI/AAAAAAAAAA8/RHimD6ijrnIwbh-u7FKdbeXcnGZ2H0_YACLcBGAsYHQ/s1600/abp-bengali-og.webp" group-title="Indian-Bangla",Abp Ananda
