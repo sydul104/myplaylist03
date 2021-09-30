@@ -45,8 +45,8 @@ http://103.205.133.41/hls/ichannel.m3u8
 #EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA",Deepto TV
 http://103.205.133.41/hls/deeptotv.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
-#http://45.127.244.7:8080/hls/channel3.m3u8
-https://rebrand.ly/JB/GaziTvHD
+#https://rebrand.ly/JB/GaziTvHD
+http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://45.127.244.7:8080/hls/channel2.m3u8
 https://rebrand.ly/JB/TSportsHD
@@ -283,17 +283,17 @@ https://piratesiptv.shortcm.li/gazi.m3u8
 http://rubeliptv.zapto.org:25461/ips7/44332277/343
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
-#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 #http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/tracks-v1a1/mono.m3u8
-http://93.152.174.144:4000/play/ss1in/index.m3u8
+#http://93.152.174.144:4000/play/ss1in/index.m3u8
+http://45.127.244.7:8080/hls/channel4.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [3]
 #http://103.159.4.38:8080/SPORTS-2/tracks-v1a1/mono.m3u8
-#http://45.127.244.7:8080/hls/channel4.m3u8
 http://103.159.4.38:5868/SPORTS-2/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
