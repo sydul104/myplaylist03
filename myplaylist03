@@ -135,6 +135,8 @@ http://103.205.133.41/hls/chsj.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 http://jupiter.bdcabletv.com/ENC-6/index.m3u8
+#EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
+http://rubeliptv.zapto.org:25461/ips7/44332277/327
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://45.127.244.7:8080/hls/channel13.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
@@ -145,7 +147,7 @@ http://45.127.244.7:8080/hls/channel11.m3u8
 http://103.205.133.41/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #http://103.109.56.116/live/skyfeed1009/index.m3u8
-http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
+http://rubeliptv.zapto.org:25461/ips7/44332277/330
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
 #http://173.205.133.41/hls/sony8.m3u8
 http://jupiter.bdcabletv.com/SonyAath/video.m3u8
@@ -278,7 +280,7 @@ https://piratesiptv.shortcm.li/gazi.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
 #http://indo51.gcdn.co/STARSPORTS3/index.m3u8
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/502
+http://rubeliptv.zapto.org:25461/ips7/44332277/343
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
@@ -295,7 +297,9 @@ http://93.152.174.144:4000/play/ss1in/index.m3u8
 http://103.159.4.38:5868/SPORTS-2/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+http://rubeliptv.zapto.org:25461/ips7/44332277/344
+
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
@@ -320,7 +324,8 @@ http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #http://45.127.244.7:8080/hls/channel6.m3u8
-http://jupiter.bdcabletv.com/Ten1HD/mono.m3u8
+#http://jupiter.bdcabletv.com/Ten1HD/mono.m3u8
+http://rubeliptv.zapto.org:25461/ips7/44332277/309
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
