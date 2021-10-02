@@ -153,8 +153,8 @@ http://103.205.133.41/hls/colorsbangla.m3u8
 #http://103.109.56.116/live/skyfeed1009/index.m3u8
 http://rubeliptv.zapto.org:25461/ips7/44332277/330
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
-#http://173.205.133.41/hls/sony8.m3u8
-http://jupiter.bdcabletv.com/SonyAath/video.m3u8
+#http://jupiter.bdcabletv.com/SonyAath/video.m3u8
+http://173.205.133.41/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
 #http://rubeliptv.zapto.org:25461/ips7/44332277/194
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
