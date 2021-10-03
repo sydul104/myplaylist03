@@ -384,7 +384,7 @@ http://hello.exodus-2.xyz:8080/play/live.php?mac=00:1A:79:78:68:2D&stream=574127
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [1]
 http://hello.exodus-2.xyz:8080/play/live.php?mac=00:1A:79:47:96:38&stream=571912&extension=ts&play_token=YndVNUR5RzF2SXBsS1NHR0ZnYlhoQT09
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [2]
-#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/686915
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/686915
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://jupiter.bdcabletv.com/willow_hd-sim/index.m3u8
