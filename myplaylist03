@@ -170,7 +170,8 @@ http://rubeliptv.zapto.org:25461/ips7/44332277/330
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
 http://tvflixtn.ddns.net/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
-#http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 group-title="Indian-Bangla",DD Bangla
 http://14.199.164.20:4001/play/a0u1/index.m3u8
