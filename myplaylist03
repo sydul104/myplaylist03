@@ -465,69 +465,71 @@ http://93.157.62.180/Supersport3/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="ICC New",Gtv
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Ekattor HD
-http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
+http://10.16.100.213:8080/hls/ekattortv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",DBC News HD
-http://10.16.100.201:8082/bangla/dBc_news_local.m3u8
+http://10.16.100.213:8080/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Channel 24
-http://10.16.100.205:8082/bangla/Chanel24_local_bD.m3u8
+http://10.16.100.213:8080/hls/channel24.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Jamuna TV
-http://10.16.100.201:8082/bangla/jaMuna_tv_local.m3u8
+http://10.16.100.213:8080/hls/Jamuna.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",News 24 HD
-http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
+http://10.16.100.213:8080/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",ATN News
-http://10.16.100.205:8082/bangla/aTnnews_local.m3u8
+http://10.16.100.213:8080/hls/atnnews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Bijoy TV HD
-http://10.16.100.201:8082/bangla/biJoy_TV_Local.m3u8
+http://10.16.100.213:8080/hls/bijoy.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Desh TV
-http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+http://10.16.100.213:8080/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Digi Bangla 24 HD
-http://10.16.100.201:8082/bangla/digibangLa_HD_24_local.m3u8
+http://10.16.100.213:8080/hls/digibangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Mohona TV HD
-http://10.16.100.205:8082/bangla/MoHoNa_tV_local.m3u8
+http://10.16.100.213:8080/hls/mohona.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",My TV HD
-http://10.16.100.205:8082/bangla/mYTv_local_bd.m3u8
+http://10.16.100.213:8080/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Bangla TV HD
-http://10.16.100.205:8082/bangla/bAnglA_tv_local.m3u8
+http://10.16.100.213:8080/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Nagorik TV
-http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
+http://10.16.100.213:8080/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Star Jalsha
-http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
+http://10.16.100.213:8080/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Zee  Bangla
-http://10.16.100.204:8082/hls/z_bangla_local.m3u8
+http://10.16.100.213:8080/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Colors Bangla
-http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8
+http://10.16.100.213:8080/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Sony 8
-http://10.16.100.204:8082/hls/sony_aat_local.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Khusboo Bangla
-http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
+http://10.16.100.213:8080/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Kolkata TV
-http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
+http://10.16.100.213:8080/hls/kolkatatv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC New",GaanBangla HD
-http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
+http://10.16.100.213:8080/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Sangeet Bangla
-http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
+http://10.16.100.213:8080/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Dhoom Music
-http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
+http://10.16.100.213:8080/hls/dhoommusic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",9XM
-http://10.16.100.200:8082/hls/nine_xm_local.m3u8
+http://10.16.100.213:8080/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",B4U Music
-http://10.16.100.200:8082/hls/bforu_music_local.m3u8
+http://10.16.100.213:8080/hls/b4umusic.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Mastii
-http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
+http://10.16.100.213:8080/hls/masti.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Sony TV
-http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+http://10.16.100.213:8080/hls/sony.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Zee TV
-http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+http://10.16.100.213:8080/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",B4U Movies
-http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
+http://10.16.100.213:8080/hls/b4umovies.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",&TV
-http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
+http://10.16.100.213:8080/hls/andtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",&Pictures HD
-http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
+http://10.16.100.208:8080/hls/&picture.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Colors
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Star Plus
@@ -541,6 +543,9 @@ http://10.16.100.207:8082/sports/star_sports_1_local.m3u8
 http://10.16.100.207:8082/sports/star_sportsselect1_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Sony Ten 2
 http://10.16.100.207:8082/sports/sony_ten2_local.m3u8
+
+
+
 
 
 
