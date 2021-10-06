@@ -302,7 +302,8 @@ http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=d9c35db669d796714
 #http://babutv.aliflailabd.com:8989/gazi-tv/index.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
-https://piratesiptv.shortcm.li/gazi.m3u8
+#https://piratesiptv.shortcm.li/gazi.m3u8
+http://30.30.30.30/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [Token]
 http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=4ed318893a8ce36a01afbc0e390327bd55afba62-b4913dfebe1370dcd9902acb786dd1a3-1633424716-1633413916
 
