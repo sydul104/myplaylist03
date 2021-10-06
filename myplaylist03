@@ -128,7 +128,7 @@ http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
-http://103.153.39.34:8000/play/a04h/index.m3u8
+http://stream.dhakaflix.com:8081/live/natgeo/chunks.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://103.153.39.34:8000/play/a047/index.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
