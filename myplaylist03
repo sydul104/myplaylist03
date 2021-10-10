@@ -126,6 +126,8 @@ http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
 #http://babutv.aliflailabd.com:8989/discovery/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
+#EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
 https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD [BANGLA]
 #http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
@@ -140,7 +142,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1628
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1633
+#http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1633
+http://eurotv.vip:80/live/60/60/42583.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 #http://103.159.4.38:5868/ENTEMENT-2/tracks-v1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
@@ -242,9 +245,9 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #http://93.152.174.144:4000/play/stargold/index.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 
-
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 http://eurotv.vip:80/60/60/50262
+
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 
@@ -374,7 +377,8 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 http://jupiter.bdcabletv.com/Ten3HD/mono.m3u8
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
-http://jupiter.bdcabletv.com/Ten4/mono.m3u8
+#http://jupiter.bdcabletv.com/Ten4/mono.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 #http://babutv.aliflailabd.com:8989/sony-six-hd/index.m3u8
