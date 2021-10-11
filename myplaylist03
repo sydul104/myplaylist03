@@ -6,8 +6,8 @@ http://103.205.133.40/hls/btvworld.m3u8
 #http://103.106.2.149:13456/btv.m3u8
 http://103.205.133.40/hls/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#http://103.205.133.40/hls/ekatoortv.m3u8
-http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+http://103.205.133.40/hls/ekatoortv.m3u8
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
@@ -33,8 +33,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #http://103.205.133.40/hls/atnbangla.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
-#http://103.205.133.40/hls/banglavision.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+http://103.205.133.40/hls/banglavision.m3u8
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
 #http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
 http://103.205.133.40/hls/ntv.m3u8
@@ -65,8 +65,8 @@ http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 #https://piratesiptv.shortcm.li/channel9.m3u8
-#http://103.205.133.40/hls/ninechannel.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+http://103.205.133.40/hls/ninechannel.m3u8
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 #http://tvflixtn.ddns.net/hls/hls/nagorik.m3u8
 http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
@@ -328,14 +328,15 @@ http://stop.next-code.xyz:2052/Nador/66263/19341
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
-http://172.17.50.112/live/antbd1007/index.m3u8
+http://140.238.229.213/sp1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [3]
 #http://103.159.4.38:5868/SPORTS-2/index.m3u8
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+http://tvflix00.hopto.org/hls/chsp1.m3u8
 
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
@@ -348,17 +349,14 @@ http://93.152.174.144:4000/play/ss3in/index.m3u8
 
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-#http://103.109.56.116/live/skyfeed1020/index.m3u8
-#http://babutv.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#http://stop.next-code.xyz:2052/Nador/66263/2629
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1125
+#http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1125
+http://bosstr.net:80/live/cat54/DpbYpXOhHn/27083.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-#http://103.109.56.116/live/skyfeed1024/index.m3u8
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#http://rubeliptv.zapto.org:25461/ips7/44332277/180
-http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
+http://bosstr.net:80/live/cat54/DpbYpXOhHn/27084.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
@@ -366,19 +364,18 @@ http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 #http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
-http://172.17.50.112/live/antbd1006/index.m3u8
+http://tvflix00.hopto.org/hls/chst1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
 #http://jupiter.bdcabletv.com/Ten2HD/mono.m3u8
-http://172.17.50.112/live/antbd1005/index.m3u8
-
+http://tvflix00.hopto.org/hls/chst2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
-http://jupiter.bdcabletv.com/Ten3HD/mono.m3u8
+http://tvflix00.hopto.org/hls/chst3.m3u8
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 #http://jupiter.bdcabletv.com/Ten4/mono.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
@@ -387,8 +384,8 @@ http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
 #http://babutv.aliflailabd.com:8989/sony-six-hd/index.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
-#http://jupiter.bdcabletv.com/ENC-3/index.m3u8
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/514
+#http://www.luckonline.eu:80/Anil/FrCRlmpWHH/514
+http://eurotv.vip:80/60/60/43012
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://103.159.4.38:5868/SPORTS-7/index.m3u8
@@ -404,16 +401,13 @@ http://stop.next-code.xyz:2052/Nador/66263/62857
 
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
-http://hello.exodus-2.xyz:8080/play/live.php?mac=00:1A:79:78:68:2D&stream=574127&extension=ts&play_token=RTVwYkNBRk81L1VRemJrSHZyYUluQT09
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [1]
-#http://hello.exodus-2.xyz:8080/play/live.php?mac=00:1A:79:47:96:38&stream=571912&extension=ts&play_token=YndVNUR5RzF2SXBsS1NHR0ZnYlhoQT09
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1755
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [2]
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/686915
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-#http://jupiter.bdcabletv.com/willow_hd-sim/index.m3u8
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5437
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
@@ -424,8 +418,6 @@ http://www.luckonline.eu:80/Anil/FrCRlmpWHH/2581
 http://stop.next-code.xyz:2052/Nador/66263/24232
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
-#http://rubeliptv.zapto.org:25461/ips7/44332277/171
-#http://hello.exodus-2.xyz:8080/play/live.php?mac=00:1A:79:78:68:2D&stream=441954&extension=ts&play_token=Vm14Zm9ZaWdpNTEvYVlyUm45TlRkUT09
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/516
 
 
