@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA",BTV World
-#http://103.205.133.40/hls/btvworld.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+http://103.205.133.40/hls/btvworld.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
 #http://103.106.2.149:13456/btv.m3u8
 http://103.205.133.40/hls/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-http://103.205.133.40/hls/ekatoortv.m3u8
+#http://103.205.133.40/hls/ekatoortv.m3u8
+http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
@@ -36,9 +36,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #http://103.205.133.40/hls/banglavision.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
-#http://103.205.133.40/hls/ntv.m3u8
-http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+http://103.205.133.40/hls/ntv.m3u8
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
+#http://173.199.120.51/hls/rtv.m3u8
 http://103.205.133.40/hls/rtv.m3u8
 #EXTINF:-31 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA",SATV
 http://103.205.133.40/hls/satv.m3u8
@@ -56,7 +57,7 @@ http://103.205.133.40/hls/ichannel.m3u8
 http://103.205.133.40/hls/deeptotv.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
 #https://rebrand.ly/JB/GaziTvHD
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #https://streamcdn.getloconow.com/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a/CJV0DSAWS5_5b0c2a64-23b5-4299-b8b2-988103de9e1a_low/manifest.m3u8
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
@@ -67,7 +68,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #http://103.205.133.40/hls/ninechannel.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
-http://tvflixtn.ddns.net/hls/hls/nagorik.m3u8
+#http://tvflixtn.ddns.net/hls/hls/nagorik.m3u8
+http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 #http://103.205.133.40/hls/deshtv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
@@ -260,8 +262,7 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
-#http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-http://stop.next-code.xyz:2052/Nador/66263/19345
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 
@@ -270,7 +271,7 @@ https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #http://babutv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
-http://rubeliptv.zapto.org:25461/ips7/44332277/123
+
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
 #http://tvflixtn.ddns.net/hls/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -512,9 +513,9 @@ http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",T-sports
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Gtv
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Ekattor HD
-http://10.16.100.213:8080/hls/ekattortv.m3u8
+http://10.16.100.203:8080/hls/ekattortv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",DBC News HD
 http://10.16.100.213:8080/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Channel 24
@@ -593,9 +594,18 @@ http://10.16.100.207:8082/sports/sony_ten2_local.m3u8
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",Amazon Obijan[Bangla]
+http://172.16.50.10/SAM-FTP-3/Kolkata%20Bangla%20Movies/%282017%29/Amazon%20Obhijaan%20%282017%29%20720p/Amazon%20Obhijaan%20%282017%29%20Bengali%20Movie%20720p%20Original%20HDRip%20x264%20AAC.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Dictionary [Bangla]
+http://172.16.50.10/SAM-FTP-3/Kolkata%20Bangla%20Movies/%282021%29/Dictionary%20%282021%29%20720p/Dictionary%20%282021%29%20Bengali%20720p%20HDRip%20x264%20AAC%20ESub%20-SmHD.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Body Guard
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282011%29/Bodyguard%20%282011%29%201080p/Bodyguard%20%282011%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Don-2
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282011%29/Don%202%20%282011%29%201080p/Don%202%20%282011%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Spider man [2002]
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Exclusive%20Full%20HD/English/Spider-Man%20(2002)%201080p%20TrueHD%20BluRay.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Laskmi
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Hindi/Laxmii%20Bomb%20(2020)%201080p%20WEBDL.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies", Baaghi 2
 http://f7.amarron.club:8880/movie/kg14m3n0333/xcvz24656/43103.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Bajrangi Bhaijaan
