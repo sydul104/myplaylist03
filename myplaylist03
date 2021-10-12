@@ -147,8 +147,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1628
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1633
-http://eurotv.vip:80/live/60/60/42583.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178710
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 #http://103.159.4.38:5868/ENTEMENT-2/tracks-v1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
@@ -213,7 +212,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 #http://babutv.aliflailabd.com:8989/mtv/index.m3u8
 #http://14.199.164.20:4001/play/a0p3/index.m3u8
-http://stop.next-code.xyz:2052/Nador/66263/62856
+http://ottss.online:8000/44122162500170/30316873476781/178763
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Zee Music
@@ -243,7 +242,7 @@ http://14.199.164.20:4001/play/a0os/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action
 #http://103.153.39.34:8000/play/a06o/index.m3u8
-http://eurotv.vip:80/60/60/51424
+http://ottss.online:8000/44122162500170/30316873476781/178780
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Hindi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
@@ -251,7 +250,7 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
-http://eurotv.vip:80/60/60/50262
+http://ottss.online:8000/44122162500170/30316873476781/178702
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
@@ -267,6 +266,7 @@ http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
+#http://ottss.online:8000/44122162500170/30316873476781/178707
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 
 
@@ -503,6 +503,103 @@ http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="SPORTS", Super Sports 3
 http://93.157.62.180/Supersport3/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MY Server",1
+http://30.30.30.30/live/skyfeed1001/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",2
+http://30.30.30.30/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",3
+http://30.30.30.30/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",4
+http://30.30.30.30/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",5
+http://30.30.30.30/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",6
+http://30.30.30.30/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",7
+http://30.30.30.30/live/skyfeed1007/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",8
+http://30.30.30.30/live/skyfeed1008/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",9
+http://30.30.30.30/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",10
+http://30.30.30.30/live/skyfeed1010/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",11
+http://30.30.30.30/live/skyfeed1011/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",12
+http://30.30.30.30/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",13
+http://30.30.30.30/live/skyfeed1013/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",14
+http://30.30.30.30/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",15
+http://30.30.30.30/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",16
+http://30.30.30.30/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",17
+http://30.30.30.30/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",18
+http://30.30.30.30/live/skyfeed1018/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",19
+http://30.30.30.30/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",20
+http://30.30.30.30/live/skyfeed1020/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",21
+http://30.30.30.30/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",22
+http://30.30.30.30/live/skyfeed1022/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",23
+http://30.30.30.30/live/skyfeed1023/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",24
+http://30.30.30.30/live/skyfeed1024/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",25
+http://30.30.30.30/live/skyfeed1025/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",26
+http://30.30.30.30/live/skyfeed1026/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",27
+http://30.30.30.30/live/skyfeed1027/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",28
+http://30.30.30.30/live/skyfeed1028/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",29
+http://30.30.30.30/live/skyfeed1029/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",30
+http://30.30.30.30/live/skyfeed1030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",31
+http://30.30.30.30/live/skyfeed1031/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",32
+http://30.30.30.30/live/skyfeed1032/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",33
+http://30.30.30.30/live/skyfeed1033/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",34
+http://30.30.30.30/live/skyfeed1034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",35
+http://30.30.30.30/live/skyfeed1035/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",36
+http://30.30.30.30/live/skyfeed1036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",37
+http://30.30.30.30/live/skyfeed1037/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",38
+http://30.30.30.30/live/skyfeed1038/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",39
+http://30.30.30.30/live/skyfeed1039/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",40
+http://30.30.30.30/live/skyfeed1040/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",41
+http://30.30.30.30/live/skyfeed1041/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",42
+http://30.30.30.30/live/skyfeed1042/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",43
+http://30.30.30.30/live/skyfeed1043/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",44
+http://30.30.30.30/live/skyfeed1044/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",45
+http://30.30.30.30/live/skyfeed1045/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",46
+http://30.30.30.30/live/skyfeed1046/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MY Server",47
+http://30.30.30.30/live/skyfeed1047/index.m3u8
+
+
+
 
 
 
@@ -511,79 +608,36 @@ http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Gtv
 http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Ekattor HD
-http://10.16.100.203:8080/hls/ekattortv.m3u8
+http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC New",Somoy tv
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",DBC News HD
-http://10.16.100.213:8080/hls/dbcnews.m3u8
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Channel 24
-http://10.16.100.213:8080/hls/channel24.m3u8
+http://10.16.100.205:8082/bangla/Chanel24_local_bD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Jamuna TV
-http://10.16.100.213:8080/hls/Jamuna.m3u8
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",News 24 HD
-http://10.16.100.213:8080/hls/news24.m3u8
+http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",ATN News
-http://10.16.100.213:8080/hls/atnnews.m3u8
+http://10.16.100.205:8082/bangla/aTnnews_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Bijoy TV HD
-http://10.16.100.213:8080/hls/bijoy.m3u8
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Desh TV
-http://10.16.100.213:8080/hls/deshtv.m3u8
+http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Digi Bangla 24 HD
 http://10.16.100.213:8080/hls/digibangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Mohona TV HD
-http://10.16.100.213:8080/hls/mohona.m3u8
+http://10.16.100.205:8082/bangla/MoHoNa_tV_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",My TV HD
-http://10.16.100.213:8080/hls/mytv.m3u8
+http://10.16.100.205:8082/bangla/mYTv_local_bd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Bangla TV HD
-http://10.16.100.213:8080/hls/banglatv.m3u8
+http://10.16.100.205:8082/bangla/bAnglA_tv_local.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",Nagorik TV
-http://10.16.100.213:8080/hls/nagorik.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Star Jalsha
-http://10.16.100.213:8080/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Zee  Bangla
-http://10.16.100.213:8080/hls/zeebangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Colors Bangla
-http://10.16.100.213:8080/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Sony 8
-http://10.16.100.213:8080/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Kolkata TV
-http://10.16.100.213:8080/hls/kolkatatv.m3u8
-
+http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ICC New",GaanBangla HD
-http://10.16.100.213:8080/hls/gaanbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Sangeet Bangla
-http://10.16.100.213:8080/hls/sangeetbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Dhoom Music
-http://10.16.100.213:8080/hls/dhoommusic.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",9XM
-http://10.16.100.213:8080/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",B4U Music
-http://10.16.100.213:8080/hls/b4umusic.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Mastii
-http://10.16.100.213:8080/hls/masti.m3u8
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Sony TV
-http://10.16.100.213:8080/hls/sony.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Zee TV
-http://10.16.100.213:8080/hls/zeetv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",B4U Movies
-http://10.16.100.213:8080/hls/b4umovies.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",&TV
-http://10.16.100.213:8080/hls/andtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",&Pictures HD
-http://10.16.100.208:8080/hls/&picture.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Colors
-http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Star Plus
-http://10.16.100.200:8082/hls/star_Plus_local.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Wow Cinema
-http://10.16.100.208:8082/hindi/wowmovies_1stop_in.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Star Sports 1 HD
-http://10.16.100.207:8082/sports/star_sports_1_local.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Star Sports Select 1
-http://10.16.100.207:8082/sports/star_sportsselect1_local.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ICC New",Sony Ten 2
-http://10.16.100.207:8082/sports/sony_ten2_local.m3u8
 
 
 
