@@ -334,14 +334,16 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 http://140.238.229.213/sp1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
-http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
+#http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
+http://173.199.120.51/hls/chsp1.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [3]
 #http://103.159.4.38:5868/SPORTS-2/index.m3u8
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+http://173.199.120.51/hls/chsp2.m3u8
 
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
