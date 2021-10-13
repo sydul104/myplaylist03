@@ -458,16 +458,22 @@ http://www.magicoiptv.org:8080/hasan/hasan123/73132
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-1
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+http://21.courhdaour.xyz/live/33523510/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-2
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+http://68.aminouras.xyz/live/652177700/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports Fr-3
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+http://60.aminouras.xyz/live/62464521/index.m3u8
+
+
 
 #EXTINF:-153 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports USA
-
+http://67.aminouras.xyz/live/9962564400/index.m3u8
 #EXTINF:-150 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BEIN SPORT EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1 Eng
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2 Eng
