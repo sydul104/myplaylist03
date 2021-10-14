@@ -128,7 +128,9 @@ http://14.199.164.20:4001/play/a0m1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
 #http://babutv.aliflailabd.com:8989/cartoon-network/index.m3u8
 #http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla HD
@@ -141,7 +143,8 @@ https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://103.153.39.34:8000/play/a047/index.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1302
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://babutv.aliflailabd.com:8989/travel-xp/index.m3u8
 #http://mygoodstream.pw/proxy.php/https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
@@ -191,7 +194,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 
 
 #EXTINF:-78 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD
-#https://rebrand.ly/JB/GaanBanglaHD
 http://103.205.133.40/hls/gaanbangla.m3u8
 #EXTINF:-79 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUSIC",RTV Music
 #http://babutv.aliflailabd.com:8989/rtvmusic/index.m3u8
@@ -228,7 +230,8 @@ http://14.199.164.20:4001/play/a0wk/index.m3u8
 #http://103.159.4.38:5868/MUSIC-2/tracks-v1a1/mono.m3u8
 http://103.205.133.40/hls/masti.m3u8
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+#https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+http://eurotv.vip:80/60/60/52895
 
 
 
@@ -250,8 +253,8 @@ http://ottss.online:8000/44122162500170/30316873476781/178780
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Hindi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
-#http://93.152.174.144:4000/play/stargold/index.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+http://93.152.174.144:4000/play/stargold/index.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 http://ottss.online:8000/44122162500170/30316873476781/178702
@@ -282,6 +285,8 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
 http://93.157.62.180:80/FoxMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movie", SONY AXN FHD
+http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17056
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
 #http://tvflixtn.ddns.net/hls/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -329,6 +334,7 @@ https://www.youtube.com/watch?v=q6m9zBRFLEA
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/502
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
+http://eurotv.vip:80/60/60/43007
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
