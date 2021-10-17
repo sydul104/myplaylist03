@@ -6,11 +6,11 @@ https://234b.short.gy/sydul.btvworld.m3u8
 #https://234b.short.gy/sydul.btv.m3u8
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#http://103.205.133.40/hls/ekatoortv.m3u8
-http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+http://103.205.133.40/hls/ekatoortv.m3u8
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-http://103.205.133.40/hls/somoy.m3u8
+#http://103.205.133.40/hls/somoy.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
 #http://103.159.4.38:8080/BD-BANGLA-12/tracks-v1a1/mono.m3u8
 #http://103.205.133.40/hls/news24.m3u8
@@ -309,12 +309,12 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV [1]
 #http://babutv.aliflailabd.com:8989/gazi-tv/index.m3u8
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://30.30.30.30/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
 #https://piratesiptv.shortcm.li/gazi.m3u8
-http://30.30.30.30/live/skyfeed1006/index.m3u8
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
-https://rebrand.ly/JB/GaziTVHD
+#https://rebrand.ly/JB/GaziTVHD
 http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 
 
@@ -323,7 +323,8 @@ http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+http://172.17.50.112/live/antbd1007/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2] [ICC]
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
@@ -331,8 +332,8 @@ http://103.205.133.40/hls/chsp1.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [3]
 #http://103.159.4.38:5868/SPORTS-2/index.m3u8
-#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
-http://172.17.50.112/live/antbd1007/index.m3u8
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [ICC]
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
