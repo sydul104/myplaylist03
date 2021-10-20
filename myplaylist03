@@ -447,7 +447,8 @@ http://nicefly.xyz:80/h21041003/651032140/246246
 http://www.luckonline.eu:80/Anil/FrCRlmpWHH/2581
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8
 
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
