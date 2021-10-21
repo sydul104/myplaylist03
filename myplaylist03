@@ -328,7 +328,6 @@ http://203.154.243.89:1205
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 1" tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",Live Sports 1
 #http://stream.dhakaflix.com:8081/live/mystream/chunks.m3u8
 #https://dthiptv.ml/hls/live-sports.m3u8
-#http://103.40.226.94:8080/hls/channel_1.m3u8
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635015357&md5=-iHzarh8PiKNosP1oMyxUw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 2" tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports 2
 #https://dthiptv.ml/hls/live-sports2.m3u8
@@ -345,7 +344,8 @@ http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://103.205.133.40/hls/chts.m3u8
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
@@ -359,14 +359,15 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 http://30.30.30.30/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
 #https://piratesiptv.shortcm.li/gazi.m3u8
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
-#https://rebrand.ly/JB/GaziTVHD
-http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
+#http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
+https://rebrand.ly/JB/GaziTVHD
 
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7
