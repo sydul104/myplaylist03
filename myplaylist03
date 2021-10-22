@@ -363,7 +363,8 @@ http://30.30.30.30/live/skyfeed1006/index.m3u8
 http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
 #http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
-https://rebrand.ly/JB/GaziTVHD
+#https://rebrand.ly/JB/GaziTVHD
+http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Bangla
