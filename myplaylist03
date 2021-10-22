@@ -281,7 +281,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/61
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Hindi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Hindi",LOTUS TV Tamil
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Hindi",LOTUS TV Tamil
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
@@ -338,7 +338,7 @@ http://10.16.100.213:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIdPx79sCr4VGEyzwttdwXvSo-Bdrpnsktg&usqp=CAU" group-title="SPORTS",Sports LIVE 4
 http://10.16.100.245/hindi/T_Sports.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/ls2.png" group-title="SPORTS",Live Sports 5
-http://210.210.155.35/session/6b5c7076-2ec7-11eb-9219-c81f66f89318/uq2663/h/h998/live.m3u8
+
 
 
 
@@ -370,7 +370,7 @@ https://rebrand.ly/JB/GaziTVHD
 
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/7
+
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
@@ -379,20 +379,18 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 #http://103.205.133.40/hls/chsp1.m3u8
-#http://93.152.174.144:4000/play/ss1in/index.m3u8
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/10
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+
 
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [3]
-#http://103.159.4.38:5868/SPORTS-2/index.m3u8
-#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
-http://nicefly.xyz:80/h21041003/651032140/246218
+
+
 
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
-#http://103.205.133.40/hls/chsp2.m3u8
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/3
+http://103.205.133.40/hls/chsp2.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
@@ -410,26 +408,25 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/19
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/20
+http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
-#http://rubeliptv.zapto.org:25461/ips7/44332277/309
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 ###http://103.159.4.38:8080/SPORTS-8/tracks-v1a1/mono.m3u8
 ###http://103.205.133.40/hls/chst1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
-#http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
-#http://indo51.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
@@ -440,7 +437,6 @@ http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/111
 
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
