@@ -377,7 +377,8 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.205.133.40/hls/chsp1.m3u8
 #http://93.152.174.144:4000/play/ss1in/index.m3u8
-http://103.81.104.118/hls/stersports1hd.m3u8
+#http://103.81.104.118/hls/stersports1hd.m3u8
+http://103.109.56.116/live/skyfeed1021/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://103.205.133.40/hls/chsp2.m3u8
@@ -399,7 +400,6 @@ http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
