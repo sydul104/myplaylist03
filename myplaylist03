@@ -98,7 +98,7 @@ https://rhridoy136.shortcm.li/mohonatv.m3u8
 #http://103.205.133.40/hls/asiantv.m3u8
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",Bijoy TV
-http://103.205.133.40/hls/bijoytv.m3u8
+#http://103.205.133.40/hls/bijoytv.m3u8
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 
 #EXTINF:-37 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
@@ -116,7 +116,6 @@ https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Islamic",Saudi Quran
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="none" group-title="Islamic",Saudi Sunnah
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=5-mp4a_97200=2.m3u8
 #EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla
 http://173.199.120.51/hls/peacetv.m3u8
 
@@ -176,21 +175,19 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #http://103.205.133.40/hls/chsj.m3u8
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #http://103.81.104.118/hls/starjalsha.m3u8
-http://103.81.104.118/hls/zeebanglahd.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 http://172.17.50.112/live/antbd1007/index.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://103.81.104.118/hls/jalshamovies.m3u8
-
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://103.205.133.40/hls/zeebanglahd.m3u8
 #https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
-
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
+http://103.81.104.118/hls/zeebanglahd.m3u8
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://45.127.244.7:8080/hls/channel11.m3u8
 #https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
