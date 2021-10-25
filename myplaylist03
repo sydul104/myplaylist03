@@ -127,8 +127,7 @@ http://173.199.120.51/hls/peacetv.m3u8
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
-#https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-http://5giptv.me:8880/34516317/55678974/325125
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 #http://103.81.104.118/hls/sonyyay.m3u8
 http://manastv.xyz//m3u8.php?c=Sony_Yay_Tamil&q=800
@@ -174,24 +173,25 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://103.205.133.40/hls/chsj.m3u8
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
-http://5giptv.me:8880/34516317/55678974/179253
+#http://5giptv.me:8880/34516317/55678974/179253
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-#http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3982
-http://5giptv.me:8880/34516317/55678974/179263
+#http://5giptv.me:8880/34516317/55678974/179263
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/3982
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://5giptv.me:8880/34516317/55678974/179254
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://103.205.133.40/hls/zeebanglahd.m3u8
 #https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
-http://5giptv.me:8880/34516317/55678974/325132
+#http://5giptv.me:8880/34516317/55678974/325132
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
+
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://45.127.244.7:8080/hls/channel11.m3u8
 #https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
-http://5giptv.me:8880/34516317/55678974/179257
+#http://5giptv.me:8880/34516317/55678974/179257
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://103.205.133.40/hls/colorsbangla.m3u8
 #http://103.81.104.118/hls/colorsbangla.m3u8
@@ -371,8 +371,9 @@ http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-#http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=tvflixlive.ml
-http://5giptv.me:8880/34516317/55678974/521997
+#http://5giptv.me:8880/34516317/55678974/521997
+http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=tvflixlive.ml
+
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
@@ -382,8 +383,9 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 #http://103.205.133.40/hls/chsp1.m3u8
 #http://103.81.104.118/hls/stersports1hd.m3u8
 #http://103.109.56.116/live/skyfeed1021/index.m3u8
-#http://93.152.174.144:4000/play/ss1in/index.m3u8
-http://5giptv.me:8880/34516317/55678974/179348
+#http://5giptv.me:8880/34516317/55678974/179348
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://103.205.133.40/hls/chsp2.m3u8
@@ -392,8 +394,8 @@ http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
-#http://93.152.174.144:4000/play/ss2in/index.m3u8
-http://5giptv.me:8880/34516317/55678974/521998
+#http://5giptv.me:8880/34516317/55678974/521998
+http://93.152.174.144:4000/play/ss2in/index.m3u8
 
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://103.109.56.116/live/skyfeed1022/index.m3u8
@@ -411,8 +413,9 @@ http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 #http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/11955
-#http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=tvflixlive.ml
-http://5giptv.me:8880/34516317/55678974/179341
+#http://5giptv.me:8880/34516317/55678974/179341
+http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=tvflixlive.ml
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
@@ -421,21 +424,21 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 ###http://103.205.133.40/hls/chst1.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
-http://5giptv.me:8880/34516317/55678974/179340
+#http://5giptv.me:8880/34516317/55678974/179340
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
-http://5giptv.me:8880/34516317/55678974/179345
+#http://5giptv.me:8880/34516317/55678974/179345
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
-http://5giptv.me:8880/34516317/55678974/179337
+#http://5giptv.me:8880/34516317/55678974/179337
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
@@ -452,8 +455,8 @@ http://5giptv.me:8880/34516317/55678974/179339
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://103.159.4.38:5868/SPORTS-7/index.m3u8
 #http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
-#http://103.17.201.18:8000/play/a00v/index.m3u8
-http://5giptv.me:8880/34516317/55678974/522014
+#http://5giptv.me:8880/34516317/55678974/522014
+http://103.17.201.18:8000/play/a00v/index.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5434
