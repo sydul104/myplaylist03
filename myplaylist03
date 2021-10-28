@@ -271,14 +271,13 @@ https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
 #http://103.205.133.40/hls/chs.m3u8
-#http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #http://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
-http://rv.flysat.live:80/ams/ams123/83706
+#http://rv.flysat.live:80/ams/ams123/83706
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
-#http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
 #http://103.205.133.40/hls/andpicture.m3u8
-#http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10622
-http://rv.flysat.live:80/ams/ams123/83687
+#http://rv.flysat.live:80/ams/ams123/83687
+http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10622
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony wah
@@ -339,22 +338,27 @@ http://203.154.243.89:1205
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 1" tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",Live Sports 1
 #https://dthiptv.ml/hls/live-sports.m3u8
-#https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635282095&md5=eFOpN_SeaIpsMnSMA04yPg&user=ef3b0701f26743a4a12ce79435bc6d0d
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635441683&md5=Pn-7VvHr9lWiuhipikurhA&user=ef3b0701f26743a4a12ce79435bc6d0d
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 2" tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports 2
 #https://dthiptv.ml/hls/live-sports2.m3u8
-#https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635281985&md5=hnZJJdazP2_2CHihDjgERQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635441602&md5=Us7pj60uf5GWD-LFsBRcJQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 3" tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports 3
 #https://dthiptv.ml/livesports3.m3u8
 #http://10.16.100.213:8080/hls/tsports.m3u8
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjIdPx79sCr4VGEyzwttdwXvSo-Bdrpnsktg&usqp=CAU" group-title="SPORTS",Sports LIVE 4
-http://10.16.100.245/hindi/T_Sports.m3u8
+#http://10.16.100.245/hindi/T_Sports.m3u8
+https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live
 https://dthiptv.ml/hls/live-sports2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live [2]
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
@@ -415,15 +419,14 @@ http://93.152.174.144:4000/play/ss3in/index.m3u8
 
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-#http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12551
 #http://5giptv.me:8880/34516317/55678974/179344
-http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=tvflixlive.ml
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12551
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
-#http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/11955
 #http://5giptv.me:8880/34516317/55678974/179341
-http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=tvflixlive.ml
+#http://tvflixgd.hopto.org:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=tvflixlive.ml
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/11955
 
 
 
