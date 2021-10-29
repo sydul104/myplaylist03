@@ -338,11 +338,13 @@ http://203.154.243.89:1205
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 1" tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",Live Sports 1
 #https://dthiptv.ml/hls/live-sports.m3u8
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635441683&md5=Pn-7VvHr9lWiuhipikurhA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635441683&md5=Pn-7VvHr9lWiuhipikurhA&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635612021&md5=pp2Ki4lI37PqSLG69giFRg&user=49729ec489674ef3912b6d7cd0822923
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 2" tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports 2
 #https://dthiptv.ml/hls/live-sports2.m3u8
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635441602&md5=Us7pj60uf5GWD-LFsBRcJQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635441602&md5=Us7pj60uf5GWD-LFsBRcJQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5=S9NN43LbVR37_iJu7JSiTA&user=49729ec489674ef3912b6d7cd0822923
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 3" tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports 3
 #https://dthiptv.ml/livesports3.m3u8
@@ -354,7 +356,8 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live
-https://dthiptv.ml/hls/live-sports2.m3u8
+#https://dthiptv.ml/hls/live-sports2.m3u8
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live [2]
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
