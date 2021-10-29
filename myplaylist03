@@ -369,7 +369,8 @@ http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://103.205.133.40/hls/chts.m3u8
 #http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+#http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+http://172.17.50.112/live/antbd1005/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://babutv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
 http://30.30.30.30/live/skyfeed1005/index.m3u8
