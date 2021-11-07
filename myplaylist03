@@ -345,8 +345,8 @@ http://rv.flysat.live:80/ams/ams123/83601
 https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 #http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+#http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeeaction/list/09zeeactionzeeaction.jpg" group-title="Hindi",Zee Action
 #http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
@@ -434,7 +434,8 @@ http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 Hindi
-http://5giptv.me:8880/34516317/55678974/521997
+#http://5giptv.me:8880/34516317/55678974/521997
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RK
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
@@ -453,7 +454,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://93.152.174.144:4000/play/ss2in/index.m3u8
-http://5giptv.me:8880/34516317/55678974/521998
+#http://5giptv.me:8880/34516317/55678974/521998
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8
 
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://93.152.174.144:4000/play/ss3in/index.m3u8
@@ -514,6 +516,9 @@ http://5giptv.me:8880/34516317/55678974/522014
 #http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5434
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
+#EXTINF:-1,#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png",Ten Sports
 #http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5433
 http://5giptv.me:8880/34516317/55678974/522179
@@ -521,6 +526,9 @@ http://5giptv.me:8880/34516317/55678974/522179
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
 #http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
 http://5giptv.me:8880/34516317/55678974/191357
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
+http://212.224.98.209:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [1]
 #http://45.76.153.227/ch/icc.m3u8
@@ -531,7 +539,8 @@ http://5giptv.me:8880/34516317/55678974/522015
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://tvflixgd.hopto.org:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=tvflixlive.ml
 #http://mytv.fun:8080/2df6e71oil/90i9wr21j8/5437
-http://nicefly.xyz:80/h21041003/651032140/246246
+#http://nicefly.xyz:80/h21041003/651032140/246246
+http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=rk
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
 http://5giptv.me:8880/34516317/55678974/522005
