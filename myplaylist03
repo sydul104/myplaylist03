@@ -4,9 +4,8 @@ http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 #http://str24.l9574.com/604.stream/index.m3u8
-http://bciptv.net:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=8467b86032eeb2e95d176aefa635d0aa6f4347b6-e340616cb3669074db1297a63581ac3a-1636363011-1636352211
+http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
@@ -46,8 +45,7 @@ http://30.30.30.30/live/skyfeed1011/index.m3u8
 http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#https://rebrand.ly/JB/GaziTvHD
-http://bciptv.net:8082/iptv1-gazi-tv/tracks-v1a1/mono.m3u8?token=e3836ae5f6f785b2f36a91d5660acc2a472238d9-2bbacc1cf9e1a87e4bb276db50ab5aa7-1636363181-1636352381
+https://rebrand.ly/JB/GaziTvHD
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
@@ -290,10 +288,10 @@ http://203.154.243.89:1205
 
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 1" tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",Live Sports 1
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=bYcaxqj8Fb80wBqS40EBqg&expires=1636329779&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636578225&md5=qsS4QBsHNkPtDZqpHEa9WQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 2" tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports 2
-https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=I6sMYtEQtrs6pt0-E6r4ig&expires=1636329723&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636578168&md5=TggGwdnvS1mAKBoK1Bse_Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 3" tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports 3
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
@@ -302,7 +300,6 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live [2]
-http://bciptv.net:8082/iptv4-star-sports1/tracks-v1a1/mono.m3u8?token=a924c41dec3c6b1f44662334503856e6de289323-c5dadf80d5f7be153eef0cb53e8e0c49-1636363075-1636352275
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
