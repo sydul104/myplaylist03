@@ -408,8 +408,8 @@ http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="SPORTS", Super Sports 3
 http://93.157.62.180/Supersport3/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="SPORTS",FS1
+http://4.26.188.2:8081/udp/239.193.10.101:23901
 
 
 
