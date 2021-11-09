@@ -50,6 +50,7 @@ https://rebrand.ly/JB/GaziTvHD
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://5giptv.me:8880/34516317/55678974/179281
 http://10.16.100.207:8082/sports/maasr@nga_1StOp.m3u8
@@ -309,7 +310,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://172.17.50.112/live/antbd1005/index.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 http://30.30.30.30/live/skyfeed1005/index.m3u8
 
