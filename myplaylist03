@@ -198,7 +198,8 @@ http://14.199.164.20:4001/play/a0rh/index.m3u8
 http://rv.flysat.live:80/ams/ams123/83691
 #EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
 #http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+http://rv.flysat.live:80/ams/ams123/83647
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
 #http://103.205.133.40/hls/9xm.m3u8
 #http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -246,7 +247,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 http://rv.flysat.live:80/ams/ams123/83632
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Hindi",Risty Cinaplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+http://rv.flysat.live:80/ams/ams123/83651
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Hindi",LOTUS TV Tamil
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
@@ -329,9 +331,9 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
+#http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 http://5giptv.me:8880/34516317/55678974/521998
-#http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 http://nicefly.xyz:80/h21041003/651032140/246220
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
