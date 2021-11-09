@@ -331,7 +331,7 @@ http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 http://5giptv.me:8880/34516317/55678974/521998
-http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 http://nicefly.xyz:80/h21041003/651032140/246220
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
