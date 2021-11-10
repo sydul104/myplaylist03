@@ -397,11 +397,29 @@ http://tv.alphamediazone.com:8089/thunderbd/72/index.m3u8
 http://5giptv.me:8880/34516317/55678974/522007
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
+http://5giptv.me:8880/34516317/55678974/146390
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
+http://5giptv.me:8880/34516317/55678974/61304
+#EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
+http://5giptv.me:8880/34516317/55678974/146394
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 1
+#http://5giptv.me:8880/34516317/55678974/61303
+http://5giptv.me:8880/34516317/55678974/10463
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 2
+http://5giptv.me:8880/34516317/55678974/146391
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 3
+http://5giptv.me:8880/34516317/55678974/146392
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports6.qa.png" group-title="SPORTS",BeIN Sports 6
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
+#http://5giptv.me:8880/34516317/55678974/135577
+http://5giptv.me:8880/34516317/55678974/99546
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
+#http://5giptv.me:8880/34516317/55678974/109031
+http://5giptv.me:8880/34516317/55678974/320654
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
+
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
 https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
