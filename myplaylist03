@@ -315,6 +315,7 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 http://172.17.50.112/live/antbd1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live [2]
 http://103.40.226.94:8080/hls/channel_1.m3u8
+https://localiptv.tk/Local_IPTV_PLAYLIST/GAZI_TV_LIVE.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
@@ -389,6 +390,7 @@ http://5giptv.me:8880/34516317/55678974/522005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
 #http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 http://5giptv.me:8880/34516317/55678974/522001
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports MIX
 http://tv.alphamediazone.com:8089/thunderbd/72/index.m3u8
 
