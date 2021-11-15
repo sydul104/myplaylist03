@@ -128,7 +128,8 @@ http://tv.alphamediazone.com:8089/thunderbd/63/index.m3u8
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/55/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/55/index.m3u8
+http://65.2.4.240/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 http://rv.flysat.live:80/ams/ams123/83698
 #EXTINF:-1 tvg-logo="" group-title="Kids",Mr Bean Show
