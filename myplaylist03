@@ -6,8 +6,8 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://str24.l9574.com/604.stream/index.m3u8
 #http://tv.alphamediazone.com:8089/thunderbd/11/index.m3u8
-#http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
-https://last.gcdn.co/IND429/index.m3u8
+#https://last.gcdn.co/IND429/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/41
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 #http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/17/index.m3u8
@@ -184,7 +184,8 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 https://last.gcdn.co/IND399/index.m3u8
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-http://5giptv.me:8880/34516317/55678974/179254
+#http://5giptv.me:8880/34516317/55678974/179254
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 http://rv.flysat.live:80/ams/ams123/83727
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
@@ -352,14 +353,17 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=qGLCP3ZgaMGBDxq
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live
-http://172.17.50.112/live/antbd1005/index.m3u8
+#http://172.17.50.112/live/antbd1005/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/334
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live [2]
 #http://103.40.226.94:8080/hls/channel_1.m3u8
 http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/300
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/241
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
@@ -371,10 +375,11 @@ http://30.30.30.30/live/skyfeed1006/index.m3u8
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
 #https://rebrand.ly/JB/GaziTVHD
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
-
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/43
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://172.17.50.112/live/antbd1007/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
@@ -391,9 +396,11 @@ http://nicefly.xyz:80/h21041003/651032140/246220
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://5giptv.me:8880/34516317/55678974/179344
 http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
+http://58.27.219.166:8000/play/a04v/index.m3u8
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://5giptv.me:8880/34516317/55678974/179341
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+http://58.27.219.166:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
@@ -406,13 +413,17 @@ http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
-http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/65
 
 #EXTINF:-1,#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
-http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/498
+#http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/498
+#http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/96
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -420,7 +431,8 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
-http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+#http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
 
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
@@ -435,15 +447,18 @@ http://5giptv.me:8880/34516317/55678974/522015
 http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
-http://5giptv.me:8880/34516317/55678974/522005
+#http://5giptv.me:8880/34516317/55678974/522005
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/133
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
 #http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #http://5giptv.me:8880/34516317/55678974/522001
-http://93.152.174.144:4000/play/skysports2/index.m3u8
+#http://93.152.174.144:4000/play/skysports2/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports MIX
 http://tv.alphamediazone.com:8089/thunderbd/72/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/327
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 #http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
@@ -468,9 +483,11 @@ http://5giptv.me:8880/34516317/55678974/146392
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
 #http://5giptv.me:8880/34516317/55678974/135577
 http://5giptv.me:8880/34516317/55678974/99546
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
 #http://5giptv.me:8880/34516317/55678974/109031
 http://5giptv.me:8880/34516317/55678974/320654
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/165
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/3906
 
