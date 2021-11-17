@@ -254,8 +254,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://rv.flysat.live:80/ams/ams123/83729
-#https://last.gcdn.co/IND392/index.m3u8
-http://103.109.56.116/live/skyfeed1003/index.m3u8
+#http://103.109.56.116/live/skyfeed1003/index.m3u8
+https://last.gcdn.co/IND392/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 https://last.gcdn.co/IND399/index.m3u8
@@ -499,6 +499,7 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 http://30.30.30.30/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
 http://103.109.56.116/live/skyfeed1001/index.m3u8
+http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
 #https://rebrand.ly/JB/GaziTVHD
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
