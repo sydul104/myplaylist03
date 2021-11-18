@@ -639,11 +639,11 @@ https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 
-#EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="MOVIE",Movie channel-1
+#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-1
 http://storage.iplex.live/Movies/Bangla/Bangladeshi/2021/Dark.Room.2021.720P.x264.AAC.iPlex.mp4
-#EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="MOVIE",Movie channel-2
+#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-2
 http://storage.iplex.live/TV%20Series/Bangla/The%20Dark%20Side%20Of%20Dhaka%202021%20Bengali%201080P%20WEBRIP%20H265%20HEVC%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="MOVIE",Movie channel-3
+#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-3
 http://storage.iplex.live/Movies/Bangla/Bangladeshi/2021/Youtumor.2021.1080p.x264.AAC.VTL.mp4
 
 
