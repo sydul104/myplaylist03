@@ -473,18 +473,19 @@ http://10.16.100.245/hindi/T_Sports.m3u8
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 2" tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports 2
-https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=qGLCP3ZgaMGBDxqFBhp4NA&expires=1637118762&user=ef3b0701f26743a4a12ce79435bc6d0d
+#https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=qGLCP3ZgaMGBDxqFBhp4NA&expires=1637118762&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://65.2.4.240/jioo.php?c=Jio_Cricket_1_HD&q=600&e=.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 3" tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports 3
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live
-#http://172.17.50.112/live/antbd1005/index.m3u8
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/334
+http://172.17.50.112/live/antbd1005/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live [2]
 #http://103.40.226.94:8080/hls/channel_1.m3u8
 http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/300
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
