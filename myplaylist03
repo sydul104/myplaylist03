@@ -471,39 +471,36 @@ http://203.154.243.89:1205
 
 
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 1" tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS",Live Sports 1
-#https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636578225&md5=qsS4QBsHNkPtDZqpHEa9WQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-http://10.16.100.245/hindi/T_Sports.m3u8
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports  1
+#http://10.16.100.245/hindi/T_Sports.m3u8
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 2" tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS",Live Sports 2
-#https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=qGLCP3ZgaMGBDxqFBhp4NA&expires=1637118762&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports Live Sports 2
 http://65.2.4.240/jioo.php?c=Jio_Cricket_1_HD&q=600&e=.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Live Sports 3" tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS",Live Sports 3
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports Live Sports 3
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 http://172.17.50.112/live/antbd1005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mpnrc.org/wp-content/uploads/2021/07/T20-World-cup.png" group-title="SPORTS", T20 World Cup Live [2]
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp5.png" group-title="SPORTS", Live Sports 5
 #http://103.40.226.94:8080/hls/channel_1.m3u8
 http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-#http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/241
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 http://30.30.30.30/live/skyfeed1005/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV [1]
 http://30.30.30.30/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
-http://103.109.56.116/live/skyfeed1001/index.m3u8
+#http://103.109.56.116/live/skyfeed1001/index.m3u8
 http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [3]
 #https://rebrand.ly/JB/GaziTVHD
@@ -512,43 +509,55 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/43
+
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://172.17.50.112/live/antbd1007/index.m3u8
+
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 http://103.109.56.116/live/skyfeed1002/index.m3u8
+
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #http://5giptv.me:8880/34516317/55678974/521998
 http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
+
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://nicefly.xyz:80/h21041003/651032140/246220
 http://58.27.219.166:8000/play/a05n/index.m3u8
+
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://5giptv.me:8880/34516317/55678974/179344
 http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
 http://58.27.219.166:8000/play/a04v/index.m3u8
+
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://5giptv.me:8880/34516317/55678974/179341
+#http://58.27.219.166:8000/play/a04w/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
-http://58.27.219.166:8000/play/a04w/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 #http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/65
@@ -592,6 +601,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/133
 #http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Football
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/166
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports MIX
 http://tv.alphamediazone.com:8089/thunderbd/72/index.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/327
@@ -601,7 +613,8 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/327
 http://5giptv.me:8880/34516317/55678974/522007
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
-http://5giptv.me:8880/34516317/55678974/146390
+#http://5giptv.me:8880/34516317/55678974/146390
+http://5giptv.me:8880/34516317/55678974/461335
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
 http://5giptv.me:8880/34516317/55678974/61304
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
@@ -617,13 +630,13 @@ http://5giptv.me:8880/34516317/55678974/146392
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="SPORTS",BeIN Sports 7
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
-#http://5giptv.me:8880/34516317/55678974/135577
-http://5giptv.me:8880/34516317/55678974/99546
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
+#http://5giptv.me:8880/34516317/55678974/99546
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
+http://5giptv.me:8880/34516317/55678974/135577
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
 #http://5giptv.me:8880/34516317/55678974/109031
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/165
 http://5giptv.me:8880/34516317/55678974/320654
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/165
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/3906
 
