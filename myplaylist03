@@ -8,6 +8,7 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://tv.alphamediazone.com:8089/thunderbd/11/index.m3u8
 #https://last.gcdn.co/IND429/index.m3u8
+#http://5giptv.me:8880/34516317/55678974/324703
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/41
 http://str24.l9574.com/604.stream/index.m3u8
 
@@ -61,7 +62,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #http://30.30.30.30/live/skyfeed1022/index.m3u8
 #https://last.gcdn.co/IND420/index.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/51
-http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
+http://5giptv.me:8880/34516317/55678974/179269
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 #http://30.30.30.30/live/skyfeed1023/index.m3u8
@@ -119,7 +121,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
 #https://last.gcdn.co/IND433/index.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/59/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/59/index.m3u8
+http://5giptv.me:8880/34516317/55678974/179289
 
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 #https://last.gcdn.co/IND443/index.m3u8
