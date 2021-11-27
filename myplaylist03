@@ -60,10 +60,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
 #http://30.30.30.30/live/skyfeed1022/index.m3u8
-#https://last.gcdn.co/IND420/index.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/51
 #http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
-http://5giptv.me:8880/34516317/55678974/179269
+#http://5giptv.me:8880/34516317/55678974/179269
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/188
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 #http://30.30.30.30/live/skyfeed1023/index.m3u8
@@ -100,19 +99,19 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
-#https://rebrand.ly/JB/GaziTvHD
 #https://last.gcdn.co/IND425/index.m3u8
-https://live.sonyplex.com/ott/gtv.stream/chunklist_w149568572.m3u8
-
+https://rebrand.ly/JB/GaziTvHD
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #https://last.gcdn.co/IND424/index.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/241
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 #https://piratesiptv.shortcm.li/channel9.m3u8
@@ -179,7 +178,7 @@ http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 
 #EXTINF:-47 tvg-id="" tvg-name="Saudi Quran" tvg-logo="" group-title="Islamic",Madina live
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/301
 
 #EXTINF:-49 tvg-id="(no tvg-id)" tvg-name="Peace TV Bangla" tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="Islamic",Peace TV Bangla
 #http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
@@ -199,9 +198,7 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
-#https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-#http://tv.alphamediazone.com:8089/thunderbd/55/index.m3u8
-http://65.2.4.240/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 #http://rv.flysat.live:80/ams/ams123/83698
@@ -227,8 +224,7 @@ http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Engliah HD
 #https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
-#http://172.17.50.112/live/antbd1008/index.m3u8
-http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+http://172.17.50.112/live/antbd1008/index.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD Bangla
 https://last.gcdn.co/IND414/index.m3u8
@@ -255,8 +251,6 @@ http://tv.alphamediazone.com:8089/thunderbd/44/index.m3u8
 #http://65.2.4.240/jioo.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/315
 
-#EXTINF:-1 tvg-logo="" group-title="Documentary",Safari
-https://last.gcdn.co/IND520/index.m3u8
 
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -363,6 +357,7 @@ http://rv.flysat.live:80/ams/ams123/83647
 
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
 #http://103.205.133.40/hls/9xm.m3u8
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/306
 #http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
@@ -387,7 +382,8 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 http://14.199.164.20:4001/play/a0my/index.m3u8
 
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
-https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+#https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/303
 
 
 
@@ -399,7 +395,8 @@ http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
 
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
 #http://rv.flysat.live:80/ams/ams123/83687
-http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/100/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
 
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
@@ -446,13 +443,16 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/223
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="" group-title="Hindi", Zee Action
 #http://tv.alphamediazone.com:8089/thunderbd/90/index.m3u8
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/310
+
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
 #http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246204
 #http://rv.flysat.live:80/ams/ams123/83705
-http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/316
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 #http://ottss.online:8000/44122162500170/30316873476781/178707
@@ -462,7 +462,8 @@ http://mangostv.ddns.net/iptv/SNZC9Z4RPEYGA3/6625/index.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 #http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
-https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
