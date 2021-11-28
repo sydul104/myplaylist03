@@ -203,7 +203,7 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+http://58.65.194.14:1935/live/NickJr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 #http://rv.flysat.live:80/ams/ams123/83698
@@ -223,10 +223,9 @@ https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Bangla
-#http://5giptv.me:8880/34516317/55678974/325128
-#https://last.gcdn.co/IND415/index.m3u8
 #http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
-http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/748
+#http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/748
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Engliah HD
 #https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
@@ -248,6 +247,7 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/136
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1628
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel Tv HD
 https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w1084546598_b2128000_slbul.m3u8
@@ -256,6 +256,7 @@ https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w10845465
 #https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #http://tv.alphamediazone.com:8089/thunderbd/44/index.m3u8
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1633
+http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/315
@@ -271,12 +272,12 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/26
 
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-#http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
+
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
-#http://5giptv.me:8880/34516317/55678974/179254
 #http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsezqDnAfyc8SCX_W9m0x-os/ts
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
 
@@ -386,6 +387,7 @@ http://103.159.4.38:5868/MUSIC-10/tracks-v1a1/mono.m3u8
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
 #http://14.199.164.20:4001/play/a0p2/index.m3u8
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/663
+http://58.65.194.14:1935/live/ARY-Musik.stream/playlist.m3u8
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 #http://14.199.164.20:4001/play/a0wk/index.m3u8
@@ -497,6 +499,7 @@ http://93.157.62.180:80/FoxMovies/index.m3u8
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
 #http://tvflixtn.ddns.net/hls/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -540,6 +543,7 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/502
+https://236s.short.gy/DreamTV/ChSP1.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://172.17.50.112/live/antbd1007/index.m3u8
@@ -619,6 +623,7 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",A Sports
+#http://58.65.194.14:1935/live/A-Sports.stream/playlist.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
@@ -652,7 +657,8 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/133
 #http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #http://5giptv.me:8880/34516317/55678974/522001
 #http://93.152.174.144:4000/play/skysports2/index.m3u8
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/146
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Football
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/166
@@ -668,6 +674,7 @@ http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
 #http://5giptv.me:8880/34516317/55678974/61304
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
@@ -675,6 +682,7 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
 http://5giptv.me:8880/34516317/55678974/146394
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/158
+http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/3058
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
@@ -687,6 +695,7 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/164
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/2243
+http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/2242
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
