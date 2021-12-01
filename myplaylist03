@@ -437,7 +437,7 @@ http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://93.152.174.144:4000/play/stargold/index.m3u8
 #http://rv.flysat.live:80/ams/ams123/83711
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaTaXo1c11uyRGpHyWPC28Q/ts
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://rv.flysat.live:80/ams/ams123/83710
@@ -487,7 +487,7 @@ http://93.157.62.180:80/FoxMovies/index.m3u8
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
 #http://tvflixtn.ddns.net/hls/hbo.m3u8
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
