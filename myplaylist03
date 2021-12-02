@@ -486,7 +486,7 @@ http://93.157.62.180:80/FoxMovies/index.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo=" " group-title="English Movie",AXN (ASIA)
-http://50.7.61.148:30080/index/axn
+http://50.7.61.148:30080/Entry/axn
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
