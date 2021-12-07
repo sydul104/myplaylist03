@@ -139,7 +139,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-35 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="BANGLA",Asian TV
 #http://jupiter.bdcabletv.com/AsianTVHD-IRD/video.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BANGLA",Bijoy TV
 #http://30.30.30.30/live/skyfeed1024/index.m3u8
@@ -248,12 +248,14 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
 #http://rv.flysat.live:80/ams/ams123/83645
 #http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/127
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/127
+http://ottss.online:8000/44122162500170/30316873476781/178767
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://rv.flysat.live:80/ams/ams123/83646
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/136
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178766
 
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
@@ -363,13 +365,13 @@ http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
 #http://nicefly.xyz:80/h21041003/651032140/246281
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/89
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/89
+http://ottss.online:8000/44122162500170/30316873476781/178721
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
 #http://14.199.164.20:4001/play/a0mt/index.m3u8
 http://208.86.19.21:80/733.stream/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-
 
 #EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/306
@@ -377,7 +379,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 #http://rv.flysat.live:80/ams/ams123/83649
-http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
+#http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178763
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv
 #http://rv.flysat.live:80/ams/ams123/83648
@@ -400,6 +403,10 @@ http://14.199.164.20:4001/play/a0my/index.m3u8
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/303
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi, TATA Sky Movies
+http://ottss.online:8000/44122162500170/30316873476781/178779
+
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
@@ -413,11 +420,13 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
-http://ablivetv.webd.pro/star7/star7.php?id=48107&e=.m3u8
+#http://ablivetv.webd.pro/star7/star7.php?id=48107&e=.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178701
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://183.178.58.115:8026/0.m3u8
-http://208.86.19.21:80/709.stream/index.m3u8
+#http://208.86.19.21:80/709.stream/index.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178702
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 http://ablivetv.webd.pro/star7/star7.php?id=48113&e=.m3u8
