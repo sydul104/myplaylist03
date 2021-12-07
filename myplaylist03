@@ -598,9 +598,12 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
 #http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1317
 
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Football
-#http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Primiar League
+http://cro.hockeynews.club/live/2/chunks.m3u8
+
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
+#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
+http://cro.hockeynews.club/live/2/chunks.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 #http://5giptv.me:8880/34516317/55678974/522015
@@ -632,10 +635,13 @@ http://208.86.19.21:80/720.stream/index.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 #http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
-http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
+#http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
@@ -681,32 +687,6 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 #EXTINF:-164 tvg-logo="" group-title="SPORTS",Sports tv
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-
-
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-1
-http://storage.iplex.live/Movies/Bangla/Bangladeshi/2021/Dark.Room.2021.720P.x264.AAC.iPlex.mp4
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-2
-http://storage.iplex.live/TV%20Series/Bangla/The%20Dark%20Side%20Of%20Dhaka%202021%20Bengali%201080P%20WEBRIP%20H265%20HEVC%20AAC%202.0%20-%20%5BHasan%5D.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",Movie channel-3
-http://storage.iplex.live/Movies/Bangla/Bangladeshi/2021/Youtumor.2021.1080p.x264.AAC.VTL.mp4
-
-
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",ISKABONER RANI
-https://www.googleapis.com/drive/v3/files/1qESl4oS1jh533FCvLTZrLJstSVRmLJsz?alt=media&key=AIzaSyD0SxLSv34ivId5qpj-sIbbJY9xSmp16Ac
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",GODZILLA 4k
-http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/English/Godzilla%20King%20Of%20The%20Monsters%20(2019)%202160p%20BluRay.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",SHERSHAH 4K
-http://10.16.100.202/ftps10/iccftps10sasd8/Movies/4K/Hindi/Shershaah%20(2021)%202160p%20WEBDL%20DDP%205.1%20HEVC.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",KING KONG 4K
-http://10.16.100.206/ftps3/ftps3d5/Movies/4K/English/King%20Kong%20(2005)%202160p%20BluRay.mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE", BCS BANGLA 1ST&2ND
-http://10.16.100.246/ftps4d1/TV%20Show/Bangla%20Drama/BCS%20Bangla%20Prothom%20O%20Ditio%20Potro%20(Drama).mkv
-#EXTINF:-164 tvg-logo="" group-title="MOVIE",NATOK
-http://10.16.100.241/ftps3d7/TV%20Shows/Bangla%20Drama/Mui%20Barishailla%20Mui%20Bangladeshi%20(2019)%201080p%20HDRip.mp4
-#EXTINF:-164 tvg-logo="" group-title="MOVIE", BANGI 1
-http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Natok/Bangi%20TV%20E01.mp4
-#EXTINF:-164 tvg-logo="" group-title="MOVIE", BANGI 2
-http://10.16.100.241/ftps3d4/TV%20Shows/Bangla%20Drama/Bangi%20TV%20Bangla%20Natok/Bangi%20TV%20E02.mp4
 
 
 
