@@ -238,7 +238,8 @@ http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Engliah HD
 #https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
 #http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
-http://172.17.50.112/live/antbd1008/index.m3u8
+#http://172.17.50.112/live/antbd1008/index.m3u8
+http://103.131.212.138:8000/play/a004
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD Bangla
 #https://last.gcdn.co/IND414/index.m3u8
@@ -249,7 +250,8 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 #http://rv.flysat.live:80/ams/ams123/83645
 #http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/127
-http://ottss.online:8000/44122162500170/30316873476781/178767
+#http://ottss.online:8000/44122162500170/30316873476781/178767
+http://103.131.212.138:8000/play/a00x
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://rv.flysat.live:80/ams/ams123/83646
@@ -269,7 +271,8 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1633
-http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
+#http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
+http://103.131.212.138:8000/play/a016
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/315
@@ -421,12 +424,14 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 #http://ablivetv.webd.pro/star7/star7.php?id=48107&e=.m3u8
-http://ottss.online:8000/44122162500170/30316873476781/178701
+#http://ottss.online:8000/44122162500170/30316873476781/178701
+http://103.131.212.138:8000/play/a013
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://183.178.58.115:8026/0.m3u8
 #http://208.86.19.21:80/709.stream/index.m3u8
-http://ottss.online:8000/44122162500170/30316873476781/178702
+#http://ottss.online:8000/44122162500170/30316873476781/178702
+http://103.131.212.138:8000/play/a015
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 http://ablivetv.webd.pro/star7/star7.php?id=48113&e=.m3u8
@@ -521,10 +526,10 @@ http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 https://rebrand.ly/JB/GaziTVHD
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
-#http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/502
 #https://236s.short.gy/DreamTV/ChSP1.m3u8
 #http://ablivetv.webd.pro/star7/star7.php?id=48105&e=.m3u8
-http://208.86.19.21:80/710.stream/index.m3u8
+#http://208.86.19.21:80/710.stream/index.m3u8
+http://103.131.212.138:8000/play/a025/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://172.17.50.112/live/antbd1007/index.m3u8
@@ -536,7 +541,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/48
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 #http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
-http://208.86.19.21:80/724.stream/index.m3u8
+#http://208.86.19.21:80/724.stream/index.m3u8
+#http://103.131.212.138:8000/play/a029
+http://103.131.212.138:8000/play/a026
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
@@ -581,11 +588,11 @@ http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
 http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/65
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/65
+http://103.131.212.138:8000/play/a028
 
-#EXTINF:-1,#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
+#EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://208.86.19.21:80/610.stream/index.m3u8
-#http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
 #http://watch.emasti.pk/stream/ptvsports/playlist.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/96
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
@@ -612,20 +619,17 @@ http://rk@212.102.60.40:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?to
 http://cro.hockeynews.club/live/2/chunks.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
-#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
-http://cro.hockeynews.club/live/1/chunks.m3u8
+#http://cro.hockeynews.club/live/1/chunks.m3u8
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-#http://5giptv.me:8880/34516317/55678974/522015
 http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1755
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-#http://tv.alphamediazone.com:8089/thunderbd/70/index.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246246
 http://208.86.19.21:80/731.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
-#http://5giptv.me:8880/34516317/55678974/522005
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/133
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
