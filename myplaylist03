@@ -414,7 +414,8 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
 #http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUF77MHtEYNTNJrMzWOinYA/ts
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
+http://208.86.19.21:80/705.stream/index.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
@@ -429,7 +430,8 @@ http://103.131.212.138:8000/play/a013
 http://208.86.19.21:80/709.stream/index.m3u8
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
-http://ablivetv.webd.pro/star7/star7.php?id=48113&e=.m3u8
+#http://ablivetv.webd.pro/star7/star7.php?id=48113&e=.m3u8
+https://live-nayeem-parvez.ml/b1g.php/Zee-Cinema-SD.m3u8
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/223
@@ -449,7 +451,8 @@ http://tvflixback0.hopto.org/702.stream/index.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/316
-http://nicefly.xyz:80/h21041003/651032140/246204
+#http://nicefly.xyz:80/h21041003/651032140/246204
+http://208.86.19.21:80/706.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 #http://208.86.19.21:80/706.stream/index.m3u8
@@ -490,7 +493,8 @@ http://203.154.243.89:1205
 https://localiptv.tk/Local_IPTV_PLAYLIST/paytm_t20_Trophy/IND_VS_NZ/JIO_CRICKET_HD.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports 2
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_Bangali_HD&q=1200&e=@LiveTvLinksForFree.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 
@@ -499,8 +503,8 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-#http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/241
+
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
@@ -528,27 +532,27 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/43
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/48
+http://208.86.19.21:80/710.stream/index.m3u8?token=@LiveTvLinksForFree
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 #http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
-#http://208.86.19.21:80/724.stream/index.m3u8
 http://103.131.212.138:8000/play/a029
+http://208.86.19.21:80/724.stream/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
 #http://5giptv.me:8880/34516317/55678974/521998
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
-#http://208.86.19.21:80/715.stream/index.m3u8
-http://103.131.212.138:8000/play/a026
+#http://103.131.212.138:8000/play/a026
+http://208.86.19.21:80/715.stream/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/ts
+#http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/ts
+http://jupiter.bdcabletv.com/StarSports_2-Enc/video.m3u8
 
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://nicefly.xyz:80/h21041003/651032140/246220
 http://208.86.19.21:80/732.stream/index.m3u8
-
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
@@ -560,7 +564,8 @@ http://208.86.19.21:80/736.stream/index.m3u8
 #http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVV99hLFD5zWua6fLdsFNM/ts
 #http://103.131.212.138:8000/play/a01a/index.m3u8
 #http://ablivetv.webd.pro/star7/star7.php?id=48111&e=.m3u8
-http://208.86.19.21:80/737.stream/index.m3u8
+#http://208.86.19.21:80/737.stream/index.m3u8
+http://jupiter.bdcabletv.com/selecttwo/video.m3u8?token=@LiveTvLinksForFree
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/144
@@ -570,8 +575,7 @@ http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/134
-http://tvflixback0.hopto.org/712.stream/index.m3u8
-
+http://208.86.19.21:80/712.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://luckonline.eu:8080/live/CukyFcVq20/sHong3Hzd0/518.m3u8
@@ -606,8 +610,7 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
 #http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 #http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/10608.m3u8
-#http://luckonline.eu:8080/live/CukyFcVq20/sHong3Hzd0/510.m3u8
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
+http://208.86.19.21:80/711.stream/index.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
 #http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
