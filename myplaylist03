@@ -706,7 +706,8 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD1
-https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+#https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 
