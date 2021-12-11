@@ -96,10 +96,12 @@ http://str24.l9574.com/609.stream/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
 https://rebrand.ly/JB/GaziTvHD
+https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/241
-http://208.86.19.21:80/905.stream/index.m3u8
+#http://208.86.19.21:80/905.stream/index.m3u8
+https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
