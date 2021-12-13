@@ -203,6 +203,8 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
+#https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1292
@@ -250,12 +252,14 @@ http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://rv.flysat.live:80/ams/ams123/83646
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/136
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246233
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/156
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Clarity 4K
 
@@ -369,7 +373,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 #http://rv.flysat.live:80/ams/ams123/83649
 #http://ottss.online:8000/44122162500170/30316873476781/178763
-http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/222
+#http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=400&e=.m3u8
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv
 #http://rv.flysat.live:80/ams/ams123/83648
@@ -380,7 +386,10 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 #http://14.199.164.20:4001/play/a0wk/index.m3u8
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/294
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/70
+
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
 #http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
@@ -408,12 +417,15 @@ http://208.86.19.21:80/705.stream/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://ablivetv.webd.pro/star7/star7.php?id=48107&e=.m3u8
 #http://ottss.online:8000/44122162500170/30316873476781/178701
-http://208.86.19.21/717.stream/index.m3u8
+#http://208.86.19.21/717.stream/index.m3u8
+#http://sonyiptv.net:8080/jamal/jamal/199234
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/42
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://183.178.58.115:8026/0.m3u8
 #http://ottss.online:8000/44122162500170/30316873476781/178702
-http://208.86.19.21:80/709.stream/index.m3u8
+#http://208.86.19.21:80/709.stream/index.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/24
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 #http://ablivetv.webd.pro/star7/star7.php?id=48113&e=.m3u8
@@ -437,7 +449,8 @@ http://208.86.19.21:80/702.stream/index.m3u8
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/316
 #http://nicefly.xyz:80/h21041003/651032140/246204
-http://208.86.19.21:80/706.stream/index.m3u8
+#http://208.86.19.21:80/706.stream/index.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/40
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX HD
 #http://208.86.19.21:80/706.stream/index.m3u8
@@ -445,9 +458,8 @@ http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/314
-http://103.131.212.138:8000/play/a017/index.m3u8
-
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox
+#http://103.131.212.138:8000/play/a017/index.m3u8
+http://103.157.210.165:8000/play/a01h/index.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
 http://93.157.62.180:80/FoxMovies/index.m3u8
@@ -456,6 +468,9 @@ http://93.157.62.180:80/FoxMovies/index.m3u8
 #http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 #http://50.7.61.148:30080/Entry/hbo/index.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
+
+#EXTINF:0 tvg-id="" group-title="English Movie",AXN
+http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -503,7 +518,8 @@ http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
 #http://208.86.19.21:80/710.stream/index.m3u8
 #http://qqtv.nl:8080/live/owen1/1owen/30630.m3u8
-http://103.131.212.138:8000/play/a025/index.m3u8
+#http://103.131.212.138:8000/play/a025/index.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/265
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://172.17.50.112/live/antbd1007/index.m3u8
@@ -533,11 +549,13 @@ http://208.86.19.21:80/732.stream/index.m3u8
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #http://ablivetv.webd.pro/star7/star7.php?id=48110&e=.m3u8
-http://208.86.19.21:80/736.stream/index.m3u8
+#http://208.86.19.21:80/736.stream/index.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://jupiter.bdcabletv.com/selecttwo/video.m3u8?token=@LiveTvLinksForFree
-http://208.86.19.21:80/737.stream/index.m3u8
+#http://208.86.19.21:80/737.stream/index.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/144
@@ -547,7 +565,8 @@ http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
 #http://208.86.19.21:80/712.stream/index.m3u8
-http://qqtv.nl:8080/live/owen1/1owen/30624.m3u8
+#http://qqtv.nl:8080/live/owen1/1owen/30624.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://luckonline.eu:8080/live/CukyFcVq20/sHong3Hzd0/518.m3u8
@@ -567,10 +586,12 @@ http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
 #http://208.86.19.21:80/610.stream/index.m3u8
 #http://watch.emasti.pk/stream/ptvsports/playlist.m3u8
 #http://luckonline.eu:8080/live/CukyFcVq20/sHong3Hzd0/498.m3u8
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/239
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/97
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/102
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",A Sports
@@ -580,7 +601,8 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
 #http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 #http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/10608.m3u8
-http://208.86.19.21:80/711.stream/index.m3u8
+#http://208.86.19.21:80/711.stream/index.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/71
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
 #http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1317
