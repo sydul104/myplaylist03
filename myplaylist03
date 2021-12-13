@@ -165,11 +165,9 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Jaz.News" group-title="English News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 #EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="English News",BBC News
-#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-http://103.131.212.138:8000/play/a02y/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="English News",CNN
-#https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-http://103.131.212.138:8000/play/a02x/index.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -500,7 +498,8 @@ http://jo123.biz/jweb/m3u8.php?c=Jio_Football_Bangali_HD&q=1200&e=@LiveTvLinksFo
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 http://30.30.30.30/live/skyfeed1006/index.m3u8
@@ -716,7 +715,5 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
-
 #EXTINF:-164 tvg-logo="" group-title="Movie",Movie-1
-
 
