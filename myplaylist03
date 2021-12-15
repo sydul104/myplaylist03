@@ -88,13 +88,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://str24.l9574.com/609.stream/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
-https://rebrand.ly/JB/GaziTvHD
-https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
+#https://rebrand.ly/JB/GaziTvHD
+#https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/241
-#http://208.86.19.21:80/905.stream/index.m3u8
-https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
+#http://str24.l9574.com/905.stream/index.m3u8
+#https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
+http://10.16.100.245/hindi/t$sports_1stOp.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
@@ -495,7 +496,8 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
-https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
+#https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 http://30.30.30.30/live/skyfeed1006/index.m3u8
