@@ -550,21 +550,21 @@ http://str24.l9574.com/715.stream/index.m3u8
 http://str24.l9574.com/732.stream/index.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
-#http://208.86.19.21:80/736.stream/index.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
-http://str24.l9574.com/736.stream/index.m3u8
+#http://str24.l9574.com/736.stream/index.m3u8
+http://208.86.19.21:80/736.stream/index.m3u8
 
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://jupiter.bdcabletv.com/selecttwo/video.m3u8?token=@LiveTvLinksForFree
-#http://208.86.19.21:80/737.stream/index.m3u8
 #http://str24.l9574.com/737.stream/index.m3u8
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
+http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
-#http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
-http://str24.l9574.com/726.stream/index.m3u8
+#http://str24.l9574.com/726.stream/index.m3u8
+http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
@@ -574,8 +574,8 @@ http://str24.l9574.com/726.stream/index.m3u8
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
-#http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
-http://str24.l9574.com/713.stream/index.m3u8
+#http://str24.l9574.com/713.stream/index.m3u8
+http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
