@@ -200,20 +200,24 @@ http://103.70.140.27:8080/hls/duronto.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/332
-http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
+#http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/204
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/16
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/205
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1292
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1292
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/206
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/t0Ecro6.png",Hungama Tv
-http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&=600&e=.m3u8
+#http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&=600&e=.m3u8
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/207
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/208
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Manuranjon Grand
 http://14.199.164.20:4001/play/a0m2/index.m3u8
@@ -266,7 +270,8 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/156
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://www.luckonline.eu:80/lPdZ3k8xOZ/B2KeNfvkQH/1633
 #http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
-http://103.131.212.138:8000/play/a016
+#http://103.131.212.138:8000/play/a016
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/222
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/315
@@ -457,7 +462,8 @@ http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 #http://103.131.212.138:8000/play/a017/index.m3u8
-http://103.157.210.165:8000/play/a01h/index.m3u8
+#http://103.157.210.165:8000/play/a01h/index.m3u8
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/147
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
 http://93.157.62.180:80/FoxMovies/index.m3u8
@@ -536,7 +542,8 @@ http://208.86.19.21:80/724.stream/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://208.86.19.21:80/715.stream/index.m3u8
-http://qqtv.nl:8080/live/owen1/1owen/30629.m3u8
+#http://qqtv.nl:8080/live/owen1/1owen/30629.m3u8
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/239
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
 #http://jupiter.bdcabletv.com/StarSports_2-Enc/video.m3u8
@@ -553,7 +560,8 @@ http://str24.l9574.com/732.stream/index.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://str24.l9574.com/736.stream/index.m3u8
-http://208.86.19.21:80/736.stream/index.m3u8
+#http://208.86.19.21:80/736.stream/index.m3u8
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/238
 
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
@@ -567,11 +575,11 @@ http://208.86.19.21:80/737.stream/index.m3u8
 http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
-#http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
 #http://208.86.19.21:80/712.stream/index.m3u8
 #http://qqtv.nl:8080/live/owen1/1owen/30624.m3u8
 #http://str24.l9574.com/712.stream/index.m3u8
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/192
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://str24.l9574.com/713.stream/index.m3u8
@@ -631,7 +639,8 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgmlU3v7ZSwp2
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://nicefly.xyz:80/h21041003/651032140/246246
-http://208.86.19.21:80/731.stream/index.m3u8
+#http://208.86.19.21:80/731.stream/index.m3u8
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/215
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
 http://str24.l9574.com/731.stream/index.m3u8
@@ -680,12 +689,23 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ed44Iep8_6wKq
 #http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845620
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Max
+http://smartsw.xyz:8080/bE9rb2kg/MFY6PQ7K/845621
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/286
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/285
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/283
 
 
 #EXTINF:-1 tvg-id="SKY NET SPORTS 1 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 1 (ASIA)
@@ -716,5 +736,5 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
-#EXTINF:-164 tvg-logo="" group-title="Movie",Movie-1
+
 
