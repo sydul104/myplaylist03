@@ -516,7 +516,7 @@ http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 http://30.30.30.30/live/skyfeed1006/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV [1]
-http://30.30.30.30/live/skyfeed1005/index.m3u8
+http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
 #http://103.109.56.116/live/skyfeed1001/index.m3u8
 #http://103.78.255.178:8080/gtv/index.m3u8
@@ -593,7 +593,8 @@ http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 #http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
-http://str24.l9574.com/740.stream/index.m3u8
+#http://str24.l9574.com/740.stream/index.m3u8
+http://30.30.30.30/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six SD
 http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
