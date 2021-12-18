@@ -171,7 +171,8 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="English News",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://103.159.4.38:5868/NEWS-1/tracks-v1a1/mono.m3u8
 
 
 
@@ -732,7 +733,9 @@ https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 
 #EXTINF:-164 tvg-logo="" group-title="SPORTS",Dubi Sports
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b200000.m3u8
+#https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b200000.m3u8
+http://103.159.4.38:5868/SPORTS-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-164 tvg-logo="" group-title="SPORTS",Sports tv
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
