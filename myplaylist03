@@ -562,7 +562,8 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
-https://236s.short.gy/DreamTV/ChSP1.m3u8
+#https://236s.short.gy/DreamTV/ChSP1.m3u8
+http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/265
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 #http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
@@ -641,7 +642,7 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
-#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/10608.m3u8
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10608
 #http://str24.l9574.com/711.stream/index.m3u8
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/71
 
@@ -656,8 +657,8 @@ http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
 http://cro.hockeynews.club/live/1/chunks.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
-#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
-http://cro.hockeynews.club/live/2/chunks.m3u8
+#http://cro.hockeynews.club/live/2/chunks.m3u8
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/683001
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgmlU3v7ZSwp2ps572GrUZ/ts 
@@ -680,8 +681,8 @@ http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports MIX
-#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683003.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/683003
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 #http://iptv.tvmalaysia.cc/live/penang189/penang189/6717.m3u8
