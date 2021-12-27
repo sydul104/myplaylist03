@@ -515,7 +515,8 @@ https://localiptv.tk/Local_IPTV_PLAYLIST/paytm_t20_Trophy/IND_VS_NZ/JIO_CRICKET_
 http://jo123.biz/jweb/m3u8.php?c=Jio_Football_Bangali_HD&q=1200&e=@LiveTvLinksForFree.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#http://172.16.29.28:8080/hls/live1-fnet.m3u8
+http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 
