@@ -106,7 +106,7 @@ http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #http://str24.l9574.com/686.stream/index.m3u8
 #http://10.16.100.207:8082/sports/maasr@nga_1StOp.m3u8
 http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
@@ -309,7 +309,7 @@ http://str24.l9574.com/716.stream/index.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
 #http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
-http://208.86.19.21:80/906.stream/index.m3u8
+#http://208.86.19.21:80/906.stream/index.m3u8
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/14
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
@@ -628,7 +628,7 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-145 tvg-logo="" group-title="SPORTS",Ten sports
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10608
+#http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10608
 #http://str24.l9574.com/711.stream/index.m3u8
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/71
 
