@@ -277,7 +277,8 @@ http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
 #http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246233
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/156
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/156
+http://103.161.2.142/hls/sunbangla.m3u8
 
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
 https://link.zozotv.xyz:443/707070/707070/116
@@ -535,10 +536,12 @@ http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-http://30.30.30.30/live/skyfeed1006/index.m3u8
+#http://30.30.30.30/live/skyfeed1006/index.m3u8
+http://103.161.2.142/hls/atn.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV [1]
-http://103.109.56.116/live/skyfeed1001/index.m3u8
+#http://103.109.56.116/live/skyfeed1001/index.m3u8
+http://103.161.2.142/hls/nexus.m3u8
 
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
@@ -556,9 +559,8 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/265
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
-#http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
-#http://103.131.212.138:8000/play/a029
-http://208.86.19.21:80/724.stream/index.m3u8
+#http://208.86.19.21:80/724.stream/index.m3u8
+http://103.131.212.138:8000/play/a029
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://208.86.19.21:80/715.stream/index.m3u8
@@ -572,9 +574,9 @@ http://starshare.live:8080/cOrldiscord/6aihXYFqTX/239
 http://str24.l9574.com/715.stream/index.m3u8
 
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
-#http://nicefly.xyz:80/h21041003/651032140/246220
 #http://208.86.19.21:80/732.stream/index.m3u8
-http://str24.l9574.com/732.stream/index.m3u8
+#http://str24.l9574.com/732.stream/index.m3u8
+http://nicefly.xyz:80/h21041003/651032140/246220
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/49
@@ -591,8 +593,8 @@ http://starshare.live:8080/cOrldiscord/6aihXYFqTX/238
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/50
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
-#http://str24.l9574.com/726.stream/index.m3u8
-http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
+http://str24.l9574.com/726.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://208.86.19.21:80/712.stream/index.m3u8
@@ -602,8 +604,8 @@ http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
-#http://str24.l9574.com/713.stream/index.m3u8
-http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
+http://str24.l9574.com/713.stream/index.m3u8
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
