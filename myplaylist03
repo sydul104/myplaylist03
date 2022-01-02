@@ -761,9 +761,9 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", beiN Sport 1 [Bac up]
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 [Bac up]
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports", beiN Sports 2 [Bac up]
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS", beiN Sports 2 [Bac up]
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
