@@ -184,7 +184,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="English News",CNN
 #https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #http://103.159.4.38:5868/NEWS-1/tracks-v1a1/mono.m3u8
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://103.131.212.138:8000/play/a02x/index.m3u8
 
 
 
@@ -287,12 +288,10 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-#http://103.131.212.138:8000/play/a016
-#https://link.zozotv.xyz:443/707070/707070/117
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/222
+#ttp://starshare.live:8080/cOrldiscord/6aihXYFqTX/222
+http://103.131.212.138:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
-#https://link.zozotv.xyz:443/707070/707070/123
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
@@ -497,6 +496,9 @@ https://durbinlive.com:443/live/jio?c=Sony_Max_SD&q=auto&e=IshanJiotv.m3u8
 #http://208.86.19.21:80/706.stream/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hindi",ARY DIGITAL
+http://208.86.19.21:80/821.stream/index.m3u8
+
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 #http://103.131.212.138:8000/play/a017/index.m3u8
 #http://starshare.live:8080/cOrldiscord/6aihXYFqTX/147
@@ -676,10 +678,10 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/71
 http://str24.l9574.com/711.stream/index.m3u8
 
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [1]
+http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
 
-
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
 http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Primiar League
@@ -766,11 +768,18 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS", beiN Sports 2 [Bac up]
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/286
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/285
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/283
 
 
@@ -791,6 +800,22 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD-2
 https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
+
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-171 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="SPORTS",sports tv-1
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-172 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-2-hd.png" group-title="SPORTS",sports tv-2
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-172 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-2-hd.png" group-title="SPORTS",sports tv-3
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-164 tvg-logo="" group-title="SPORTS",Dubi Sports
 #https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b200000.m3u8
