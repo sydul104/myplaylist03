@@ -441,8 +441,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://103.131.212.138:8000/play/a00k/index.m3u8
 
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &Tv
-#http://str24.l9574.com/703.stream/index.m3u8
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/21
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/21
+http://str24.l9574.com/703.stream/index.m3u8
 
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
 #http://208.86.19.21:80/705.stream/index.m3u8
@@ -450,7 +450,6 @@ http://str24.l9574.com/705.stream/index.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://208.86.19.21/717.stream/index.m3u8
-#http://sonyiptv.net:8080/jamal/jamal/199234
 #http://str24.l9574.com/717.stream/index.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/42
 http://195.201.82.32:5001/play/a028
@@ -464,9 +463,9 @@ http://195.201.82.32:5001/play/a028
 http://195.201.82.32:5001/play/a029
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Zee tv
-#http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #http://starshare.live:8080/cOrldiscord/6aihXYFqTX/220
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/34
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/34
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 http://jo123.biz/jweb/m3u8.php?c=Zee_Cinema&q=800&e=junk.m3u8
@@ -489,9 +488,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://195.201.82.32:5001/play/a02y
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX SD
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/316
 #http://nicefly.xyz:80/h21041003/651032140/246204
-#http://208.86.19.21:80/706.stream/index.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/40
 #http://jo123.biz/jweb/m3u8.php?c=Sony_Max_SD&q=800&e=junk.m3u8
 https://durbinlive.com:443/live/jio?c=Sony_Max_SD&q=auto&e=IshanJiotv.m3u8
@@ -523,7 +520,6 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 http://195.201.82.32:5001/play/a003
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Boo
-https://link.zozotv.xyz:443/707070/707070/408
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
@@ -533,7 +529,6 @@ http://ip2121.com:8081/live/cinemax/playlist.m3u8
 http://195.201.82.32:5001/play/a002
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="", WB
-#https://link.zozotv.xyz:443/707070/707070/86
 http://203.154.243.89:1205
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2xD8sMCO7vaN1G4G6x_48kaYAgOqzQVWYA&usqp=CAU",Lotus
