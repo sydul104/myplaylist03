@@ -320,9 +320,9 @@ http://195.201.82.32:5001/play/a010
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
 #http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
-#http://208.86.19.21:80/906.stream/index.m3u8
 #https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=auto&e=IshanJiotv.m3u8
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/14
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/14
+http://208.86.19.21:80/906.stream/index.m3u8
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
@@ -348,8 +348,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://208.86.19.21:80/902.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
-#http://14.199.164.20:4001/play/a0j5/index.m3u8
-http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/195
+#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/195
+http://14.199.164.20:4001/play/a0j5/index.m3u8
 
 #EXTINF:-1 group-title="Indian-Bangla",R Plus
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
@@ -384,9 +384,9 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
-#http://ottss.online:8000/44122162500170/30316873476781/178721
 #http://nicefly.xyz:80/h21041003/651032140/246281
-http://103.161.2.142/hls/zoom.m3u8
+#http://103.161.2.142/hls/zoom.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178721
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
 #http://14.199.164.20:4001/play/a0mt/index.m3u8
