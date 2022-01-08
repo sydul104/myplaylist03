@@ -8,9 +8,9 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BANGLA",Btv Chittagong
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
-http://str24.l9574.com/604.stream/index.m3u8
+#http://str24.l9574.com/604.stream/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 #https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
@@ -112,10 +112,10 @@ http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #http://str24.l9574.com/686.stream/index.m3u8
 #http://10.16.100.207:8082/sports/maasr@nga_1StOp.m3u8
-http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-19/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 #https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8
@@ -182,10 +182,9 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="English News",CNN
-#https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #http://103.159.4.38:5868/NEWS-1/tracks-v1a1/mono.m3u8
-#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-http://103.131.212.138:8000/play/a02x/index.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 
@@ -216,8 +215,8 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
-#http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/204
+#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/204
+http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 #https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
@@ -226,8 +225,7 @@ http://starshare.live:8080/cOrldiscord/6aihXYFqTX/204
 https://durbinlive.com:443/live/jio?c=Nick_Bangla&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1292
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/206
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1292
 
 #EXTINF:-1 group-title="Kids" tvg-logo="",Sonic Bangla
 #http://jo123.biz/jweb/m3u8.php?c=sonic_Hindi&=600&e=.m3u8
@@ -238,7 +236,6 @@ https://durbinlive.com:443/live/jio?c=Sonic_Bangla&q=auto&e=IshanJiotv.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/30
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/208
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Manuranjon Grand
 http://14.199.164.20:4001/play/a0m2/index.m3u8
@@ -269,14 +266,11 @@ http://195.201.82.32:5001/play/a00x
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
 #http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
-#https://link.zozotv.xyz:443/707070/707070/122
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/12
 #http://103.131.212.138:8000/play/a00x/index.m3u8
 http://195.201.82.32:5001/play/a008
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/18
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23657.m3u8
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
@@ -288,7 +282,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-#ttp://starshare.live:8080/cOrldiscord/6aihXYFqTX/222
+#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/222
 http://103.131.212.138:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
@@ -383,9 +377,9 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://14.199.164.20:4001/play/a0rh/index.m3u8
 
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
-#http://nicefly.xyz:80/h21041003/651032140/246281
 #http://103.161.2.142/hls/zoom.m3u8
-http://ottss.online:8000/44122162500170/30316873476781/178721
+#http://ottss.online:8000/44122162500170/30316873476781/178721
+http://nicefly.xyz:80/h21041003/651032140/246281
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
 #http://14.199.164.20:4001/play/a0mt/index.m3u8
