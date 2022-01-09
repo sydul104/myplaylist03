@@ -280,6 +280,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23657.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12072/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://starshare.live:8080/cOrldiscord/6aihXYFqTX/222
@@ -499,6 +500,7 @@ http://208.86.19.21:80/821.stream/index.m3u8
 http://195.201.82.32:5001/play/a02o
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
+#http://urtv.cc:80/kl570/kl570/7225
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
@@ -515,7 +517,11 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://195.201.82.32:5001/play/a003
 
+#EXTINF:0 tvg-id="" group-title="English Movie",KIX
+http://urtv.cc:80/kl570/kl570/7229
+
 #EXTINF:0 tvg-id="" group-title="English Movie",Boo
+http://zalogitv.tech:8080/padji33/33334444/1799
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
@@ -532,6 +538,13 @@ http://103.161.2.142/hls/lotus.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="",&Flix HD
 http://195.201.82.32:5001/play/a001
+
+#EXTINF:-1 group-title="English Movie" tvg-logo="",VIASAT FILM ACTION HD SE
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12081/index.m3u8
+#EXTINF:-1 group-title="English Movie" tvg-logo="",VIASAT FILM PREMIER HD SE
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12082/index.m3u8
+#EXTINF:-1 group-title="English Movie" tvg-logo="",Canal+ Film HD PL
+http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6101/index.m3u8
 
 
 
@@ -710,9 +723,9 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/683003
 http://208.86.19.21:80/720.stream/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro Super Sports-2
-
+http://104.215.150.112:19440/play/ASSP2/index.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro Super Sports-3
-
+http://104.215.150.112:19440/play/ASSP3/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports [Criket]
 
 
@@ -720,25 +733,31 @@ http://208.86.19.21:80/720.stream/index.m3u8
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 #http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2120
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2119
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
-http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2117
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports
+http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2140
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6872.m3u8
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/67.m3u8
+#http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/67.m3u8
+http://zalogitv.tech:8080/padji33/33334444/25256
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/8
 #https://link.zozotv.xyz:443/707070/707070/163
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/68.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6870.m3u8
-http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+#http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+http://zalogitv.tech:8080/padji33/33334444/25257
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 #http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
@@ -747,6 +766,7 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/70.m3u8
 #http://str.smartip-tv.net:8080/BEIN_SPORT_5_HD/index.m3u8?token=test
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Max
+http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2123
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
@@ -765,14 +785,11 @@ https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
-#http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/286
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
-#http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/285
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
-#http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
-http://starshare.live:8080/cOrldiscord/6aihXYFqTX/283
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
 
 
 #EXTINF:-1 tvg-id="SKY NET SPORTS 1 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 1 (ASIA)
@@ -813,6 +830,16 @@ http://103.159.4.38:5868/SPORTS-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-164 tvg-logo="" group-title="SPORTS",Sports tv
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 1
+http://zalogitv.tech:8080/padji33/33334444/1674
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 2
+http://zalogitv.tech:8080/padji33/33334444/1675
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN 3" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 3
+http://zalogitv.tech:8080/padji33/33334444/1676
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPN U" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN U
+http://zalogitv.tech:8080/padji33/33334444/1677
 
 
 
