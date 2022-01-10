@@ -545,7 +545,8 @@ http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6101/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports  1
-https://localiptv.tk/Local_IPTV_PLAYLIST/paytm_t20_Trophy/IND_VS_NZ/JIO_CRICKET_HD.m3u8
+#https://localiptv.tk/Local_IPTV_PLAYLIST/paytm_t20_Trophy/IND_VS_NZ/JIO_CRICKET_HD.m3u8
+https://durbinlive.com:443/live/jio?c=Jio_Cricket&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports 2
 #http://jo123.biz/jweb/m3u8.php?c=Jio_Football_Bangali_HD&q=1200&e=@LiveTvLinksForFree.m3u8
@@ -556,7 +557,7 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
-
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
@@ -644,7 +645,10 @@ http://qqtv.nl:8080/live/owen1/1owen/30624.m3u8
 http://str24.l9574.com/713.stream/index.m3u8
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
-http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
+#http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
+#https://durbinlive.com:443/live/jio?c=Ten_4_Tamil&q=800&e=junk.m3u8
+https://durbinlive.com:443/live/jio?c=Ten_4_HD_Tamil&q=1200&e=junk.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 #http://str24.l9574.com/740.stream/index.m3u8
@@ -654,7 +658,8 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six SD
 #http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
-http://103.131.212.138:8000/play/a028/index.m3u8
+#http://103.131.212.138:8000/play/a028/index.m3u8
+https://durbinlive.com:443/live/jio?c=Six_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://208.86.19.21:80/610.stream/index.m3u8
