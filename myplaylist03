@@ -258,8 +258,8 @@ https://durbinlive.com:443/live/jio?c=Discovery_Channel_Bengali&q=800&e=junk.m3u
 
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Engliah HD
 #http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
-#http://172.17.50.112/live/antbd1008/index.m3u8
-http://103.131.212.138:8000/play/a004
+#http://103.131.212.138:8000/play/a004
+http://172.17.50.112/live/antbd1008/index.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD Bangla
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
