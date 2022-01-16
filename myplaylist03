@@ -298,8 +298,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
-#http://195.201.82.32:5001/play/a00v
-http://208.86.19.21:80/908.stream/index.m3u8
+#http://208.86.19.21:80/908.stream/index.m3u8
+http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/857
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://208.86.19.21:80/716.stream/index.m3u8
@@ -318,9 +318,8 @@ http://195.201.82.32:5001/play/a010
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
 #http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
-#https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=auto&e=IshanJiotv.m3u8
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/14
-http://208.86.19.21:80/906.stream/index.m3u8
+#http://208.86.19.21:80/906.stream/index.m3u8
+https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
