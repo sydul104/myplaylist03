@@ -625,8 +625,8 @@ http://208.86.19.21:80/737.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
-#http://qqtv.nl:8080/live/owen1/1owen/30625.m3u8
-http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
+#http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
+http://qqtv.nl:8080/live/owen1/1owen/30625.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://str24.l9574.com/712.stream/index.m3u8
