@@ -130,8 +130,7 @@ http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 
 #EXTINF:-31 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA",Desh TV
 #http://10.16.100.245/hindi/de$htv_1st0p.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-http://208.86.19.21/629.stream/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-32 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA",MY TV HD
 #http://str24.l9574.com/624.stream/index.m3u8
@@ -187,8 +186,8 @@ http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="English News",CNN
-#http://103.159.4.38:5868/NEWS-1/tracks-v1a1/mono.m3u8
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://103.159.4.38:5868/NEWS-1/tracks-v1a1/mono.m3u8
 
 
 
@@ -268,8 +267,6 @@ http://172.17.50.112/live/antbd1008/index.m3u8
 http://103.161.2.142/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
-#http://195.201.82.32:5001/play/a008
-#http://103.131.212.138:8000/play/a00x/index.m3u8
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
@@ -278,15 +275,15 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23657.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246233
-#https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #http://103.161.2.142/hls/travelxp.m3u8
-https://durbinlive.com:443/live/jio?c=Travel_XP_HD&q=1200&e=junk.m3u8
+#https://durbinlive.com:443/live/jio?c=Travel_XP_HD&q=1200&e=junk.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/222
-http://103.131.212.138:8000/play/a016/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 #http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
@@ -319,19 +316,20 @@ http://195.201.82.32:5001/play/a010
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
 #http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 #http://208.86.19.21:80/906.stream/index.m3u8
-https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=auto&e=IshanJiotv.m3u8
+#https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=auto&e=IshanJiotv.m3u8
+http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/856
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
 #http://208.86.19.21:80/708.stream/index.m3u8
 #https://durbinlive.com:443/live/jio?c=Zee_Bangla_Cinema&q=auto&e=IshanJiotv.m3u8
-http://str24.l9574.com/708.stream/index.m3u8
+#http://str24.l9574.com/708.stream/index.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://jupiter.bdcabletv.com/ColorsBangla-ENC/video.m3u8
 #http://208.86.19.21:80/904.stream/index.m3u8
-#http://195.201.82.32:5001/play/a00y
-https://durbinlive.com:443/live/jio?c=Colors_Bengali_HD&q=auto&e=IshanJiotv.m3u8
+#https://durbinlive.com:443/live/jio?c=Colors_Bengali_HD&q=auto&e=IshanJiotv.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3415
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 http://208.86.19.21:80/903.stream/index.m3u8
@@ -420,9 +418,8 @@ http://14.199.164.20:4001/play/a0my/index.m3u8
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Zing
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 
-
 #EXTINF:0 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="MUSIC",Hangama Music
-http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Color Cineplex HD
@@ -432,8 +429,8 @@ http://str24.l9574.com/735.stream/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-112 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi",UTV Action
-#http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-http://103.131.212.138:8000/play/a00k/index.m3u8
+#http://103.131.212.138:8000/play/a00k/index.m3u8
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &Tv
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/21
@@ -446,34 +443,30 @@ http://str24.l9574.com/705.stream/index.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://195.201.82.32:5001/play/a028
 #http://str24.l9574.com/717.stream/index.m3u8
-http://208.86.19.21/717.stream/index.m3u8
-
+#http://208.86.19.21/717.stream/index.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178701
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://183.178.58.115:8026/0.m3u8
-#http://ottss.online:8000/44122162500170/30316873476781/178702
 #http://208.86.19.21:80/709.stream/index.m3u8
 #http://195.201.82.32:5001/play/a029
-http://str24.l9574.com/709.stream/index.m3u8
+#http://str24.l9574.com/709.stream/index.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178702
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Zee tv
-#http://starshare.live:8080/cOrldiscord/6aihXYFqTX/220
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/34
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema
 https://durbinlive.com:443/live/jio?c=Zee_Cinema&q=800&e=junk.m3u8
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/223
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="" group-title="Hindi", Zee Action
-#http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-http://208.86.19.21:80/728.stream/index.m3u8
+#http://208.86.19.21:80/728.stream/index.m3u8
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png" group-title="Hindi",Sony Entertainment HD
-#http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/23
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY SAB
@@ -508,8 +501,8 @@ http://93.157.62.180:80/FoxMovies/index.m3u8
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
 #http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
-#http://ip2121.com:8081/web1/hbo/playlist.m3u8
-http://50.7.61.148:30080/Entry/hbo/index.m3u8
+#http://50.7.61.148:30080/Entry/hbo/index.m3u8
+http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",AXN
 #http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
@@ -519,9 +512,9 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Boo
-http://zalogitv.tech:8080/padji33/33334444/1799
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
