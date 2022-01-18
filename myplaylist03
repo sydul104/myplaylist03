@@ -106,8 +106,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2]
-http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2] cmcl
+#http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://str24.l9574.com/905.stream/index.m3u8
@@ -493,7 +494,8 @@ http://208.86.19.21:80/821.stream/index.m3u8
 http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-http://103.131.212.138:8000/play/a017
+#http://103.131.212.138:8000/play/a017
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
 #http://urtv.cc:80/kl570/kl570/7225
@@ -547,10 +549,10 @@ https://durbinlive.com:443/live/jio?c=Jio_Cricket&q=1200&e=junk.m3u8
 https://durbinlive.com:443/live/jio?c=Jio_Football_Bangali_HD&q=1200&e=@LiveTvLinksForFree.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
 http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
@@ -561,7 +563,7 @@ http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 http://103.70.140.27:8080/hls/tsports.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3] Internet tv
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #http://30.30.30.30/live/skyfeed1006/index.m3u8
 #http://103.153.175.254:8080/hls/t-sports.m3u8
@@ -571,7 +573,8 @@ http://103.161.2.142/hls/t-sports.m3u8
 #http://103.109.56.116/live/skyfeed1001/index.m3u8
 #http://103.153.175.254:8080/hls/Gazi-TV.m3u8
 #http://103.161.2.142/hls/Gazi-TV.m3u8
-https://piratesiptv.shortcm.li/gazi.m3u8
+#https://piratesiptv.shortcm.li/gazi.m3u8
+http://103.70.140.27:8080/hls/gtv.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
 http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/868
@@ -582,16 +585,16 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
-#http://195.201.82.32:5001/play/a027
-https://236s.short.gy/DreamTV/ChSP1.m3u8
-http://qqtv.nl:8080/live/owen1/1owen/30630.m3u8
+#https://236s.short.gy/DreamTV/ChSP1.m3u8
+http://qqtv.nl:8080/live/norma/12345/30630.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
-http://208.86.19.21:80/724.stream/index.m3u8
+#http://208.86.19.21:80/724.stream/index.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://208.86.19.21:80/715.stream/index.m3u8
-http://qqtv.nl:8080/live/owen1/1owen/30629.m3u8
+http://qqtv.nl:8080/live/norma/12345/30629.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
 #http://jupiter.bdcabletv.com/StarSports_2-Enc/video.m3u8
@@ -619,16 +622,18 @@ http://208.86.19.21:80/737.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
 #http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 #http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
-http://qqtv.nl:8080/live/owen1/1owen/30625.m3u8
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+http://qqtv.nl:8080/live/norma/12345//30625.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://str24.l9574.com/712.stream/index.m3u8
-http://qqtv.nl:8080/live/owen1/1owen/30624.m3u8
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+http://qqtv.nl:8080/live/norma/12345/30624.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
-#http://qqtv.nl:8080/live/owen1/1owen/30628.m3u8
-http://str24.l9574.com/713.stream/index.m3u8
+#http://str24.l9574.com/713.stream/index.m3u8
+http://qqtv.nl:8080/live/norma/12345/30628.m3u8
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 #http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
@@ -644,7 +649,8 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six SD
 #http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
 #http://103.161.2.142/hls/sonysix.m3u8
-https://durbinlive.com:443/live/jio?c=Six_HD&q=1200&e=junk.m3u8
+#https://durbinlive.com:443/live/jio?c=Six_HD&q=1200&e=junk.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
@@ -664,7 +670,7 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10608
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [1]
-http://qqtv.nl:8080/live/owen1/1owen/30621.m3u8
+http://qqtv.nl:8080/live/norma/12345/30621.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
 
@@ -681,7 +687,7 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/683001
 http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65800.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [2]
-http://qqtv.nl:8080/live/owen1/1owen/30622.m3u8
+http://qqtv.nl:8080/live/norma/12345/30622.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://208.86.19.21:80/731.stream/index.m3u8
@@ -691,8 +697,8 @@ http://nicefly.xyz:80/h21041003/651032140/246246
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10631
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/258
-http://93.152.174.144:4000/play/skysports2/index.m3u8
+#http://93.152.174.144:4000/play/skysports2/index.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/258
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Football
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
@@ -770,28 +776,39 @@ https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
 #http://93.152.174.144:4000/play/btsport1/index.m3u8
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2505
-/index.m3u8
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
+#http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
+http://urtv.cc:80/kl570/kl570/6610
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
 #http://93.152.174.144:4000/play/btsport2/index.m3u8
 #http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
 http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
+http://urtv.cc:80/kl570/kl570/6611
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
 #http://93.152.174.144:4000/play/btsport3/index.m3u8
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
+http://urtv.cc:80/kl570/kl570/6612
 
 
 #EXTINF:-1 tvg-id="SKY NET SPORTS 1 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 1 (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/playlist.m3u8
 #EXTINF:-1 tvg-id="SKY NET SPORTS 2 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 2 (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/playlist.m3u8
 #EXTINF:-1 tvg-id="SKY NET SPORTS 3 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 3 (ASIA)
-http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",Eleven Sport-1 
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2518/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS",Eleven Sport-2 
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2517/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-1
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2523/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-2
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2522/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-3
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2524/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-4
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2538/index.m3u8
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD-1
 #https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
@@ -811,6 +828,7 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-171 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="SPORTS",sports tv-1
+#http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2525/index.m3u8
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-172 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-2-hd.png" group-title="SPORTS",sports tv-2
 https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
