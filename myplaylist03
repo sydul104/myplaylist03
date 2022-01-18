@@ -563,11 +563,11 @@ http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 http://103.70.140.27:8080/hls/tsports.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3] Internet tv
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#http://30.30.30.30/live/skyfeed1006/index.m3u8
 #http://103.153.175.254:8080/hls/t-sports.m3u8
-http://103.161.2.142/hls/t-sports.m3u8
+#http://103.161.2.142/hls/t-sports.m3u8
+http://30.30.30.30/live/skyfeed1006/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://103.109.56.116/live/skyfeed1001/index.m3u8
@@ -623,12 +623,14 @@ http://208.86.19.21:80/737.stream/index.m3u8
 #http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 #http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-http://qqtv.nl:8080/live/norma/12345//30625.m3u8
+#http://qqtv.nl:8080/live/norma/12345//30625.m3u8
+http://172.17.50.112/live/antbd1006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://str24.l9574.com/712.stream/index.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
-http://qqtv.nl:8080/live/norma/12345/30624.m3u8
+#http://qqtv.nl:8080/live/norma/12345/30624.m3u8
+http://30.30.30.30/live/skyfeed1007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
@@ -650,7 +652,8 @@ http://172.17.50.112/live/antbd1007/index.m3u8
 #http://103.159.4.38:5868/SPORTS-7/tracks-v1a1/mono.m3u8
 #http://103.161.2.142/hls/sonysix.m3u8
 #https://durbinlive.com:443/live/jio?c=Six_HD&q=1200&e=junk.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+http://30.30.30.30/live/skyfeed1005/index.m3u8
 
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
