@@ -604,19 +604,21 @@ http://208.86.19.21:80/737.stream/index.m3u8
 #http://103.159.4.38:5868/SPORTS-8/tracks-v1a1/mono.m3u8
 #http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-#http://qqtv.nl:8080/live/norma/12345//30625.m3u8
-http://172.17.50.112/live/antbd1006/index.m3u8
+#http://172.17.50.112/live/antbd1006/index.m3u8
+http://qqtv.nl:8080/live/norma/12345//30625.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://str24.l9574.com/712.stream/index.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
-#http://qqtv.nl:8080/live/norma/12345/30624.m3u8
-http://30.30.30.30/live/skyfeed1007/index.m3u8
+#http://30.30.30.30/live/skyfeed1007/index.m3u8
+http://qqtv.nl:8080/live/norma/12345/30624.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
 #http://str24.l9574.com/713.stream/index.m3u8
-http://qqtv.nl:8080/live/norma/12345/30628.m3u8
+#http://qqtv.nl:8080/live/norma/12345/30628.m3u8
+http://qqtv.nl:8080/live/norma/12345/30623.m3u8
+
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 #http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
@@ -657,6 +659,7 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10608
 http://qqtv.nl:8080/live/norma/12345/30621.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6581
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Primiar League
 #http://cro.hockeynews.club/live/1/chunks.m3u8
@@ -708,36 +711,46 @@ http://104.215.150.112:19440/play/ASSP3/index.m3u8
 #http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #http://58.65.194.14:1935/live/trace%20sports%20HD.stream/playlist.m3u8
 #http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
+#http://belfast.dyndns.tv:5808/BEINHD8/tracks-v1a1/mono.m3u8
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/156
 #http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
+#http://belfast.dyndns.tv:5808/BEINHD9/tracks-v1a1/mono.m3u8
+http://174.138.184.166:25461/livesport_ios/livesport_android/14
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
 #http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
-http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
+#http://belfast.dyndns.tv:5808/BEINHD10/tracks-v1a1/mono.m3u8
+http://174.138.184.166:25461/livesport_ios/livesport_android/15
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports
+http://174.138.184.166:25461/livesport_ios/livesport_android/16
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6872.m3u8
 #http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/67.m3u8
 #http://zalogitv.tech:8080/padji33/33334444/25256
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#http://93.152.174.144:4000/play/bein1ar/index.m3u8
+http://145.239.142.113/BEIN-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://mantul.biz.id:8888/Manuel-Spain/8opbS3oMCp/8
 #https://link.zozotv.xyz:443/707070/707070/163
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6871.m3u8
-http://93.152.174.144:4000/play/bein2ar/index.m3u8
+#http://93.152.174.144:4000/play/bein2ar/index.m3u8
+http://145.239.142.113/BEIN-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6870.m3u8
-http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+#http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+http://145.239.142.113/BEIN-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 #http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+http://145.239.142.113/BEIN-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
 #http://str.smartip-tv.net:8080/BEIN_SPORT_5_HD/index.m3u8?token=test
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+http://145.239.142.113/BEIN-5/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Max-1
 http://yassooo.com:8080/Manaf/Manaf123/120012
@@ -746,8 +759,10 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
+#http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/4885
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
+#http://012345x.com:999/n6nja9dUQM/FfrrpTelhW/4886
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
