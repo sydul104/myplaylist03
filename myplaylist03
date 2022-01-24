@@ -106,12 +106,14 @@ http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2] cmcl
 #http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+https://piratesiptv.shortcm.li/gazi.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://str24.l9574.com/905.stream/index.m3u8
 #https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://str24.l9574.com/686.stream/index.m3u8
@@ -811,18 +813,12 @@ http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-id="SKY NET SPORTS 3 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 3 (ASIA)
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",Eleven Sport-1 
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2518/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS",Eleven Sport-2 
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2517/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-1
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2523/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-2
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2522/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-3
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2524/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-4
-http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2538/index.m3u8
 
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD-1
 #https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
@@ -857,9 +853,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 1
-http://zalogitv.tech:8080/padji33/33334444/1674
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 2
-http://zalogitv.tech:8080/padji33/33334444/1675
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN UK
 http://qqtv.nl:8080/live/owen1/1owen/30626.m3u8
 
