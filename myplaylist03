@@ -720,9 +720,7 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/683003
 http://208.86.19.21:80/720.stream/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro Super Sports-2
-http://104.215.150.112:19440/play/ASSP2/index.m3u8
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro Super Sports-3
-http://104.215.150.112:19440/play/ASSP3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports [Criket]
 
@@ -795,22 +793,18 @@ https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
-#http://93.152.174.144:4000/play/btsport1/index.m3u8
 #http://iptv.tvmalaysia.cc:80/penang175/penang175/6610
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
-http://urtv.cc:80/kl570/kl570/6610
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
-#http://93.152.174.144:4000/play/btsport2/index.m3u8
 #http://iptv.tvmalaysia.cc:80/penang175/penang175/6611
 http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
-http://urtv.cc:80/kl570/kl570/6611
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
-#http://93.152.174.144:4000/play/btsport3/index.m3u8
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
-http://urtv.cc:80/kl570/kl570/6612
-
+#http://iptv.tvmalaysia.cc:80/penang175/penang175/6612
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-id="SKY NET SPORTS 1 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 1 (ASIA)
 #EXTINF:-1 tvg-id="SKY NET SPORTS 2 (ASIA)" tvg-logo=" " group-title="SPORTS",SKY NET SPORTS 2 (ASIA)
