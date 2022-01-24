@@ -365,7 +365,8 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246281
 #http://103.153.175.254:8080/hls/zoom.m3u8
 #http://103.161.2.142/hls/zoom.m3u8
-http://ottss.online:8000/44122162500170/30316873476781/178721
+#http://ottss.online:8000/44122162500170/30316873476781/178721
+http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/chunklist_w1058593266.m3u8
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
 #http://14.199.164.20:4001/play/a0mt/index.m3u8
@@ -403,7 +404,8 @@ https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Color Cineplex HD
-http://str24.l9574.com/735.stream/index.m3u8 
+#http://str24.l9574.com/735.stream/index.m3u8 
+http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist_w112666546.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
