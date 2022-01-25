@@ -183,6 +183,7 @@ http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
 
 #EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="English News",BBC News
 #http://103.159.4.38:5868/NEWS-2/tracks-v1a1/mono.m3u8
+#http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="English News",CNN
@@ -260,7 +261,8 @@ http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23657.m3u8
-http://jjkdomain123.one:80/Charlie/Charlie/1092765
+#http://jjkdomain123.one:80/Charlie/Charlie/1092765
+http://iptv.prosto.tv:7000/ch83/video.m3u8
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://nicefly.xyz:80/h21041003/651032140/246233
@@ -271,10 +273,12 @@ http://103.161.2.142/hls/travelxp.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-http://jjkdomain123.one:80/Charlie/Charlie/1092754
+#http://jjkdomain123.one:80/Charlie/Charlie/1092754
+http://iptv.prosto.tv:7000/ch84/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 #http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
+#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
 http://103.161.2.142/hls/animalplanent.m3u8
 
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
@@ -389,9 +393,12 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 #http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
 #http://195.201.82.32:5001/play/a03e
-https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=auto&e=IshanJiotv.m3u8
+#https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=auto&e=IshanJiotv.m3u8
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Mtv
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
 
@@ -399,11 +406,13 @@ https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=auto&e=IshanJiotv.m3u8
 #http://14.199.164.20:4001/play/a0wk/index.m3u8
 #https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/294
+#http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/70
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
+#http://14.199.164.20:4001/play/a0my/index.m3u8
 #http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-http://14.199.164.20:4001/play/a0my/index.m3u8
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Zing
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
@@ -445,7 +454,8 @@ http://103.161.2.142/hls/stargold.m3u8
 #http://208.86.19.21:80/709.stream/index.m3u8
 #http://195.201.82.32:5001/play/a029
 #http://str24.l9574.com/709.stream/index.m3u8
-http://ottss.online:8000/44122162500170/30316873476781/178702
+#http://ottss.online:8000/44122162500170/30316873476781/178702
+http://bestsave.ltd:2052/55667788/88776655/43129
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Zee tv
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
