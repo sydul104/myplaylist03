@@ -108,14 +108,14 @@ http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
 #http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #https://piratesiptv.shortcm.li/gazi.m3u8
-http://103.161.2.142/hls/Gazi-TV.m3u8
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://str24.l9574.com/905.stream/index.m3u8
 #https://liv-usa.sonyplex.net/evolution/tsports.stream/chunklist.m3u8
 #http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
-http://103.161.2.142/hls/t-sports.m3u8
+http://live.flixhub.net/hls/t-sports.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://str24.l9574.com/686.stream/index.m3u8
@@ -222,6 +222,7 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
+http://live.flixhub.net/hls/nick.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 
@@ -250,11 +251,11 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Chann
 #http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
 #http://103.131.212.138:8000/play/a004
 #http://172.17.50.112/live/antbd1008/index.m3u8
-http://103.161.2.142/hls/discovery.m3u8
+http://live.flixhub.net/hls/discovery.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD Bangla
 #http://jjkdomain123.one:80/Charlie/Charlie/1092764
-http://103.161.2.142/hls/ngohd.m3u8
+http://live.flixhub.net/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
@@ -267,7 +268,7 @@ http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #http://nicefly.xyz:80/h21041003/651032140/246233
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-http://103.161.2.142/hls/travelxp.m3u8
+http://live.flixhub.net/hls/travelxp.m3u8
 
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -279,7 +280,7 @@ http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 #http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
 #https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_Hindi&q=600&e=junk.m3u8
-http://103.161.2.142/hls/animalplanent.m3u8
+http://live.flixhub.net/hls/animalplanent.m3u8
 
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -289,7 +290,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #http://208.86.19.21:80/908.stream/index.m3u8
 #http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/857
-http://103.161.2.142/hls/starjalsha.m3u8
+http://live.flixhub.net/hls/starjalsha.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies HD
 #http://208.86.19.21:80/716.stream/index.m3u8
@@ -302,7 +303,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 
 #EXTINF:-51 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla",Jalsha Movies SD
 #http://37.26.85.82:8000/play/a010
-http://103.161.2.142/hls/jalshamovies.m3u8
+http://live.flixhub.net/hls/jalshamovies.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
@@ -310,7 +311,8 @@ http://103.161.2.142/hls/jalshamovies.m3u8
 #http://208.86.19.21:80/906.stream/index.m3u8
 #https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=auto&e=IshanJiotv.m3u8
 #http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/856
-http://103.161.2.142/hls/zeebanglahd.m3u8
+http://live.flixhub.net/hls/zeebanglahd.m3u8
+
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
@@ -323,11 +325,11 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
-http://103.161.2.142/hls/colore-bangla-cinema.m3u8
+http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
 #http://208.86.19.21:80/903.stream/index.m3u8
-http://103.161.2.142/hls/sunbangla.m3u8
+http://live.flixhub.net/hls/sunbangla.m3u8
 
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
 #http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
@@ -447,7 +449,7 @@ http://jjkdomain123.one:80/Charlie/Charlie/1093093
 #http://str24.l9574.com/717.stream/index.m3u8
 #http://208.86.19.21/717.stream/index.m3u8
 #http://ottss.online:8000/44122162500170/30316873476781/178701
-http://103.161.2.142/hls/stargold.m3u8
+http://live.flixhub.net//hls/stargold.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://183.178.58.115:8026/0.m3u8
@@ -597,13 +599,14 @@ http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
 http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/868
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
-#http://172.17.50.112/live/antbd1007/index.m3u8
-http://103.161.2.142/hls/stersports1hd.m3u8
+http://172.17.50.112/live/antbd1007/index.m3u8
+
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
 #https://236s.short.gy/DreamTV/ChSP1.m3u8
-http://qqtv.nl:8080/live/norma/12345/30630.m3u8
+#http://qqtv.nl:8080/live/norma/12345/30630.m3u8
+http://live.flixhub.net/hls/stersports1hd.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 #http://208.86.19.21:80/724.stream/index.m3u8
@@ -633,13 +636,13 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 #http://jjkdomain123.one:80/Charlie/Charlie/1093071
 #http://jjkdomain123.one:80/Charlie/Charlie/1092735
-http://103.161.2.142/hls/Star_Sport_Select1HD.m3u8
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.153.175.254:8080/hls/select2.m3u8
 #http://208.86.19.21:80/737.stream/index.m3u8
 #http://jjkdomain123.one:80/Charlie/Charlie/1092734
-http://103.161.2.142/hls/select2.m3u8
+http://live.flixhub.net/hls/select2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
@@ -679,7 +682,7 @@ http://jjkdomain123.one:80/Charlie/Charlie/1092760
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #http://30.30.30.30/live/skyfeed1005/index.m3u8
 #https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Six_HD&q=1200&e=junk.m3u8
-http://103.161.2.142/hls/sonysix.m3u8
+http://live.flixhub.net//hls/sonysix.m3u8
 
 
 
