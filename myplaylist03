@@ -100,9 +100,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
-#https://rebrand.ly/JB/GaziTvHD
 #https://liv-usa.sonyplex.net/evolution/gtv.stream/chunklist.m3u8
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+#http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+https://rebrand.ly/JB/GaziTvHD
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2] cmcl
 #http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
@@ -642,15 +642,15 @@ http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3977
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 #http://jjkdomain123.one:80/Charlie/Charlie/1093071
 #http://jjkdomain123.one:80/Charlie/Charlie/1092735
-#http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1125
+#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1125
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.153.175.254:8080/hls/select2.m3u8
 #http://208.86.19.21:80/737.stream/index.m3u8
 #http://jjkdomain123.one:80/Charlie/Charlie/1092734
-#http://live.flixhub.net/hls/select2.m3u8
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1315
+#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1315
+http://live.flixhub.net/hls/select2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
@@ -664,14 +664,14 @@ http://172.17.50.112/live/antbd1006/index.m3u8
 #http://str24.l9574.com/712.stream/index.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #http://qqtv.nl:8080/live/norma/12345/30624.m3u8
-http://30.30.30.30/live/skyfeed1006/index.m3u8
+http://30.30.30.30/live/skyfeed1007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
 #http://str24.l9574.com/713.stream/index.m3u8
 #http://qqtv.nl:8080/live/norma/12345/30628.m3u8
-#http://qqtv.nl:8080/live/norma/12345/30623.m3u8
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
+#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
+http://qqtv.nl:8080/live/norma/12345/30623.m3u8
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
 #http://jo123.biz/jweb/m3u8.php?c=Ten_4_Telugu&q=800&e=junk.m3u8
