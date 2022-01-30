@@ -589,9 +589,7 @@ http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/397844
 #http://208.86.19.21:80/732.stream/index.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #http://nicefly.xyz:80/h21041003/651032140/246220
-#http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
-http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3977
-
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
@@ -605,8 +603,8 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #http://103.153.175.254:8080/hls/select2.m3u8
 #http://208.86.19.21:80/737.stream/index.m3u8
 #http://jjkdomain123.one:80/Charlie/Charlie/1092734
-#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1315
-http://live.flixhub.net/hls/select2.m3u8
+#http://live.flixhub.net/hls/select2.m3u8
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1315
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
@@ -614,7 +612,8 @@ http://live.flixhub.net/hls/select2.m3u8
 #http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
 #http://qqtv.nl:8080/live/norma/12345//30625.m3u8
-http://172.17.50.112/live/antbd1006/index.m3u8
+#http://172.17.50.112/live/antbd1006/index.m3u8
+http://live.flixhub.net//hls/sonyten1.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://str24.l9574.com/712.stream/index.m3u8
