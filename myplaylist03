@@ -570,12 +570,13 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.153.175.254:8080/hls/select2.m3u8
 http://live.flixhub.net/hls/select2.m3u8
+http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1
