@@ -9,10 +9,10 @@ http://103.106.2.149:13456/btv.m3u8
 http://103.106.2.149:13456/btv_ctg.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #http://str24.l9574.com/604.stream/index.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
+#http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 #http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
@@ -59,9 +59,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
-#https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #http://103.161.2.142/hls/ntv.m3u8
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 #http://30.30.30.30/live/skyfeed1023/index.m3u8
@@ -196,8 +196,8 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV
-#http://103.70.140.27:8080/hls/duronto.m3u8
-http://89.187.185.89:3232/ban-duronto/index.m3u8
+#http://89.187.185.89:3232/ban-duronto/index.m3u8
+http://103.70.140.27:8080/hls/duronto.m3u8
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 #http://14.199.164.20:4001/play/a0m1/index.m3u8
