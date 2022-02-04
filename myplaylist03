@@ -816,7 +816,107 @@ http://qqtv.nl:8080/live/owen1/1owen/30626.m3u8
 
 
 
+#EXTINF:-187   group-title="dnf",BD: 1
+http://45.127.244.7:8080/hls/channel1.m3u8
+#EXTINF:-188   group-title="dnf",BD: 2
+http://45.127.244.7:8080/hls/channel2.m3u8
+#EXTINF:-189   group-title="dnf",BD: 3
+http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-190   group-title="dnf",BD: 4
+http://45.127.244.7:8080/hls/channel4.m3u8
+#EXTINF:-191   group-title="dnf",BD: 5
+http://45.127.244.7:8080/hls/channel5.m3u8
+#EXTINF:-192   group-title="dnf",BD: 6
+http://45.127.244.7:8080/hls/channel6.m3u8
+#EXTINF:-193   group-title="dnf",BD: 7
+http://45.127.244.7:8080/hls/channel7.m3u8
+#EXTINF:-194   group-title="dnf",BD: 8
+http://45.127.244.7:8080/hls/channel8.m3u8
+#EXTINF:-195   group-title="dnf",BD: 9
+http://45.127.244.7:8080/hls/channel9.m3u8
+#EXTINF:-196   group-title="dnf",BD: 10
+http://45.127.244.7:8080/hls/channel10.m3u8
+#EXTINF:-197   group-title="dnf",BD: 11
+http://45.127.244.7:8080/hls/channel11.m3u8
+#EXTINF:-198   group-title="dnf",BD: 12
+http://45.127.244.7:8080/hls/channel12.m3u8
+#EXTINF:-199   group-title="dnf",BD: 13
+http://45.127.244.7:8080/hls/channel13.m3u8
+#EXTINF:-200   group-title="dnf",BD: 14
+http://45.127.244.7:8080/hls/channel14.m3u8
+#EXTINF:-201   group-title="dnf",BD: 15
+http://45.127.244.7:8080/hls/channel15.m3u8
+#EXTINF:-202   group-title="dnf",BD: 16
+http://45.127.244.7:8080/hls/channel16.m3u8
 
+#EXTINF:-1   group-title="dnf",BD: 17
+http://172.50.50.66:8080/17/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 18
+http://172.50.50.66:8080/18/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 19
+http://172.50.50.66:8080/19/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 20
+http://172.50.50.66:8080/20/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 21
+http://172.50.50.66:8080/21/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 22
+http://172.50.50.66:8080/22/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 23
+http://172.50.50.66:8080/23/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 24
+http://172.50.50.66:8080/24/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 25
+http://172.50.50.66:8080/25/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 26
+http://172.50.50.66:8080/26/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 27
+http://172.50.50.66:8080/27/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 28
+http://172.50.50.66:8080/28/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 29
+http://172.50.50.66:8080/29/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 30
+http://172.50.50.66:8080/30/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 31
+http://172.50.50.66:8080/31/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 32
+http://172.50.50.66:8080/32/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 33
+http://172.50.50.66:8080/33/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 34
+http://172.50.50.66:8080/34/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 35
+http://172.50.50.66:8080/35/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 36
+http://172.50.50.66:8080/36/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 37
+http://172.50.50.66:8080/37/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 38
+http://172.50.50.66:8080/38/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 39
+http://172.50.50.66:8080/39/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 40
+http://172.50.50.66:8080/40/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 41
+http://172.50.50.66:8080/41/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 42
+http://172.50.50.66:8080/42/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 43
+http://172.50.50.66:8080/43/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 44
+http://172.50.50.66:8080/44/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 45
+http://172.50.50.66:8080/45/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 46
+http://172.50.50.66:8080/46/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 47
+http://172.50.50.66:8080/47/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 48
+http://172.50.50.66:8080/48/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 49
+http://172.50.50.66:8080/49/index.m3u8
+#EXTINF:-1   group-title="dnf",BD: 50
+http://172.50.50.66:8080/50/index.m3u8
 
 
 
