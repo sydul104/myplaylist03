@@ -522,7 +522,8 @@ http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
+#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
@@ -817,7 +818,16 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN 1" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 1
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN 2
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN 2" tvg-logo="https://i.postimg.cc/rsvgnXZf/espn11.png" group-title="SPORTS",ESPN UK
-http://qqtv.nl:8080/live/owen1/1owen/30626.m3u8
+
+
+#EXTINF:-164 tvg-logo="" group-title="SPORTS", FOX Sports 1
+http://clubtv.link/fb3/lista2.php?c=3081
+#EXTINF:-164 tvg-logo="" group-title="SPORTS", FOX Sports 2
+http://clubtv.link/fb3/lista2.php?c=3082
+#EXTINF:-164 tvg-logo="" group-title="SPORTS", FOX Sports 3
+http://clubtv.link/fb3/lista2.php?c=3083
+#EXTINF:-164 tvg-logo="" group-title="SPORTS", FOX Sports Premium
+http://clubtv.link/fb3/lista2.php?c=3236
 
 
 
