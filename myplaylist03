@@ -95,10 +95,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [Durbin]
 #https://rebrand.ly/JB/GaziTvHD
 #http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
-https://live.durbinlive.com/hls/Gazi-TV.m3u8
+#https://live.durbinlive.com/hls/Gazi-TV.m3u8
+https://piratesiptv.shortcm.li/gazi.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2] cmcl
-#https://piratesiptv.shortcm.li/gazi.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2] Inter.
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
@@ -517,7 +517,8 @@ http://103.84.253.5/live/0/index.m3u8
 http://103.70.140.27:8080/hls/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
-http://172.17.50.112/live/antbd1005/index.m3u8
+#http://172.17.50.112/live/antbd1005/index.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
@@ -853,74 +854,6 @@ http://45.127.244.7:8080/hls/channel15.m3u8
 #EXTINF:-202   group-title="dnf",BD: 16
 http://45.127.244.7:8080/hls/channel16.m3u8
 
-#EXTINF:-1   group-title="dnf",BD: 17
-http://172.50.50.66:8080/17/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 18
-http://172.50.50.66:8080/18/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 19
-http://172.50.50.66:8080/19/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 20
-http://172.50.50.66:8080/20/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 21
-http://172.50.50.66:8080/21/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 22
-http://172.50.50.66:8080/22/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 23
-http://172.50.50.66:8080/23/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 24
-http://172.50.50.66:8080/24/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 25
-http://172.50.50.66:8080/25/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 26
-http://172.50.50.66:8080/26/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 27
-http://172.50.50.66:8080/27/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 28
-http://172.50.50.66:8080/28/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 29
-http://172.50.50.66:8080/29/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 30
-http://172.50.50.66:8080/30/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 31
-http://172.50.50.66:8080/31/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 32
-http://172.50.50.66:8080/32/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 33
-http://172.50.50.66:8080/33/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 34
-http://172.50.50.66:8080/34/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 35
-http://172.50.50.66:8080/35/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 36
-http://172.50.50.66:8080/36/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 37
-http://172.50.50.66:8080/37/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 38
-http://172.50.50.66:8080/38/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 39
-http://172.50.50.66:8080/39/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 40
-http://172.50.50.66:8080/40/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 41
-http://172.50.50.66:8080/41/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 42
-http://172.50.50.66:8080/42/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 43
-http://172.50.50.66:8080/43/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 44
-http://172.50.50.66:8080/44/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 45
-http://172.50.50.66:8080/45/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 46
-http://172.50.50.66:8080/46/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 47
-http://172.50.50.66:8080/47/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 48
-http://172.50.50.66:8080/48/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 49
-http://172.50.50.66:8080/49/index.m3u8
-#EXTINF:-1   group-title="dnf",BD: 50
-http://172.50.50.66:8080/50/index.m3u8
 
 
 
