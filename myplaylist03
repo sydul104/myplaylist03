@@ -576,7 +576,8 @@ http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3979
-http://103.153.39.36:8000/play/a026
+#http://103.153.39.36:8000/play/a026
+http://opplex.tv:8080/pisces/pisces/109986
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://qqtv.nl:8080/live/norma/12345/30629.m3u8
