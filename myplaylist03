@@ -185,6 +185,7 @@ http://103.70.140.27:8080/hls/duronto.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay
+http://carre.flysat.live:80/152062083303767/152048915586075/73927
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
 http://live.flixhub.net/hls/nick.m3u8
@@ -225,11 +226,13 @@ http://live.flixhub.net/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
 #https://live.durbinlive.com/hls/ngohd.m3u8
-http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/73874
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23657.m3u8
-http://iptv.prosto.tv:7000/ch83/video.m3u8
+#http://iptv.prosto.tv:7000/ch83/video.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/73875
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -338,7 +341,8 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #http://ottss.online:8000/44122162500170/30316873476781/178721
 #http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/chunklist_w1058593266.m3u8
 #http://live.flixhub.net/hls/zoom.m3u8
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+#http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/73920
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
 #http://14.199.164.20:4001/play/a0mt/index.m3u8
@@ -349,7 +353,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5557
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/73878
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Mtv
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5556
@@ -364,7 +369,8 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/70
 
 #EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
 #http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
+#http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/73817
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Zing
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
@@ -399,9 +405,13 @@ http://live.flixhub.net/hls/andpictures.m3u8
 #http://103.153.39.36:8000/play/a012
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold-2
+http://carre.flysat.live:80/152062083303767/152048915586075/73771
+
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://ottss.online:8000/44122162500170/30316873476781/178702
-http://103.153.39.36:8000/play/a014
+#http://103.153.39.36:8000/play/a014
+http://carre.flysat.live:80/152062083303767/152048915586075/73939
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Zee tv
 http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
@@ -420,7 +430,7 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY SAB
-
+http://carre.flysat.live:80/152062083303767/152048915586075/73930
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX SD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
@@ -429,7 +439,8 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX-2
-http://qqtv.nl:8080/live/owen1/1owen/30634.m3u8
+#http://qqtv.nl:8080/live/owen1/1owen/30634.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/73933
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",ARY DIGITAL
 
@@ -440,6 +451,7 @@ http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 #http://103.153.39.36:8000/play/a016
 http://live.flixhub.net/hls/sonypixhd.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/73932
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
@@ -532,10 +544,12 @@ http://live.flixhub.net/hls/stersports1hd.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3979
 #http://103.153.39.36:8000/play/a026
+http://carre.flysat.live:80/152062083303767/152048915586075/74258
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://qqtv.nl:8080/live/norma/12345/30629.m3u8
 http://45.127.244.7:8080/hls/channel7.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/74257
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
@@ -545,18 +559,21 @@ http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #http://nicefly.xyz:80/h21041003/651032140/246220
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
+#http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
+http://carre.flysat.live:80/152062083303767/152048915586075/74256
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
-http://103.153.39.36:8000/play/a018
+#http://103.153.39.36:8000/play/a018
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+http://carre.flysat.live:80/152062083303767/152048915586075/74255
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
+#http://103.153.39.36:8000/play/a019
 http://live.flixhub.net/hls/select2.m3u8
-http://103.153.39.36:8000/play/a019
+http://carre.flysat.live:80/152062083303767/152048915586075/74254
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
@@ -641,6 +658,7 @@ http://qqtv.nl:8080/live/norma/12345/30622.m3u8
 http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65802.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://carre.flysat.live:80/152062083303767/152048915586075/74250
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10631
