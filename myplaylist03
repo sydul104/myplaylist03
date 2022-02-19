@@ -55,7 +55,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-29 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BANGLA",NTV
 #https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+http://30.30.30.30:8081/tschannel/channel36/playlist.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 #https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
@@ -94,6 +95,7 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 http://live.flixhub.net/hls/t-sports.m3u8
+http://30.30.30.30:8081/tschannel/channel1/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://10.16.100.207:8082/sports/maasr@nga_1StOp.m3u8
@@ -527,6 +529,7 @@ http://30.30.30.30/live/skyfeed1006/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
 http://45.127.244.7:8080/hls/channel2.m3u8
+http://30.30.30.30:8081/tschannel/channel43/playlist.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
 #http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3979
@@ -556,11 +559,13 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 #http://103.153.39.36:8000/play/a018
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+http://30.30.30.30:8081/tschannel/channel5/playlist.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.153.39.36:8000/play/a019
 #http://live.flixhub.net/hls/select2.m3u8
 http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
+http://30.30.30.30:8081/tschannel/channel6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
 #http://live.flixhub.net//hls/sonyten1.m3u8
