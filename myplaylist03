@@ -11,8 +11,8 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-#http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
-http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 #http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
@@ -311,7 +311,8 @@ http://live.flixhub.net/hls/sunbangla.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
-http://14.199.164.20:4001/play/a0j5/index.m3u8
+#http://14.199.164.20:4001/play/a0j5/index.m3u8
+http://30.30.30.30:8081/tschannel/channel31/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian-Bangla",R Plus
 https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
@@ -532,8 +533,7 @@ http://45.127.244.7:8080/hls/channel2.m3u8
 http://30.30.30.30:8081/tschannel/channel43/playlist.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
-#http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3979
-https://list.iptvcat.com/my_list/s/46a8eac1e3446248fbbaaaaa506ea690.m3u8
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://172.17.50.112/live/antbd1007/index.m3u8
