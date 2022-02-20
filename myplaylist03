@@ -188,6 +188,7 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 #http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://103.70.140.27:8080/hls/duronto.m3u8
 
+
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 #http://14.199.164.20:4001/play/a0m1/index.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
@@ -238,7 +239,6 @@ http://103.166.253.222/hls/ngohd.m3u8
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
-#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23657.m3u8
 http://iptv.prosto.tv:7000/ch83/video.m3u8
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
@@ -264,7 +264,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/192
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3982
 #http://live.flixhub.net/hls/starjalsha.m3u8
 #https://live.durbinlive.com/hls/starjalsha.m3u8
@@ -282,20 +281,16 @@ http://45.127.244.7:8080/hls/channel13.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://live.flixhub.net/hls/zeebanglahd.m3u8
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3409
 #http://45.127.244.7:8080/hls/channel10.m3u8
 http://cablevission.ddns.net/PCPSCEDAQt/ou0mthW/856
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
-#http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
-http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
-http://45.127.244.7:8080/hls/channel11.m3u8
+#http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
+#http://45.127.244.7:8080/hls/channel11.m3u8
+http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3415
 #http://live.flixhub.net/hls/colorsbangla.m3u8
-#https://live.durbinlive.com/hls/colorsbangla.m3u8
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
@@ -303,11 +298,9 @@ http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Sun Bangla
-#https://live.durbinlive.com/hls/sunbangla.m3u8
 http://live.flixhub.net/hls/sunbangla.m3u8
 
 #EXTINF:-56 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian-Bangla",Sony Aath
-#http://qqtv.nl:8080/live/owen1/1owen/30634.m3u8
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
@@ -345,7 +338,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
-#http://ottss.online:8000/44122162500170/30316873476781/178721
 #http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/chunklist_w1058593266.m3u8
 #http://live.flixhub.net/hls/zoom.m3u8
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
@@ -358,11 +350,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
-#http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5557
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Mtv
-#http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5556
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
