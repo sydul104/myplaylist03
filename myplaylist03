@@ -159,6 +159,7 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 #EXTINF:-58 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="English News",BBC News
 #http://103.159.4.38:5868/NEWS-2/tracks-v1a1/mono.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://78.83.191.18:8000/play/a07a
 
 #EXTINF:-59 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="English News",CNN
 #https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -236,6 +237,7 @@ http://103.166.253.222/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
 #https://live.durbinlive.com/hls/ngohd.m3u8
+#http://45.94.31.190:7004/play/a0ct
 http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
@@ -388,6 +390,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &Tv
+http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672296
 
 #EXTINF:-98 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi", &PICTURES
 #http://103.153.39.36:8000/play/a017
@@ -440,8 +443,8 @@ http://singamcloud.in:1935/rasinetwork/appledigitel/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
-#http://103.153.39.36:8000/play/a016
-http://live.flixhub.net/hls/sonypixhd.m3u8
+#http://live.flixhub.net/hls/sonypixhd.m3u8
+http://103.153.39.36:8000/play/a016
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
@@ -450,7 +453,6 @@ http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
 #EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
-#http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 #http://50.7.61.148:30080/Entry/hbo/index.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
@@ -496,12 +498,14 @@ http://103.84.253.5/live/4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 #http://172.17.50.112/live/antbd1005/index.m3u8
-#http://103.70.140.27:8080/hls/tsports.m3u8
-http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+#http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
@@ -509,9 +513,9 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
 http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
-http://103.70.140.27:8080/hls/tsports.m3u8
 #http://45.127.244.7:8080/hls/channel3.m3u8
-http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+#http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
@@ -520,10 +524,13 @@ http://30.30.30.30/live/skyfeed1006/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
 http://45.127.244.7:8080/hls/channel2.m3u8
+
+#EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD
 http://30.30.30.30:8081/tschannel/channel43/playlist.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/502
+http://45.127.244.7:8080/hls/channel9.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 http://172.17.50.112/live/antbd1007/index.m3u8
@@ -548,18 +555,18 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2508/index.m3u8
 #http://103.153.39.36:8000/play/a018
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+#http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 http://30.30.30.30:8081/tschannel/channel5/playlist.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.153.39.36:8000/play/a019
 #http://live.flixhub.net/hls/select2.m3u8
-http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 http://30.30.30.30:8081/tschannel/channel6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
-#http://live.flixhub.net//hls/sonyten1.m3u8
-http://172.17.50.112/live/antbd1006/index.m3u8
+#http://172.17.50.112/live/antbd1006/index.m3u8
+http://live.flixhub.net//hls/sonyten1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 SD
 http://45.127.244.7:8080/hls/channel4.m3u8
@@ -572,6 +579,7 @@ http://30.30.30.30/live/skyfeed1007/index.m3u8
 http://45.127.244.7:8080/hls/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
+http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672445
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 SD
 http://live.flixhub.net/hls/sonyten3.m3u8
@@ -627,20 +635,14 @@ http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65802.m3u8
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10631
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
-#http://93.152.174.144:4000/play/skysports2/index.m3u8
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/258
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Football
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6684
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports MIX
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/7608
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/683003
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 
-#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Astro Super Sports-1
-http://93.157.62.180/Supersport1/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Golf
 
@@ -703,13 +705,13 @@ https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
-#http://93.152.174.144:4000/play/btsport1/index.m3u8
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2505/index.m3u8
+#http://93.152.174.144:4000/play/btsport1/index.m3u8
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
-#http://93.152.174.144:4000/play/btsport2/index.m3u8
 #http://mangotv.ddns.net/iptv/MZ47TTFQ25YSZY/2506/index.m3u8
+#http://93.152.174.144:4000/play/btsport2/index.m3u8
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
@@ -764,9 +766,7 @@ http://93.157.62.180/Supersport2/index.m3u8
 http://93.157.62.180/Supersport3/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",EUROSPORT 1 FHD
-http://livegopanel.club:8080/eG7zPYuwkE/e1FnrepCTe/74095
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",EUROSPORT 2 FHD
-http://livegopanel.club:8080/eG7zPYuwkE/e1FnrepCTe/74096
 
 
 
