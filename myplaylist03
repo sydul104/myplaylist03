@@ -295,7 +295,8 @@ http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
 http://live.flixhub.net/hls/colorsbangla.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla-2
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
+#http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/863
+http://103.170.140.8/hls/colorsbangla.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
 #https://live.durbinlive.com/hls/colore-bangla-cinema.m3u8
