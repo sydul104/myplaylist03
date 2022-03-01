@@ -268,6 +268,9 @@ http://103.153.39.36:8000/play/a011
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTINF:-1 group-title="Documentary",LIFE & STYLE
+http://210.210.155.35/dr9445/h/h28/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla",Star Jalsha
 #http://live.flixhub.net/hls/starjalsha.m3u8
@@ -470,6 +473,7 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="English Movie",AXN
 #http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
 #https://smart-tv.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
+#http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
@@ -477,6 +481,7 @@ http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",KIX
+#http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Cinemax
@@ -490,8 +495,12 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 https://smart-tv.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2xD8sMCO7vaN1G4G6x_48kaYAgOqzQVWYA&usqp=CAU",Lotus
-#EXTINF:-1 group-title="English Movie" tvg-logo="",&Flix HD
-#EXTINF:0 tvg-id="" group-title="English Movie",Boo
+
+#EXTINF:-1 group-title="English Movie" tvg-logo="",Discover Film
+http://108.136.37.52/m3u8/plex_Discover_Film.m3u8
+
+#EXTINF:0 tvg-id="" group-title="English Movie",My Chinema
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
 
 
