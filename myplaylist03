@@ -703,7 +703,7 @@ http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65796.m3u8
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1013.ts
+http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1013.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6871.m3u8
