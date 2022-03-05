@@ -522,6 +522,7 @@ http://103.84.253.5/live/4/index.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
 #http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
@@ -542,6 +543,7 @@ http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 http://30.30.30.30/live/skyfeed1006/index.m3u8
+http://103.149.130.122:8089/102/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
@@ -642,9 +644,10 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10608
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [1]
-
+https://s1.fctelerium.com:999/hls/supercricket-20131.ts
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
+https://s4.fctelerium.com:999/hls/supercricket-20180.ts
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Primiar League
 
@@ -656,22 +659,26 @@ http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/683001
 http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65800.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [2]
+https://s2.fctelerium.com:999/hls/fox501-33424.ts
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 502
 http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65802.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10631
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10631
+https://s2.fctelerium.com:999/hls/willowextra-86256.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/505
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Football
+https://s2.fctelerium.com:999/hls/skysprem-14367.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports MIX
+https://s3.fctelerium.com:999/hls/skysme-12387.ts
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/516
