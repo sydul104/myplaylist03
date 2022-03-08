@@ -619,14 +619,14 @@ http://103.159.4.38:5868/SPORTS-9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672445
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
+#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/518
+http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 SD
 http://live.flixhub.net/hls/sonyten3.m3u8
 
 #EXTINF:-141 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="SPORTS",Sony Ten 4
-#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/512
-http://103.159.4.38:5868/SPORTS-10/tracks-v1a1/mono.m3u8
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/512
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 #http://30.30.30.30/live/skyfeed1005/index.m3u8
@@ -666,7 +666,6 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/516
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
 http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
 
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/686915.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65800.m3u8
@@ -680,8 +679,10 @@ http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/686916.m3u8
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 503
 http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65802.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10631
+http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/10631.m3u8
+
 
 #EXTINF:-1 tvg-name="WILLOW CRICKET XTRA" group-title="SPORTS",WILLOW CRICKET XTRA
 
