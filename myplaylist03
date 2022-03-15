@@ -11,8 +11,8 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
-#http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
-http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 #http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
