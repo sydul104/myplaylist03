@@ -425,6 +425,7 @@ http://live.flixhub.net/hls/andpictures.m3u8
 http://live.flixhub.net//hls/stargold.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold-2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://ottss.online:8000/44122162500170/30316873476781/178702
@@ -450,6 +451,7 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY SAB
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX SD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
@@ -458,6 +460,7 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX-2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi",ARY DIGITAL
 
@@ -517,9 +520,8 @@ http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports  1
-#http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
 #http://103.84.253.5/live/0/index.m3u8
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1142
+http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports 2
 #http://stream.dhakaflix.com:8081/live/dhakaflix-gtv/chunks.m3u8
@@ -533,7 +535,7 @@ http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
-http://stream.dhakaflix.com:8081/live/mystream1/chunks.m3u8
+http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1142
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
@@ -577,7 +579,6 @@ http://live.flixhub.net/hls/stersports1hd.m3u8
 http://103.153.39.36:8000/play/a026
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
-#http://45.127.244.7:8080/hls/channel7.m3u8
 http://103.153.39.36:8000/play/a00d
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
