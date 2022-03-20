@@ -4,8 +4,9 @@
 http://103.106.2.149:13456/btv_world.m3u8
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
-#http://103.106.2.149:13456/btv.m3u8
-http://103.149.130.122:8089/53/index.m3u8
+#http://103.149.130.122:8089/53/index.m3u8
+http://103.106.2.149:13456/btv.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BANGLA",Btv Chittagong
 http://103.106.2.149:13456/btv_ctg.m3u8
@@ -297,8 +298,8 @@ http://103.149.130.122:8089/31/index.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://live.flixhub.net/hls/zeebanglahd.m3u8
 #http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/856
-#http://103.149.130.122:8089/34/index.m3u8
-http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/34/index.m3u8
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
