@@ -676,7 +676,7 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/516
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [1]
-
+https://prod-ec-ap-northeast-2.video.pscp.tv/Transcoding/v1/hls/Lt8ZlZpDFLk_ZgjcyxrTsXXDPvxO5ecvO32eAfYAWmOH0Dmne906JU22gbUKoi1XG03xXF95JDlSvah3K3X9-w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Primiar League
