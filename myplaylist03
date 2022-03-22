@@ -63,9 +63,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-18 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA",Deepto TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
-http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv [2] Inter.
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 
@@ -364,7 +361,8 @@ http://103.149.130.122:8089/90/index.m3u8
 http://103.149.130.122:8089/38/index.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY SAB
-http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+#http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+http://103.149.130.122:8089/36/index.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="Hindi",SONY MAX SD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
@@ -501,8 +499,8 @@ http://103.112.55.107:9090/play/a013/index.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1
 #http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
-#http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-http://103.149.130.122:8089/27/index.m3u8
+#http://103.149.130.122:8089/27/index.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 #http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
