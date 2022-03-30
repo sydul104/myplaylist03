@@ -525,10 +525,21 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 
 
 
-#EXTINF:-202   group-title="Hindi Movies",IN: Pushpa
+#EXTINF:-202 group-title="Hindi Movies",IN: Pushpa
 http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Pushpa%20The%20Rise%20(2021)%201080p%20WEBDL.mp4
 
 
-#EXTINF:-202   group-title="Hindi Movies",IN:MoonFall
-https://mdisk.me/convertor/40x17/snTzVW
+#EXTINF:-202 group-title="Hindi Movies",IN:MoonFall
+https://assets-1.mypowerdisk.com/transcode_video/a5baec1e9907b707221ac1c8b4209766/dash/a5baec1e9907b707221ac1c8b4209766.mpd
+
+
+#EXTINF:-202 group-title="Hindi Movies",IN:RRR
+https://assets-1.mypowerdisk.com/transcode_video/7adcca8586e774b786c027e892103ded/dash/7adcca8586e774b786c027e892103ded.mpd
+
+
+
+
+
+
+
 
