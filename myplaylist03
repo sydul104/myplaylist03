@@ -158,8 +158,8 @@ http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34494?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
-#http://live.flixhub.net/hls/nick.m3u8
-http://103.149.130.122:8089/55/index.m3u8
+#http://103.149.130.122:8089/55/index.m3u8
+http://103.55.144.46/hls/nick.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior
 http://210.210.155.35/uq2663/h/h98/index.m3u8
@@ -168,7 +168,8 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/swM1L4e.png",Discovery Kids
-http://182.50.65.213:8888/udp/239.239.0.37:3001
+#http://182.50.65.213:8888/udp/239.239.0.37:3001
+http://103.55.144.46/hls/dis-kid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
 #https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
@@ -194,12 +195,13 @@ http://172.17.50.112/live/antbd1008/index.m3u8
 http://103.55.144.46/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
-#http://103.159.4.38:5868/ENTEMENT-4/tracks-v1a1/mono.m3u8
+#https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 http://182.50.65.213:8888/udp/239.239.0.01:3001
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
 #http://103.149.130.122:8089/35/index.m3u8
-http://iptv.prosto.tv:7000/ch83/video.m3u8
+#http://iptv.prosto.tv:7000/ch83/video.m3u8
+http://103.55.144.46/hls/wild.m3u8
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -213,7 +215,8 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-http://103.149.130.122:8089/44/index.m3u8
+#http://103.149.130.122:8089/44/index.m3u8
+http://103.55.144.46/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 #http://live.flixhub.net/hls/animalplanent.m3u8
@@ -268,6 +271,9 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla
 http://14.199.164.20:4001/play/a0j5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian-Bangla", Enter 10 Bangla-2
+https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 
 
 
@@ -482,7 +488,9 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD
 #http://103.84.253.5/live/4/index.m3u8
 #https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/553
+#http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/553
+http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports Bangla
 #http://103.112.55.107:9090/play/a004/index.m3u8
