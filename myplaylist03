@@ -149,7 +149,8 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV
-http://103.149.130.122:8089/10/index.m3u8
+#http://103.149.130.122:8089/10/index.m3u8
+http://file.midiplexhd.com/hls/sky11.m3u8
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
@@ -547,12 +548,14 @@ http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 SD
+http://file.midiplexhd.com/hls/sky3.m3u8
 http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
 http://103.55.144.46/hls/select2.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 SD
+http://file.midiplexhd.com/hls/sky14.m3u8
 http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 
 
@@ -619,6 +622,7 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [1]
+http://178.218.196.218:8000/play/a008/index.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
 #http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
@@ -628,10 +632,12 @@ http://178.218.196.218:8000/play/a00d/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg", La Liga
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/686915.m3u8
+#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/686915.m3u8
+http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 502
-http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/686916.m3u8
+#http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/686916.m3u8
+http://stariptv.org:8080/live/nour2020/123456/148522.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/10631.m3u8
