@@ -509,7 +509,7 @@ http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=rxpPjeiKRC&toke
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://103.149.130.122:8089/26/index.m3u8
-http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34498?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34499?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
 #http://103.112.55.107:9090/play/a005/index.m3u8
@@ -603,8 +603,10 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/505
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
+
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
 http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
+
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
 http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8
 
@@ -657,6 +659,9 @@ http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
+#EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD-1
+#EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD-2
+
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Euro Sports-1 HD
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33810
@@ -664,22 +669,26 @@ http://bestavb.top:8008/Daia_Florin/1Unlimited19/33810
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-1
 #http://bestavb.top:8008/Daia_Florin/1Unlimited19/33798
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/62775
+
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-2
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800
+
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-3
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33802
+
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-4
 http://bestavb.top:8008/Daia_Florin/1Unlimited19/33804
 
-#EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD-1
-#EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD-2
 
 #EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
 #EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
 #EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
 #EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
