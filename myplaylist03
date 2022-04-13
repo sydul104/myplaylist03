@@ -624,6 +624,9 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [1]
 http://178.218.196.218:8000/play/a008/index.m3u8
 
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
+http://driptvs.com:8080/dessy/cmOXmsOWRm/135964
+
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
 #http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/683001.m3u8
 #http://45.153.35.224:8000/play/a00u
@@ -646,25 +649,31 @@ http://mytv.fun:8080/live/xhg36zuvv/vxj63lllg2/10631.m3u8
 http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/505
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
-http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
+#http://vt.vttpi.com:8000/live/P-957977/P-740465/412.m3u8
+#http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/108161.m3u8
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/1.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2  Premium
-http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
+#http://vt.vttpi.com:8000/live/P-957977/P-740465/413.m3u8
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/2.m3u8
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3  Premium
-http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8
+#http://vt.vttpi.com:8000/live/P-957977/P-740465/414.m3u8
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports
 http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#https://nonton.site:8443/live/1842273725/9237641816/728.m3u8
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/4.m3u8
 
-EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1010.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
+https://nonton.site:8443/live/1842273725/9237641816/729.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1009.m3u8
+https://nonton.site:8443/live/1842273725/9237641816/37433.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/1008.m3u8
@@ -680,13 +689,16 @@ http://vizyonbox.link:2086/live/Salahdin/DEDbKgUYhF/26480.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports-1 [English]
 #http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61416
-http://178.218.196.218:8000/play/a00d/index.m3u8
+#http://178.218.196.218:8000/play/a00d/index.m3u8
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151566.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports-2 [English]
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+#http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151567.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports-3 [English]
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+#http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
+http://grl.dream-tv.org:2082/live/ikram_286249/GkYqOAh8/151568.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English [Bac up]
 #http://api.magiaiptv.com/live/800328/755275/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p.m3u8
