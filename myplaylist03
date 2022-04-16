@@ -9,7 +9,7 @@ http://103.106.2.149:13456/btv.m3u8
 http://103.106.2.149:13456/btv_ctg.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
-#http://103.149.130.122:8089/11/index.m3u8
+#http://12.1.1.1:8082/Ekattor-tv/index.m3u8
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 
 #EXTINF:-5 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
