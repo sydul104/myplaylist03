@@ -5,7 +5,6 @@ http://89.187.162.109/BTV/mono.m3u8
 
 #EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV 
 #http://103.106.2.149:13456/btv.m3u8
-http://103.135.133.3/hls/stream4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BANGLA",Btv Chittagong
 #http://103.106.2.149:13456/btv_ctg.m3u8
@@ -77,7 +76,8 @@ http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
 #http://live.flixhub.net/hls/Gazi-TV.m3u8
-http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+http://td.chowdhury-shaheb.com/live/gazitv/playlist.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 #http://live.flixhub.net/hls/t-sports.m3u8
@@ -474,11 +474,12 @@ http://125.209.88.166:45793/BRN/beINPremiere1.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports  1
-http://103.55.144.46/hls/t-sports.m3u8
+http://30.30.30.30:8081/tschannel/channel58/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports 2
 #http://103.84.253.5/live/4/index.m3u8
-http://30.30.30.30:8081/tschannel/channel2/playlist.m3u8
+#http://30.30.30.30:8081/tschannel/channel2/playlist.m3u8
+http://103.55.144.46/hls/t-sports.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
@@ -486,11 +487,12 @@ http://172.16.50.250:8081/main/mystream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/1070
-http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
+#http://tv.fnfonlinebd.com/live/fnffeed1003/index.m3u8
 http://208.86.19.13:81/905.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
-http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
+#http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
+http://td.chowdhury-shaheb.com/live/tsports/playlist.m3u8
 
 
 
@@ -517,7 +519,8 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD
 #http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/553
-http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+#http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
+http://td.chowdhury-shaheb.com/live/gazitv/playlist.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD
 #http://tv.fnfonlinebd.com/live/fnffeed1001/index.m3u8
@@ -529,13 +532,13 @@ http://30.30.30.30:8081/tschannel/channel59/playlist.m3u8
 http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
-#http://172.17.50.112/live/antbd1007/index.m3u8
-http://103.135.133.3/hls/stream3.m3u8
+#http://103.135.133.3/hls/stream3.m3u8
+http://172.17.50.112/live/antbd1007/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.149.130.122:8089/25/index.m3u8
-#http://103.55.144.46/hls/stersports1hd.m3u8
-http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=rxpPjeiKRC&token=TURYAhZYEAwSU1MGXlMAB1ADU1FSWldTBQEBUAUOU1VTAAkFBgACUwBGTxBLF0AGVA9uD1IbCQUFB10DShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XDF9SA0oSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+#http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=rxpPjeiKRC&token=TURYAhZYEAwSU1MGXlMAB1ADU1FSWldTBQEBUAUOU1VTAAkFBgACUwBGTxBLF0AGVA9uD1IbCQUFB10DShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XDF9SA0oSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+http://103.55.144.46/hls/stersports1hd.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 #http://45.86.190.64:25461/9tfkE7P6pDR23zAf/8C8TY14GvnWRCQrv/34513?play_token=t58KaTdCDg&token=TURYAhZYEAwSAgBQXVQCVgEHBlcCXAZSUFFSAQMAVVZQAlYBBAMCUwFGTxBLF0AGVA9uD1IbCQUFBlUGShsTFlMUbwoBEggUAVxRBQlVBEEZQEUPW1wRDAAFUA1TClNRBlIcQRVZVhQKRlEAC1UHQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AFWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRAFABUBMb
