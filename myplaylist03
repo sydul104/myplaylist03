@@ -556,6 +556,7 @@ http://182.50.65.213:8888/udp/239.239.0.5:3001
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 SD
 http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
+http://30.30.30.30:8081/tschannel/channel33/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="SPORTS", Sony Ten 1 HD
@@ -573,7 +574,8 @@ http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&toke
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://103.55.144.46/hls/sonyten2.m3u8
-http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+#http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+http://30.30.30.30:8081/tschannel/channel32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony Ten 3 HD
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672445
@@ -589,7 +591,8 @@ http://www.luckonline.eu:80/CxHqY4Vil5/Y6ncTduYP4/512
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six HD
 #http://172.17.50.112/live/antbd1006/index.m3u8
-http://10.16.100.207:8082/sports/s0ny6six.m3u8
+#http://10.16.100.207:8082/sports/s0ny6six.m3u8
+http://30.30.30.30:8081/tschannel/channel30/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="SPORTS", Sony Six SD
 #http://103.55.144.46//hls/sonysix.m3u8
@@ -967,7 +970,7 @@ http://30.30.30.30:8081/tschannel/channel70/playlist.m3u8
 https://assets-1.entertainvideo.com/assets/media/941cb3c1b88a354bbe66c3e01f83a3ee/dash/941cb3c1b88a354bbe66c3e01f83a3ee.mpd
 #EXTINF:-202 group-title="Hindi Movies",IN: Pushpa
 http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/South%20Indian%20(Hindi%20Dubbed)/Pushpa%20The%20Rise%20(2021)%201080p%20WEBDL.mp4
-#EXTINF:-202 group-title="Hindi Movies",IN:MoonFall
+#EXTINF:-202 group-title="Hindi Movies",IN:UNKNOWN
 https://assets-1.mypowerdisk.com/transcode_video/a5baec1e9907b707221ac1c8b4209766/dash/a5baec1e9907b707221ac1c8b4209766.mpd
 #EXTINF:-202 group-title="Hindi Movies",IN:RRR
 https://assets-1.mypowerdisk.com/transcode_video/7adcca8586e774b786c027e892103ded/dash/7adcca8586e774b786c027e892103ded.mpd
