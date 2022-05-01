@@ -483,7 +483,8 @@ http://172.17.50.112/live/antbd1005/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://103.55.144.46/hls/t-sports.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
-http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+#http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+http://stream.accessnetbd.com/hls/sky12.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.149.130.122:8089/102/index.m3u8
@@ -625,12 +626,14 @@ http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 http://42.201.253.14:4090/play/2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD-2
-http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket
-http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+#http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket-2
 http://15.1.1.10:8082/SKY-SPORTS-CRICKET/index.m3u8
@@ -646,7 +649,7 @@ http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 https://hostcloud.network/live/aD8C1ETPQU28/842373/102234.ts
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
-http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
