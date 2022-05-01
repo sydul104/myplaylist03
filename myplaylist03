@@ -636,10 +636,10 @@ http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Cricket-2
-http://15.1.1.10:8082/SKY-SPORTS-CRICKET/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="SPORTS", Sky Sports Footbal
-http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS",Star Cricket
 
