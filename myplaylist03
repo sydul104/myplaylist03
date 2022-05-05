@@ -193,7 +193,6 @@ http://45.86.190.64:25461/cChFuTE3D0/RWt4r65tpX/33932?play_token=A7bC2TutMq&toke
 #http://103.55.144.46/hls/discovery.m3u8
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
-
 #EXTINF:-63 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery Engliah HD
 #http://ip2121.com:8081/live/discovery/playlist.m3u8
 #http://103.149.130.122:8089/43/index.m3u8
@@ -226,12 +225,12 @@ http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://103.149.130.122:8089/44/index.m3u8
 #http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
-#http://103.55.144.46/hls/bbcearth.m3u8
-http://ranapk01.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
+#http://ranapk01.in1.bitmana.io/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
+http://103.55.144.46/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
-#http://live.flixhub.net/hls/animalplanent.m3u8
-http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34481?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+#http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34481?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+http://103.55.144.46/hls/animalplanent.m3u8
 
 #EXTINF:-73 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -254,8 +253,8 @@ http://103.55.144.46:80/hls/jalshamovies.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34395?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#http://103.55.144.46/hls/zeebanglahd.m3u8
-http://ranapk01.in1.bitmana.io/live.php?c=Zee_Bangla&q=1200&e=.m3u8
+#http://ranapk01.in1.bitmana.io/live.php?c=Zee_Bangla&q=1200&e=.m3u8
+http://103.55.144.46/hls/zeebanglahd.m3u8
 
 #EXTINF:-54 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
@@ -263,12 +262,12 @@ http://ranapk01.in1.bitmana.io/live.php?c=Zee_Bangla&q=1200&e=.m3u8
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
-#http://103.55.144.46/hls/colorsbangla.m3u8
 #http://208.86.19.13:81/904.stream/index.m3u8
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34385?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla-2
-http://ranapk01.in1.bitmana.io/live.php?c=Colors_Bengali_HD&q=1200&e=.m3u8
+#http://ranapk01.in1.bitmana.io/live.php?c=Colors_Bengali_HD&q=1200&e=.m3u8
+http://103.55.144.46/hls/colorsbangla.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
@@ -496,10 +495,11 @@ http://103.124.110.34:8082/tsp/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 #http://103.55.144.46/hls/Gazi-TV.m3u8
-#http://30.30.30.30:8081/tschannel/channel59/playlist.m3u8
 http://103.124.110.34:8082/gtv/index.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD-2
+http://30.30.30.30:8081/tschannel/channel59/playlist.m3u8
+
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD-3
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD-4
 
@@ -678,8 +678,8 @@ http://103.124.110.34:8082/BEIN-SPORTS-2-HD/index.m3u8
 http://103.124.110.34:8082/BEIN-SPORTS-3-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
-#http://93.152.174.144:4000/play/bein4ar/index.m3u8
-http://103.124.110.34:8082/BEIN-SPORTS-4-HD-AR/index.m3u8
+#http://103.124.110.34:8082/BEIN-SPORTS-4-HD-AR/index.m3u8
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
@@ -706,10 +706,12 @@ http://api.magiaiptv.com/live/800328/755275/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p.
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD-1
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD-2
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Euro Sports-1 HD
+
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-1
 http://194.58.42.152:8000/play/setantasports1hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-2
 http://194.58.42.152:8000/play/setantasports2hd/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-3
 #EXTINF:-1 tvg-logo="http://www.coolstreaming.us/img/ch/image24452744424.jpg" group-title="SPORTS",Digisports-4
 
