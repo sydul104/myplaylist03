@@ -214,7 +214,8 @@ http://103.55.144.46/hls/wild.m3u8
 http://103.55.144.46/hls/travelxp.m3u8
 
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 #EXTINF:-68 tvg-logo="" group-title="Documentary",CGTN
 #http://210.210.155.35/qwr9ew/s/s20/01.m3u8
@@ -415,7 +416,8 @@ http://42.200.67.163:8090/play/a0qc
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 #http://103.55.144.46/hls/sonypixhd.m3u8
-http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34470?play_token=zATZ0omYpo&token=TURYAhZYEAwSBVYBC1UEAFQEAlRQWAFQVAZXA1NaB1UBUFEHBglTUwJGTxBLF0AGVA9uD1IbCQUFB1MFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1NdBlccQRVZVhQKRlIDD1EGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AHWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClUNUBMb
+#http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34470?play_token=zATZ0omYpo&token=TURYAhZYEAwSBVYBC1UEAFQEAlRQWAFQVAZXA1NaB1UBUFEHBglTUwJGTxBLF0AGVA9uD1IbCQUFB1MFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1NdBlccQRVZVhQKRlIDD1EGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AHWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClUNUBMb
+http://axcestv.vip:8080/freeview/axcestv/706
 
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
@@ -434,7 +436,11 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://axcestv.vip:8080/freeview/axcestv/704
+
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies Select HD
+http://axcestv.vip:8080/freeview/axcestv/705
 
 #EXTINF:0 tvg-id="" group-title="English Movie",KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
@@ -444,7 +450,8 @@ http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Cinemax
-http://ip2121.com:8081/live/cinemax/playlist.m3u8
+#http://ip2121.com:8081/live/cinemax/playlist.m3u8
+http://axcestv.vip:8080/freeview/axcestv/708
 
 #EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" " group-title="English Movie",STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
@@ -455,6 +462,13 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="English Movie",BEIN MOVIES HD 1 
+
+#EXTINF:-1 group-title="English Movie",&flix
+http://axcestv.vip:8080/freeview/axcestv/702
+
+#EXTINF:-1 group-title="English Movie",&privet
+http://axcestv.vip:8080/freeview/axcestv/703
+
 
 
 
@@ -644,15 +658,15 @@ http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 #https://hostcloud.network/live/aD8C1ETPQU28/842373/102234.ts
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 
-#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Cricket [2]
-
+#EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport Football
+http://axcestv.vip:8080/freeview/axcestv/794
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg",Super Sport La Liga
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.srsa.gov.za/sites/default/files/awards-images/SuperSport-logo1.jpg", Supper Sports PSL
 
 #EXTINF: -1 tvg-logo="http://webo.asia/logos/SS2HD.png" group-title="SPORTS", SuperSport Premier League
-
+http://axcestv.vip:8080/freeview/axcestv/793
 
 #EXTINF:-151 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1  Premium
 
@@ -696,13 +710,36 @@ https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English [Bac up]
 #http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-http://api.magiaiptv.com/live/800328/755275/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p.m3u8
+#http://api.magiaiptv.com/live/800328/755275/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p.m3u8
+http://axcestv.vip:8080/freeview/axcestv/795
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English [Bac up]
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English [Bac up]
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-1
+http://axcestv.vip:8080/freeview/axcestv/801
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-2
+http://axcestv.vip:8080/freeview/axcestv/802
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",BT-3
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports-1
+http://axcestv.vip:8080/freeview/axcestv/797
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports-2
+http://axcestv.vip:8080/freeview/axcestv/798
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports
+#http://203.154.243.89:21201/nakhon
+http://axcestv.vip:8080/freeview/axcestv/787
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports-2
+#http://203.154.243.89:21202/nakhon
+http://axcestv.vip:8080/freeview/axcestv/789
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports-3
+http://axcestv.vip:8080/freeview/axcestv/790
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports-4
+http://axcestv.vip:8080/freeview/axcestv/791
+
+
+
 #EXTINF:-164 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE SPORT HD-1
 #EXTINF:-165 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE SPORT HD-2
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Euro Sports-1 HD
