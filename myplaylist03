@@ -21,6 +21,9 @@ http://30.30.30.30:8081/tschannel/channel59/playlist.m3u8
 #EXTINF:-7 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
 http://30.30.30.30:8081/tschannel/channel31/playlist.m3u8
 
+#EXTINF:-7 tvg-language="Bangla" tvg-logo="" group-title="BANGLA", নাটক-একদানে বড়লোক
+https://rr7---sn-x5guiuxaxjvh-q5j6.googlevideo.com/videoplayback?expire=1652013742&ei=TmZ3YsqWHIW-vATtrpeABg&ip=103.35.108.1&id=o-AAXMY5ff_U0hC83bQJC1kOCZZd9TZe2GMPAfNSnlhEzP&itag=399&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=lY&mm=31%2C26&mn=sn-x5guiuxaxjvh-q5j6%2Csn-npoeenek&ms=au%2Conr&mv=m&mvi=7&pl=24&initcwndbps=226250&spc=4ocVC7C-K_VWSMfzd3xln5LKtJBRd-tP4coA_SoNHg&vprv=1&mime=video%2Fmp4&ns=34a_mWv02L_VV2GgBzDudcwG&gir=yes&clen=310286015&dur=2943.320&lmt=1645168851805167&mt=1651991805&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5532434&n=W69tS1tkITBZSg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMkpMyg0b0FEfvLsQtq0l2F5FuqNaVHTU2YdnOZzePN_AiBvTU1LbTdM4xkMcw-FpyXgwzkYjDz7en7hy1cdDfLkOQ%3D%3D&alr=yes&sig=AOq0QJ8wRQIgfzQjoNII5nbcsdqXsRA6ose8YQjh4CTJOLFPbxhuvQACIQCFzuUlD6d5rAtSDg81N-qq98zsU-Syql4UTK9hjuZiXw%3D%3D&cpn=ubTFBTTy8qa0mqQm&cver=2.20220502.01.00&rn=29&pot=GpIBCmUUVJrbQR_ENJTYcjg0wSgsuOJA3YJuAd30YEdnqKjPT5zHC3It0z1ZAE5CuJuU0cbJZlCn5DluJDYTndQHwMkhtri3Ors-qlMSq2fciOcKD4P-bMdWSZKe25PSXzcNpeFv4j2IURIpATwYQQ5KNKzH5N25BYvJUGg77QWYYTw4QWTCJ2Xf5OKWoSPf5p8WEYo=
+
 #EXTINF:-0,অল্পতে সন্তুষ্ট থাকা ভাল
 http://
 
