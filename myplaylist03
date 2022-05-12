@@ -135,6 +135,7 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 *****Kids******
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV
+http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 
 #EXTINF:-76 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids",Rongeen tv
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
