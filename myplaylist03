@@ -459,7 +459,8 @@ http://tvserver3.roarzone.info:25461/live/roarhome/noyan/1.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
 http://103.55.144.46:80/hls/stersports1hd.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6 (Rabbitholebd)
+https://localiptv.ml/CRICKET_SERIES_CHANNEL_1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.55.144.46/hls/t-sports.m3u8
