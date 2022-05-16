@@ -185,12 +185,10 @@ http://103.55.144.46/hls/discovery.m3u8
 http://103.55.144.46/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD
-#https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-http://axcestv.vip:8080/freeview/axcestv/733
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-66 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",Net Geo wild
-#http://103.55.144.46/hls/wild.m3u8
-http://axcestv.vip:8080/freeview/axcestv/734
+http://103.55.144.46/hls/wild.m3u8
 
 #EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp
 http://103.55.144.46/hls/travelxp.m3u8
