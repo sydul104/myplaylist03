@@ -503,7 +503,8 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
 
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://208.86.19.13:81/732.stream/index.m3u8
-http://103.153.39.36:8000/play/a00l
+#http://103.153.39.36:8000/play/a00l
+http://103.167.190.250/hls/starsports3.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD
 #http://103.132.16.98:8080/starsportsselect1hd/mpegts
@@ -626,23 +627,28 @@ http://15.1.1.10:8082/BEIN-SPORTS-1-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://93.152.174.144:4000/play/bein1ar/index.m3u8
-http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
+#http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://93.152.174.144:4000/play/bein2ar/index.m3u8
 #http://103.124.110.34:8082/BEIN-SPORTS-2-HD/index.m3u8
-http://tvserver.aliflailabd.com:8989/beinsport2/index.m3u8
+#http://tvserver.aliflailabd.com:8989/beinsport2/index.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #http://93.152.174.144:4000/play/bein3ar/index.m3u8
-http://15.1.1.10:8082/BEIN-SPORTS-3-HD/index.m3u8
+#http://15.1.1.10:8082/BEIN-SPORTS-3-HD/index.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 #http://103.124.110.34:8082/BEIN-SPORTS-4-HD-AR/index.m3u8
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#http://93.152.174.144:4000/play/bein4ar/index.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports5.qa.png" group-title="SPORTS",BeIN Sports 5
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports Extra
 #https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
