@@ -497,8 +497,8 @@ http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [1] 
 #http://103.132.16.98:8080/starsports1hd/mpegts
-#http://30.30.30.30:8081/tschannel/channel13/playlist.m3u8
-http://172.17.50.112/live/antbd1006/index.m3u8
+#http://172.17.50.112/live/antbd1006/index.m3u8
+http://30.30.30.30:8081/tschannel/channel30/playlist.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.55.144.46/hls/stersports1hd.m3u8
@@ -513,13 +513,13 @@ http://45.86.190.64:25461/9tfkE7P6pDR23zAf/8C8TY14GvnWRCQrv/34513?play_token=t58
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2
 #http://103.132.16.98:8080/starsports2hd/mpegts
-http://103.167.190.250/hls/starsports2.m3u8
+#http://103.167.190.250/hls/starsports2.m3u8
+http://30.30.30.30:8081/tschannel/channel31/playlist.m3u8
 
 #EXTINF:-131 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 [2]
 #http://15.1.1.10:8082/STAR-SPORTS-2HD/index.m3u8
 #https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
 http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34499?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
-
 
 #EXTINF:-133 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 3
 #http://208.86.19.13:81/732.stream/index.m3u8
@@ -528,11 +528,13 @@ http://103.167.190.250/hls/starsports3.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD
 http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+http://30.30.30.30:8081/tschannel/channel32/playlist.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 SD
 #http://15.1.1.10:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
 #http://103.132.16.98:8080/starsportsselect1hd/mpegts
 http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
+http://30.30.30.30:8081/tschannel/channel6/playlist.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
 #http://182.50.65.213:8888/udp/239.239.0.5:3001
@@ -553,7 +555,8 @@ http://182.50.65.213:8888/udp/239.239.0.33:3001
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 SD
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-http://30.30.30.30:8081/tschannel/channel32/playlist.m3u8
+#http://30.30.30.30:8081/tschannel/channel32/playlist.m3u8
+http://172.17.50.112/live/antbd1007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png"group-title="SPORTS",Sony ten 2 HD
 #http://103.124.110.34:8082/SONY-TEN-2-HD/index.m3u8
@@ -586,8 +589,8 @@ http://103.167.190.250//hls/sonysix.m3u8
 
 #EXTINF:-145 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports
 #http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8
-#http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-http://10.16.100.245/hindi/pTvSp0rts.m3u8
+#http://10.16.100.245/hindi/pTvSp0rts.m3u8
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -634,6 +637,7 @@ http://tvserver.aliflailabd.com:8989/SKY-NET-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Net Sports-2
 http://tvserver.aliflailabd.com:8989/SKY-NET-2/index.m3u8
+http://30.30.30.30:8081/tschannel/channel1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Net Sports-3
 http://tvserver.aliflailabd.com:8989/SKY-NET-6/index.m3u8
