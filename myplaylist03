@@ -4,7 +4,11 @@
 ****Bangladeshi*****
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA",BTV World
-http://89.187.162.109/BTV/mono.m3u8
+http://103.106.2.152:13456/btv_world.m3u8
+
+#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+#http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+http://103.106.2.152:13456/btv.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
 http://30.30.30.30:8081/tschannel/channel24/playlist.m3u8
