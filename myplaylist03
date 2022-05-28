@@ -1,8 +1,4 @@
 #EXTM3U
-
-
-****Bangladeshi*****
-
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA",BTV World
 #http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 http://103.106.2.152:13456/btv_world.m3u8
@@ -127,8 +123,6 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 
 
 
-News
-
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="English News",Al Jazeera
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
 
@@ -141,8 +135,6 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 
 
 
-Islamic
-
 #EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/QuranTV.png" group-title="Islamic",Saudi Quran
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 
@@ -153,8 +145,6 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 
 
-
-Kids
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids", Duronto TV
 #https://nbn.chowdhury-shaheb.com/live/nb-duronto_720p/chunks.m3u8
@@ -184,20 +174,17 @@ http://45.86.190.64:25461/cChFuTE3D0/RWt4r65tpX/33932?play_token=A7bC2TutMq&toke
 
 
 
-Documentary
-
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 #http://172.17.50.112/live/antbd1008/index.m3u8
-http://103.167.190.250/hls/discovery.m3u8
+#http://103.167.190.250/hls/discovery.m3u8
 http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
-http://103.167.190.250/hls/ngohd.m3u8
+#http://103.167.190.250/hls/ngohd.m3u8
 http://103.136.200.246:8082/Nat-Geo/index.m3u8
-
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -206,7 +193,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000
 http://103.167.190.250/hls/wild.m3u8
 
 #EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
-http://103.167.190.250/hls/travelxp.m3u8
+#http://103.167.190.250/hls/travelxp.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-68 tvg-logo="" group-title="Documentary",Love nature
@@ -217,7 +204,7 @@ http://iptv.prosto.tv:7000/ch84/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
-http://103.167.190.250/hls/bbcearth.m3u8
+#http://103.167.190.250/hls/bbcearth.m3u8
 http://tvserver.aliflailabd.com:8989/bbc-earth/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
@@ -233,8 +220,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 
-
-Indian Bangla
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha
 #http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
@@ -286,8 +271,6 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 
 
 
-
-Music
 
 #EXTINF:-78 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="MUSIC",GAAN BANGLA HD
 #https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
@@ -342,9 +325,6 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 
 
 
-
-
-****Hindi****
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi",Color Cineplex HD
@@ -417,8 +397,6 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
 
 
-***English Movie*****
-
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Sony Pix HD
 #http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34470?play_token=zATZ0omYpo&token=TURYAhZYEAwSBVYBC1UEAFQEAlRQWAFQVAZXA1NaB1UBUFEHBglTUwJGTxBLF0AGVA9uD1IbCQUFB1MFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1NdBlccQRVZVhQKRlIDD1EGQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AHWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpSClUNUBMb
 http://103.167.190.250/hls/sonypixhd.m3u8
@@ -466,8 +444,6 @@ http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
-
-***Sports****
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports  1
 #http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
