@@ -11,9 +11,10 @@ http://103.106.2.152:13456/btv.m3u8
 http://103.106.2.152:13456/btv_ctg.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
+http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
-
+http://103.55.144.46/hls/t-sports.m3u8
 
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
@@ -234,9 +235,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha
-#http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
-#http://103.136.200.246:8082/Star-Jalsha/index.m3u8
-http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
+#http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
+http://103.55.144.46/hls/starjalsha.m3u8
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
 #http://tvserver.aliflailabd.com:8989/jalsha-movies/index.m3u8
@@ -248,16 +248,12 @@ http://103.55.144.46/hls/jalshamovies.m3u8
 #https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
 http://103.55.144.46:80/hls/jalshamovies.m3u8
 
-
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
-#http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
-#http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+#http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+http://103.55.144.46/hls/zeebanglahd.m3u8
 
 #EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
-#http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
-#http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
@@ -306,9 +302,10 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-84 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC",Zoom
-#http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/chunklist_w1058593266.m3u8
+#http://103.60.172.106:8080/Zoom/track-v1a1/mono.m3u8
 #http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-http://103.60.172.106:8080/Zoom/track-v1a1/mono.m3u8
+http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/chunklist_w1058593266.m3u8
+
 
 #EXTINF:-86 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC",Music India
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
@@ -334,10 +331,12 @@ http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 #http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",Zing
 #https://ilove.livebox.co.in/wowinhls/live.m3u8
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
+
+#EXTINF:-87 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806" group-title="MUSIC",Bindass
+http://103.55.144.46/hls/bindass.m3u8
 
 
 
@@ -369,14 +368,16 @@ http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34477?play_token=nBTQAmxyOM&toke
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold HD
 #http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-http://208.86.19.13:81/717.stream/index.m3u8
+#http://208.86.19.13:81/717.stream/index.m3u8
+http://103.55.144.46/hls/stargold.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold-2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD 
 #http://103.151.42.206:8000/play/a037/index.m3u8
-https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
+#https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
+http://208.86.19.13:81/717.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee tv
 #http://103.132.16.98:8080/zeetvhd/mpegts
@@ -386,8 +387,8 @@ http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34514?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
-#http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-http://103.60.172.106:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#http://103.55.144.46/hls/zeecinemahd.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-107 tvg-name="Zee Action" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58c90ef7694fe70f730ff014/1565808835654/246fc32281bd88720c5a6dbd7c9a3984.png" group-title="Hindi", Zee Action
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/3971
@@ -431,7 +432,7 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #http://190.171.101.36/HBO/tracks-v1a1/mono.m3u8
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",Star Movies HDAXN
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png",AXN
 #http://125.209.88.166:45793/BRN/AXNHD.stream/playlist.m3u8
 http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 
@@ -519,8 +520,8 @@ http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.124.110.34:8082/STAR-SPORTS-1HD/index.m3u8
 #http://103.60.172.106:8080/StarSports1HD/tracks-v1a1/mono.m3u8
-#http://stream.accessnetbd.com/hls/sky4.m3u8
-http://103.55.144.46:80/hls/stersports1hd.m3u8
+#http://103.55.144.46:80/hls/stersports1hd.m3u8
+http://stream.accessnetbd.com/hls/sky4.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
 #https://stream.rangdhanu.live/IPLLiveHD/video.m3u8
