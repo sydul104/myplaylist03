@@ -709,11 +709,11 @@ http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium61/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
 
 
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.png" group-title="SPORTS",BT-1
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT-1
 https://birutv.com/sport@birutv/live/bt1.m3u8
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.png" group-title="SPORTS",BT-2
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT-2
 https://birutv.com/sport@birutv/live/bt2.m3u8
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/BT_Sport/BT_Sport-Logo.wine.png" group-title="SPORTS",BT-3
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT-3
 https://birutv.com/sport@birutv/live/bt3.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SPORTS",Euro Sports-1
@@ -723,7 +723,7 @@ http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium58/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/233-2332507_fox-sports-fs1-logo-white.png" group-title="SPORTS",Fox [FS1]
 http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium39/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/espn.png" group-title="SPORTS",ESPN
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN
 http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium81/chunks.m3u8
 
 
