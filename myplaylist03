@@ -629,7 +629,6 @@ http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [2]
-#http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium369/chunks.m3u8
 http://quality-restream.com:8080/live/googleiptvex/VcbzsW96aBnKXDRx/279034.m3u8
 
 
@@ -639,27 +638,21 @@ http://208.86.19.13:81/731.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium65/chunks.m3u8
+http://31.172.87.56:2200/EX/Sky_Sports_Cricket_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_hYmeELvi_akRDjbePIvXUA%3D%3D%2C1654145746.9614688013|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Footbal
-#http://212.18.115.193:3549/play/a05h/index.m3u8
-#http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium60/chunks.m3u8
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium35/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Main Event
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium38/chunks.m3u8
+http://212.18.115.193:3549/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Mix
+http://31.172.87.56:2200/EX/Sky_Sports_Mix_HD-uk/tracks-v1a1/mono.m3u8?token=RED_hYmeELvi_akRDjbePIvXUA%3D%3D%2C1654145746.9614688013|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Action
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium37/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Arena
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium36/chunks.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [1]
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium368/chunks.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
 http://185.145.43.244:8000/play/a008/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium56/chunks.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium54/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports HD
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports-1
@@ -676,20 +669,16 @@ http://stariptv.org:8080/nour2020/123456/141545
 http://stariptv.org:8080/nour2020/123456/141546
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
 #http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
-#http://stariptv.org:8080/nour2020/123456/141547
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium46/chunks.m3u8
+http://stariptv.org:8080/nour2020/123456/141547
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium62/chunks.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium63/chunks.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium64/chunks.m3u8
+http://217.74.16.155:8082/local//ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports4.qa.png" group-title="SPORTS",BeIN Sports 4
 #http://217.74.16.155:8082/local//ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
@@ -702,10 +691,9 @@ https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English
 #http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #http://api.magiaiptv.com/live/800328/755275/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p.m3u8
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium61/chunks.m3u8
-
-
+http://203.159.95.172:8081/live/bein01/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
+http://203.159.95.172:8081/live/bein02/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
 
 
@@ -717,14 +705,13 @@ https://birutv.com/sport@birutv/live/bt2.m3u8
 https://birutv.com/sport@birutv/live/bt3.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SPORTS",Euro Sports-1
-http://212.18.115.193:3549/play/a05c/index.m3u8
+#http://212.18.115.193:3549/play/a05c/index.m3u8
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SPORTS",Euro Sports-2
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium58/chunks.m3u8
+http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/233-2332507_fox-sports-fs1-logo-white.png" group-title="SPORTS",Fox [FS1]
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium39/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN
-http://makanja.xyz/tot/ola/https:/netwrk.ru.com/cdn/premium81/chunks.m3u8
 
 
 #EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 1
