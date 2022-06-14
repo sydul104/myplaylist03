@@ -133,6 +133,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/2560px-BBC_News.svg.png" group-title="English News",BBC News
+#http://182.176.149.106:9100/play/a064
 http://ip2121.com:8081/live/bbc/playlist.m3u8
 
 #EXTINF:-59 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
@@ -197,10 +198,13 @@ http://103.55.144.46:80/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-http://30.30.30.30/live/skyfeed2007/index.m3u8
+#http://30.30.30.30/live/skyfeed2007/index.m3u8
+#https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
+http://182.176.149.106:9100/play/a04w
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
-http://103.55.144.46/hls/wild.m3u8
+#http://103.55.144.46/hls/wild.m3u8
+http://182.176.149.106:9100/play/a056
 
 #EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -216,7 +220,8 @@ http://iptv.prosto.tv:7000/ch84/video.m3u8
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
 #http://tvserver.aliflailabd.com:8989/bbc-earth/index.m3u8
 #http://103.60.172.106:8080/BBCEarthHD/track-v1a1/mono.m3u8
-http://103.55.144.46:80/hls/bbcearth.m3u8
+#http://103.55.144.46:80/hls/bbcearth.m3u8
+http://182.176.149.106:9100/play/a05b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 #http://103.167.190.250/hls/animalplanent.m3u8
@@ -345,6 +350,9 @@ http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/83
 #EXTINF:-87 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Bindass.png/revision/latest?cb=20190720101806" group-title="MUSIC",Bindass
 http://103.55.144.46/hls/bindass.m3u8
 
+#EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC",ARY Music
+http://182.176.149.106:9100/play/a06a
+
 
 
 
@@ -419,6 +427,9 @@ http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",ARY Digital
+http://182.176.149.106:9100/play/a067
 
 
 
@@ -759,6 +770,73 @@ https://assets-1.entertainvideo.com/assets/media/56d32eccaeee0111ad5d9183d0292cc
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Unknown",BBC WORLD - Rs 1
+http://182.176.149.106:9100/play/a064
+#EXTINF:-1 tvg-logo="" group-title="Unknown",CNN INTL - 50p
+http://182.176.149.106:9100/play/a063
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Colors HD-Rs 19
+http://182.176.149.106:9100/play/a05r
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Discovery HD-Rs6
+http://182.176.149.106:9100/play/a05o
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Discovery S-Rs 1
+http://182.176.149.106:9100/play/a05u
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Discovery T-Rs 1
+http://182.176.149.106:9100/play/a05v
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Disney Chan-Rs 8
+http://182.176.149.106:9100/play/a05z
+#EXTINF:-1 tvg-logo="" group-title="Unknown",MADANI TV C-Band
+http://182.176.149.106:9100/play/a050
+#EXTINF:-1 tvg-logo="" group-title="Unknown",MN+ HD-Rs 10
+http://182.176.149.106:9100/play/a05k
+#EXTINF:-1 tvg-logo="" group-title="Unknown",MNX - Rs 6
+http://182.176.149.106:9100/play/a071
+#EXTINF:-1 tvg-logo="" group-title="Unknown",NAT Geo Wild HD-Rs 5
+http://182.176.149.106:9100/play/a056
+#EXTINF:-1 tvg-logo="" group-title="Unknown",National G HD Hindi
+http://182.176.149.106:9100/play/a05n
+#EXTINF:-1 tvg-logo="" group-title="Unknown",National GEO HD English
+http://182.176.149.106:9100/play/a04w
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Nick
+http://182.176.149.106:9100/play/a068
+#EXTINF:-1 tvg-logo="" group-title="Unknown",PIX HD - Rs 15
+http://182.176.149.106:9100/play/a05c
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony tv HD - Rs 19
+http://182.176.149.106:9100/play/a05t
+#EXTINF:-1 tvg-logo="" group-title="Unknown",SIX HD - Rs 19
+http://182.176.149.106:9100/play/a055
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony Ten 1 HD- Rs 19
+http://182.176.149.106:9100/play/a054
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony Ten 2 HD- Rs 17
+http://182.176.149.106:9100/play/a05g
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony Ten 3 HD- Rs 17
+http://182.176.149.106:9100/play/a057
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony BBC EarHD-Rs 10
+http://182.176.149.106:9100/play/a05b
+#EXTINF:-1 tvg-logo="" group-title="Unknown",STAR MOV HD-Rs 19
+http://182.176.149.106:9100/play/a05l
+#EXTINF:-1 tvg-logo="" group-title="Unknown",STAR WOR P HD-Rs 9
+http://182.176.149.106:9100/play/a073
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Star GOLD HD -Rs 10
+http://182.176.149.106:9100/play/a05a
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Gold SelHD-Rs 10
+http://182.176.149.106:9100/play/a06n
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Plus HD -Rs 19
+http://182.176.149.106:9100/play/a05p
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Spo 1 HD-Rs 19
+http://182.176.149.106:9100/play/a052
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Spo 2 HD- Rs 19
+http://182.176.149.106:9100/play/a053
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Sports S 1 HD-Rs 19
+http://182.176.149.106:9100/play/a05e
+#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Sports S 2 HD-Rs 10
+http://182.176.149.106:9100/play/a05f
+#EXTINF:-1 tvg-logo="" group-title="Unknown",UTV ACTION-Rs 2
+http://182.176.149.106:9100/play/a05x
+#EXTINF:-1 tvg-logo="" group-title="Unknown",ZEE CINEMA HD-Rs 19
+http://182.176.149.106:9100/play/a058
+#EXTINF:-1 tvg-logo="" group-title="Unknown",ZEE TV HD-Rs 19
+http://182.176.149.106:9100/play/a05q
 
 
 
