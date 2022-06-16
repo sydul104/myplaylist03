@@ -246,14 +246,15 @@ http://30.30.30.30:8081/live/indian8/playlist.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
 #http://tvserver.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #http://103.55.144.46:80/hls/jalshamovies.m3u8
-http://30.30.30.30:8081/live/indian3/playlist.m3u8
+#http://30.30.30.30:8081/live/indian3/playlist.m3u8
+http://208.86.19.13:81/617.stream/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD-2
 #https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
 #http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #http://103.55.144.46/hls/jalshamovies.m3u8
 #http://103.109.56.116/live/skyfeed1003/index.m3u8
-http://208.86.19.13:81/617.stream/index.m3u8
+https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
