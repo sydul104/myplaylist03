@@ -514,8 +514,8 @@ http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncas
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.55.144.46/hls/t-sports.m3u8
-#http://172.17.50.112/live/antbd1005/index.m3u8
-https://nbn.chowdhury-shaheb.com/live/tsports/chunks.m3u8
+#https://nbn.chowdhury-shaheb.com/live/tsports/chunks.m3u8
+http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://15.1.1.10:8082/tsp/index.m3u8
@@ -525,8 +525,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://103.55.144.46/hls/Gazi-TV.m3u8
 #http://30.30.30.30/live/skyfeed1006/index.m3u8
-#http://stream.accessnetbd.com/hls/sky3.m3u8
-https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
+#https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
+http://stream.accessnetbd.com/hls/sky3.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD-2
 #http://103.136.200.246:8082/Gazi-Tv/index.m3u8
