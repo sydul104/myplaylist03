@@ -770,11 +770,11 @@ http://dds.oncast.me:1934/dlive/sp8.stream/chunks.m3u8?|Referer=http://dds.oncas
 http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="DDN live",10
 http://dds.oncast.me:1934/dlive/sp10.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp11.png" group-title="DDN live",11
+#EXTINF:-1 tvg-logo="" group-title="DDN live",11
 http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp12.png" group-title="DDN live",12
+#EXTINF:-1 tvg-logo="" group-title="DDN live",12
 http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp13.png" group-title="DDN live",13
+#EXTINF:-1 tvg-logo="" group-title="DDN live",13
 http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 
