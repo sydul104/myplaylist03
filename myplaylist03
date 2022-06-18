@@ -246,7 +246,8 @@ http://208.86.19.13:81/617.stream/index.m3u8
 #http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #http://103.55.144.46/hls/jalshamovies.m3u8
 #http://103.109.56.116/live/skyfeed1003/index.m3u8
-https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
+#https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
+http://103.179.246.243:8000/play/a042/index.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
