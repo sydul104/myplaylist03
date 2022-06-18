@@ -10,14 +10,6 @@ http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-2 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png" group-title="BANGLA",BTV CTG
 http://103.106.2.152:13456/btv_ctg.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi tv
-#http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
-http://103.55.144.46:80/hls/Gazi-TV.m3u8
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLA",T Sports
-#http://103.55.144.46:80/hls/t-sports.m3u8
-http://30.30.30.30/live/skyfeed2001/index.m3u8
-
 #EXTINF:-4 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
@@ -188,7 +180,6 @@ http://103.55.144.46/hls/cn.m3u8
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34391?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
-#http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
 #http://172.17.50.112/live/antbd1008/index.m3u8
 http://103.55.144.46:80/hls/discovery.m3u8
 
@@ -211,7 +202,8 @@ http://182.176.149.106:9100/play/a056
 http://103.55.144.46:80/hls/travelxp.m3u8
 
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-68 tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Documentary",CGTN
 http://iptv.prosto.tv:7000/ch84/video.m3u8
@@ -258,9 +250,9 @@ https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
 #http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
-http://103.55.144.46:80/hls/zeebanglahd.m3u8
 #http://103.159.4.38:9191/CH23-INBD2/index.m3u8
-http://30.30.30.30:8081/live/indian2/playlist.m3u8
+#http://30.30.30.30:8081/live/indian2/playlist.m3u8
+http://103.55.144.46:80/hls/zeebanglahd.m3u8
 
 #EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 #http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/5592
@@ -758,6 +750,37 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="DDN live",1
+http://dds.oncast.me:1934/dlive/sp1.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="DDN live",2
+http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="DDN live",3
+http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="DDN live",4
+http://dds.oncast.me:1934/dlive/sp4.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="DDN live",5
+http://dds.oncast.me:1934/dlive/sp5.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp6.png" group-title="DDN live",6
+http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp7.png" group-title="DDN live",7
+http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp8.png" group-title="DDN live",8
+http://dds.oncast.me:1934/dlive/sp8.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp9.png" group-title="DDN live",9
+http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp10.png" group-title="DDN live",10
+http://dds.oncast.me:1934/dlive/sp10.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp11.png" group-title="DDN live",11
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp12.png" group-title="DDN live",12
+http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp13.png" group-title="DDN live",13
+http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports-2
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports
@@ -789,72 +812,6 @@ https://assets-1.entertainvideo.com/assets/media/56d32eccaeee0111ad5d9183d0292cc
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Unknown",BBC WORLD - Rs 1
-http://182.176.149.106:9100/play/a064
-#EXTINF:-1 tvg-logo="" group-title="Unknown",CNN INTL - 50p
-http://182.176.149.106:9100/play/a063
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Colors HD-Rs 19
-http://182.176.149.106:9100/play/a05r
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Discovery HD-Rs6
-http://182.176.149.106:9100/play/a05o
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Discovery S-Rs 1
-http://182.176.149.106:9100/play/a05u
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Discovery T-Rs 1
-http://182.176.149.106:9100/play/a05v
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Disney Chan-Rs 8
-http://182.176.149.106:9100/play/a05z
-#EXTINF:-1 tvg-logo="" group-title="Unknown",MADANI TV C-Band
-http://182.176.149.106:9100/play/a050
-#EXTINF:-1 tvg-logo="" group-title="Unknown",MN+ HD-Rs 10
-http://182.176.149.106:9100/play/a05k
-#EXTINF:-1 tvg-logo="" group-title="Unknown",MNX - Rs 6
-http://182.176.149.106:9100/play/a071
-#EXTINF:-1 tvg-logo="" group-title="Unknown",NAT Geo Wild HD-Rs 5
-http://182.176.149.106:9100/play/a056
-#EXTINF:-1 tvg-logo="" group-title="Unknown",National G HD Hindi
-http://182.176.149.106:9100/play/a05n
-#EXTINF:-1 tvg-logo="" group-title="Unknown",National GEO HD English
-http://182.176.149.106:9100/play/a04w
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Nick
-http://182.176.149.106:9100/play/a068
-#EXTINF:-1 tvg-logo="" group-title="Unknown",PIX HD - Rs 15
-http://182.176.149.106:9100/play/a05c
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony tv HD - Rs 19
-http://182.176.149.106:9100/play/a05t
-#EXTINF:-1 tvg-logo="" group-title="Unknown",SIX HD - Rs 19
-http://182.176.149.106:9100/play/a055
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony Ten 1 HD- Rs 19
-http://182.176.149.106:9100/play/a054
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony Ten 2 HD- Rs 17
-http://182.176.149.106:9100/play/a05g
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony Ten 3 HD- Rs 17
-http://182.176.149.106:9100/play/a057
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Sony BBC EarHD-Rs 10
-http://182.176.149.106:9100/play/a05b
-#EXTINF:-1 tvg-logo="" group-title="Unknown",STAR MOV HD-Rs 19
-http://182.176.149.106:9100/play/a05l
-#EXTINF:-1 tvg-logo="" group-title="Unknown",STAR WOR P HD-Rs 9
-http://182.176.149.106:9100/play/a073
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Star GOLD HD -Rs 10
-http://182.176.149.106:9100/play/a05a
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Gold SelHD-Rs 10
-http://182.176.149.106:9100/play/a06n
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Plus HD -Rs 19
-http://182.176.149.106:9100/play/a05p
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Spo 1 HD-Rs 19
-http://182.176.149.106:9100/play/a052
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Spo 2 HD- Rs 19
-http://182.176.149.106:9100/play/a053
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Sports S 1 HD-Rs 19
-http://182.176.149.106:9100/play/a05e
-#EXTINF:-1 tvg-logo="" group-title="Unknown",Star Sports S 2 HD-Rs 10
-http://182.176.149.106:9100/play/a05f
-#EXTINF:-1 tvg-logo="" group-title="Unknown",UTV ACTION-Rs 2
-http://182.176.149.106:9100/play/a05x
-#EXTINF:-1 tvg-logo="" group-title="Unknown",ZEE CINEMA HD-Rs 19
-http://182.176.149.106:9100/play/a058
-#EXTINF:-1 tvg-logo="" group-title="Unknown",ZEE TV HD-Rs 19
-http://182.176.149.106:9100/play/a05q
 
 
 
