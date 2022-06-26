@@ -621,6 +621,7 @@ http://103.55.144.46/hls/ten.m3u8
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501 [2]
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/279034
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://15.1.1.10:8082/WILLOW-CRICKET-HD/index.m3u8
@@ -662,6 +663,8 @@ http://stariptv.org:8080/nour2020/123456/141546
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
 #http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 http://stariptv.org:8080/nour2020/123456/141547
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports
+http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1301
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 #http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -687,12 +690,13 @@ https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 1 English
 #http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #http://api.magiaiptv.com/live/800328/755275/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p.m3u8
-#http://203.159.95.172:8081/live/bein01/chunks.m3u8
-http://139.99.56.106:2082/sakinah1/sakinah1/8414
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/110
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 2 English
-http://203.159.95.172:8081/live/bein02/chunks.m3u8
+#http://203.159.95.172:8081/live/bein02/chunks.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/111
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS", beiN Sport 3 English
-http://139.99.56.106:2082/sakinah1/sakinah1/8413
+#http://139.99.56.106:2082/sakinah1/sakinah1/8413
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/267769
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-1
 https://birutv.com/sport@birutv/live/bt1.m3u8
