@@ -682,12 +682,14 @@ http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1301
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 #http://stariptv.org:8080/nour2020/123456/141548
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#http://93.152.174.144:4000/play/bein1ar/index.m3u8
+http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257498
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://93.152.174.144:4000/play/bein2ar/index.m3u8
 #http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-http://stariptv.org:8080/nour2020/123456/141549
+#http://stariptv.org:8080/nour2020/123456/141549
+http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257499
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
 #http://93.152.174.144:4000/play/bein3ar/index.m3u8
@@ -721,11 +723,14 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/111
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/267769
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-1
-https://birutv.com/sport@birutv/live/bt1.m3u8
+#https://birutv.com/sport@birutv/live/bt1.m3u8
+http://donglao.duckdns.org:9981/stream/channelid/1975039134?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-2
-https://birutv.com/sport@birutv/live/bt2.m3u8
+#https://birutv.com/sport@birutv/live/bt2.m3u8
+http://donglao.duckdns.org:9981/stream/channelid/1201070165?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-3
-https://birutv.com/sport@birutv/live/bt3.m3u8
+#https://birutv.com/sport@birutv/live/bt3.m3u8
+http://donglao.duckdns.org:9981/stream/channelid/412356178?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SPORTS",Euro Sports-1
 #http://212.18.115.193:3549/play/a05c/index.m3u8
@@ -734,6 +739,14 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SPORTS",Euro Sports-2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS" Logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg", True Premier Football 1
+http://donglao.duckdns.org:9981/stream/channelid/905919890?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS" Logo="http://udoofree.com/cover/afc53720-a686-4376-8ab3-a910f1821c0e_original.jpg", True Premier Football 2
+http://donglao.duckdns.org:9981/stream/channelid/1760792278?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS" Logo="http://udoofree.com/cover/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.jpg", True Premier Football 3
+http://donglao.duckdns.org:9981/stream/channelid/1363511520?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/233-2332507_fox-sports-fs1-logo-white.png" group-title="SPORTS",Fox [FS1]
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN
