@@ -509,8 +509,8 @@ http://10.16.100.207:8088/sports/GazItv_hd.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [1] 
 #http://172.17.50.112/live/antbd1006/index.m3u8
 #http://stream.accessnetbd.com/hls/sky12.m3u8
-#http://30.30.30.30/live/skyfeed2002/index.m3u8
-http://10.16.100.207:8088/sports/StarSp0rtS1onehd.m3u8
+#http://10.16.100.207:8088/sports/StarSp0rtS1onehd.m3u8
+http://30.30.30.30/live/skyfeed2003/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.124.110.34:8082/STAR-SPORTS-1HD/index.m3u8
@@ -607,8 +607,8 @@ http://30.30.30.30/live/skyfeed2004/index.m3u8
 #http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34105?play_token=tAoJ6pRoNv&token=TURYAhZYEAwSVQdXWlcCVw0HCAMOCAJXBQMADV4LUF1XBAkBXANRBQNGTxBLF0AGVA9uD1IbCQUFAlQAShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1BVDl4cQRVZVhQKRlAKD1MDQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AGURNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpQClsCVxMb
 #https://nbn.chowdhury-shaheb.com/live/nb-sonysix_720p/chunks.m3u8
 #http://10.16.100.207:8082/sports/s0ny6six.m3u8
-#http://30.30.30.30/live/skyfeed1008/index.m3u8
-http://10.16.100.207:8088/sports/sony6six_local.m3u8
+#http://10.16.100.207:8088/sports/sony6six_local.m3u8
+http://30.30.30.30/live/skyfeed1008/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 #http://30.30.30.30/live/skyfeed2002/index.m3u8
