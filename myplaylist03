@@ -745,6 +745,17 @@ http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
 
 
+
+
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" Logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg", True Premier Football 1
 http://donglao.duckdns.org:9981/stream/channelid/905919890?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 
@@ -758,15 +769,6 @@ http://donglao.duckdns.org:9981/stream/channelid/1363511520?auth=PDfWg4rzzOwGBhb
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/233-2332507_fox-sports-fs1-logo-white.png" group-title="SPORTS",Fox [FS1]
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN
 
-
-#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 
 
