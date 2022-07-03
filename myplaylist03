@@ -817,9 +817,100 @@ http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.onc
 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/RR0Iv6V.png" group-title="BD BANGLA",BTV World
+https://bd.jagobd.com:444/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/h5FhOWT.png" group-title="BD BANGLA",ANANDO TV
+https://bd.jagobd.com:444/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5PsRkPd.png" group-title="BD BANGLA",ATN BANGLA
+https://bd.jagobd.com:444/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ESWXan9.png" group-title="BD BANGLA",ATN ISLAMIC
+https://bd.jagobd.com:444/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K43LsMQ.png" group-title="BD BANGLA",BANGLA TV
+https://bd.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HX8SSDA.png" group-title="BD BANGLA",BANGLAVISION
+https://bd.jagobd.com:444/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pTJSGtj.png" group-title="BD BANGLA",BOISHAKHI TV
+https://bd.jagobd.com:444/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KXsOj3L.png" group-title="BD BANGLA",BOISHAKHI PLUS
+https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD BANGLA",CHANNEL I
+https://bd.jagobd.com:444/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/tPZKfLr.png" group-title="BD BANGLA",DEEPTO TV
+https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TWuzjbg.png" group-title="BD BANGLA",MY TV
+https://bd.jagobd.com:444/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/l76jXPz.png" group-title="BD BANGLA",NEXUS TV
+https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yi5p51T.png" group-title="BD BANGLA",RTV HD
+https://bd.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pn02nKl.png" group-title="BD BANGLA",ALPONA TV
+https://bd.jagobd.com:444/live-orgin/alponatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wD575BA.png" group-title="BD BANGLA",MOVIE BANGLA
+https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9ArrdIr.png" group-title="BD BANGLA",MAGIC BANGLA
+https://bd.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xINGvGg.png" group-title="BD BANGLA",ROYEL TV [BD]
+https://bd.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wPyNdlm.png" group-title="BD BANGLA",DOYEL TV [BD]
+https://bd.jagobd.com:444/live-orgin/doyeltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wMH3tLM.png" group-title="BD BANGLA",VOICE TV [BD]
+https://bd.jagobd.com:444/live-orgin/voicetv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Yz9WnlX.png" group-title="BD BANGLA",NAN TV [BD]
+https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Lv6raR.png" group-title="BD BANGLA",NRB IPTV [BD]
+https://bd.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eQ1X7cR.png" group-title="BD BANGLA",BANGLA 21
+https://bd.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QwTCUMP.png" group-title="BD BANGLA",CHANNEL S
+https://bd.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jBdlQnA.png" group-title="BD BANGLA" ,CHANNEL S HD
+https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1tHcok1.png" group-title="BD BANGLA" ,JA TV
+https://live.tvdhaka.com:30443/globalbangla/jatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/U1CkSyj.png" group-title="BD BANGLA" ,Teliflim
+https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VgY9OSa.png" group-title="BD BANGLA" ,CCN BANGLA
+https://live.tvdhaka.com:30443/cnnbangla/01.m3u8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DhqpHhG.png" group-title="BD BANGLA" ,PROBASHI BANGLA
+https://live.tvdhaka.com:30443/live/probashi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y6kdse2.png" group-title="BD BANGLA" ,71 Bangla
+https://live.tvdhaka.com:30443/channelbd/71Bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3VTlSss.png" group-title="BD BANGLA" ,DHAKA TV
+https://live.tvdhaka.com:30443/tv/tvdhaka/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GKBkm2e.png" group-title="BD BANGLA" ,DESHI TV 
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F1B7USH.png" group-title="BD BANGLA" ,NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iuRzcdO.png" group-title="BD BANGLA" ,MEGHNA TV
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+
+#EXTINF:-014 tvg-logo="https://imgur.com/McQwv50.png", SATV
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" , Banglavision HD
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" , Bangla TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" , My TV BD
+https://cdn.appv.jagobd.com:444/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png",Shomoy TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png", Channel 24 HD
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png", Independent TV
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg", Jamuna TV
+http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png",News 24 HD 
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 
 
 
+
+
+
+
+#EXTINF:-202 group-title="Hindi Movies",IN: Housfull-4
+http://10.16.100.248/ftps6d5/Movies/Hindi/Housefull%204%20(2019)%201080p%20WEBDL/Housefull%204%20(2019)%201080p%20WEBDL.mp4
 #EXTINF:-202 group-title="Hindi Movies",IN-Ban:BAAZI
 https://assets-1.entertainvideo.com/assets/media/941cb3c1b88a354bbe66c3e01f83a3ee/dash/941cb3c1b88a354bbe66c3e01f83a3ee.mpd
 #EXTINF:-202 group-title="Hindi Movies",IN: Pushpa
