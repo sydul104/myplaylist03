@@ -35,7 +35,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-7 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
 #https://somoy.appv.jagobd.com:444/somoy/dbcnews.stream/playlist.m3u8
@@ -49,7 +50,8 @@ http://10.16.100.245/hindi/atNnews_1st0p.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-13 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA",Banglavision
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
 #http://103.136.200.246:8082/Ntv/index.m3u8
@@ -195,7 +197,8 @@ http://103.55.144.46:80/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #http://30.30.30.30/live/skyfeed2007/index.m3u8
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 #http://182.176.149.106:9100/play/a056
@@ -480,6 +483,7 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
 http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6 (Rabbitholebd)
 
@@ -666,9 +670,8 @@ http://185.145.43.244:8000/play/a008/index.m3u8
 
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
-#http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 #http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-http://stariptv.org:8080/nour2020/123456/141545
+http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257498
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 2  Premium
 #http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
@@ -683,14 +686,12 @@ http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1301
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-#http://stariptv.org:8080/nour2020/123456/141548
 #http://93.152.174.144:4000/play/bein1ar/index.m3u8
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257498
+http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 #http://93.152.174.144:4000/play/bein2ar/index.m3u8
 #http://217.74.16.155:8082/local//ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#http://stariptv.org:8080/nour2020/123456/141549
 http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257499
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
@@ -756,13 +757,14 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-172 tvg-logo="https://seeklogo.com/images/T/TNS-logo-3087F155B1-seeklogo.com.png" group-title="SPORTS",TSN Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS" Logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg", True Premier Football 1
+
+#EXTINF:-172 tvg-logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg" group-title="SPORTS",True Premier Football 1
 http://donglao.duckdns.org:9981/stream/channelid/905919890?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS" Logo="http://udoofree.com/cover/afc53720-a686-4376-8ab3-a910f1821c0e_original.jpg", True Premier Football 2
+#EXTINF:-172 tvg-logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg" group-title="SPORTS",True Premier Football 2
 http://donglao.duckdns.org:9981/stream/channelid/1760792278?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS" Logo="http://udoofree.com/cover/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.jpg", True Premier Football 3
+#EXTINF:-172 tvg-logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg" group-title="SPORTS",True Premier Football 3
 http://donglao.duckdns.org:9981/stream/channelid/1363511520?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
 
 
