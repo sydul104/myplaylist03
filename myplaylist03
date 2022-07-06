@@ -222,11 +222,12 @@ http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #http://30.30.30.30/live/skyfeed2007/index.m3u8
 #https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
+http://iptv12k.com:35461/live/test167/12345/632.m3u8
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 #http://182.176.149.106:9100/play/a056
-http://103.55.144.46/hls/wild.m3u8
+#http://103.55.144.46/hls/wild.m3u8
+http://iptv12k.com:35461/live/test167/12345/630.m3u8
 
 #EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -238,6 +239,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
+#http://iptv12k.com:35461/live/test167/12345/624.m3u8
 http://103.55.144.46:80/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
@@ -485,6 +487,9 @@ http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Fox Movie
 #http://starshare.live:8080/live/usman007/usman007/253.m3u8
+http://iptv12k.com:35461/live/test167/12345/612.m3u8
+
+#EXTINF:0 tvg-id="" group-title="English Movie",&flix
 http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34503?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1280px-Fox_life_logo.svg.png" group-title="English Movie",Fox life
@@ -495,6 +500,30 @@ http://1tv1.net:8080/nazha2021/123456/131987
 
 
 
+
+
+#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="BeIN Movies 1 HD" tvg-logo="http://vod-logo.net/photos/37546be95cdba347f9dd5109a3d28319.png" group-title="Bein Entertainment",BeIN_Movies 1 HD
+http://new-pro.tv:8080/mazen1/123456/2151
+#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="BeIN Movies 2 HD" tvg-logo="http://vod-logo.net/photos/4d2552cce9c13ebc5fe1b1ea56b21a89.png" group-title="Bein Entertainment",BeIN_Movies 2 HD
+http://new-pro.tv:8080/mazen1/123456/2303
+#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="BeIN Movies 3 HD" tvg-logo="http://vod-logo.net/photos/4694d2fd3f944560cbf416450667a99b.png" group-title="Bein Entertainment",BeIN_Movies 3 HD
+http://new-pro.tv:8080/mazen1/123456/4068
+#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="BeIN Movies 4 HD" tvg-logo="http://vod-logo.net/photos/0ce7f1f84f0ae5587846c71b18bb6b88.png" group-title="Bein Entertainment",BeIN_Movies 4 HD
+http://new-pro.tv:8080/mazen1/123456/2712
+#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BeIN Series 1 HD" tvg-logo="http://vod-logo.net/photos/6a1e21c06392dea8d7fe9844dfbfe8c3.png" group-title="Bein Entertainment",BeIN_Series 1 HD
+http://new-pro.tv:8080/mazen1/123456/6560
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BeIN Series 2 HD" tvg-logo="http://vod-logo.net/photos/261a246135ba73eb3c4182fefc20734c.png" group-title="Bein Entertainment",BeIN_Series 2 HD
+http://new-pro.tv:8080/mazen1/123456/9028
+#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="BeIN Drama 1 HD" tvg-logo="http://vod-logo.net/photos/9b0f5913c92c0d483b3095125ef3a687.png" group-title="Bein Entertainment",BeIN_Drama 1 HD
+http://new-pro.tv:8080/mazen1/123456/9031
+#EXTINF:-1 tvg-id="foxmovies.qa" tvg-name="BeIN Fox Movies HD" tvg-logo="http://vod-logo.net/photos/3f57527eed0ef12af2eb44df49551932.png" group-title="Bein Entertainment",Fox_Movies HD
+http://new-pro.tv:8080/mazen1/123456/28015
+#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="BeIN Fox Action Movies HD" tvg-logo="http://vod-logo.net/photos/7f850de4b9b0989fedec07d413652998.png" group-title="Bein Entertainment",Fox_Action_Movies HD
+http://new-pro.tv:8080/mazen1/123456/28013
+#EXTINF:-1 tvg-id="foxcrime.qa" tvg-name="BeIN Fox Crime HD" tvg-logo="http://vod-logo.net/photos/a686a1424ccd3d1a861da4beb3882ea1.png" group-title="Bein Entertainment",Fox_Crime HD
+http://new-pro.tv:8080/mazen1/123456/45281
+#EXTINF:-1 tvg-id="foxlife.qa" tvg-name="BeIN Fox Life HD" tvg-logo="http://vod-logo.net/photos/ad224f1a0ea9a5c9354cd1f016261264.png" group-title="Bein Entertainment",Fox_Life HD
+http://new-pro.tv:8080/mazen1/123456/45279
 
 
 
@@ -726,6 +755,7 @@ https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8
 https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports
+http://quality-restream.com:8080/rhaddaoui90/58b4b54325/157561
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
@@ -813,7 +843,14 @@ http://5.206.237.66:9000/play/a071
 
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/233-2332507_fox-sports-fs1-logo-white.png" group-title="SPORTS",Fox [FS1]
+http://iptv12k.com:35461/live/test167/12345/687.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
+rtmp://59.124.75.150/sat/tv731
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
+rtmp://59.124.75.150/sat/tv741
 
 
 
@@ -852,9 +889,13 @@ http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.onc
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports-1
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports-2
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports
+http://iptv12k.com:35461/live/test167/12345/7990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports-2
+http://iptv12k.com:35461/live/test167/12345/971.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports-3
+http://iptv12k.com:35461/live/test167/12345/654.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Astro Supper Sports-4
+http://iptv12k.com:35461/live/test167/12345/969.m3u8
 
 
 
