@@ -21,8 +21,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
 #http://103.136.200.246:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
-#http://208.86.19.13:81/604.stream/index.m3u8
-http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+http://208.86.19.13:81/604.stream/index.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-[2]
 http://103.55.144.46/hls/nexus.m3u8
@@ -539,7 +539,8 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports 2
 #http://103.167.190.250/hls/t-sports.m3u8
-http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+#http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+http://30.30.30.30/live/skyfeed2001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
@@ -557,8 +558,7 @@ http://nayeemparvez-hp.zapto.org:80/tv.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.55.144.46/hls/t-sports.m3u8
 #https://nbn.chowdhury-shaheb.com/live/tsports/chunks.m3u8
-#http://172.17.50.112/live/antbd1005/index.m3u8
-http://30.30.30.30/live/skyfeed2001/index.m3u8
+http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://15.1.1.10:8082/tsp/index.m3u8
@@ -584,14 +584,13 @@ http://10.16.100.207:8088/sports/GazItv_hd.m3u8
 #http://stream.accessnetbd.com/hls/sky12.m3u8
 #http://10.16.100.207:8088/sports/StarSp0rtS1onehd.m3u8
 #http://30.30.30.30/live/skyfeed2003/index.m3u8
-http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
-
+#http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+http://30.30.30.30/live/skyfeed1011/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2]
 #https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #http://stream.accessnetbd.com/hls/sky12.m3u8
 #http://103.55.144.46:80/hls/stersports1hd.m3u8
-#http://30.30.30.30/live/skyfeed1011/index.m3u8
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
@@ -600,9 +599,9 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2
-#http://103.55.144.46/hls/starsports2.m3u8
 #http://30.30.30.30/live/skyfeed2004/index.m3u8
-http://10.16.100.207:8088/sports/starSports2Tw0hd_local.m3u8
+#http://10.16.100.207:8088/sports/starSports2Tw0hd_local.m3u8
+http://103.55.144.46/hls/starsports2.m3u8
 
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 [2]
 #http://15.1.1.10:8082/STAR-SPORTS-2HD/index.m3u8
@@ -615,8 +614,8 @@ http://30.30.30.30/live/skyfeed1012/index.m3u8
 http://103.55.144.46/hls/starsports3.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1 HD
-#http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
+#http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1 SD
 #http://15.1.1.10:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
