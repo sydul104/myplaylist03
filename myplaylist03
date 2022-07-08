@@ -706,6 +706,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
+https://networkbest.ru.com/cdn/premium369/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 http://iptv12k.com:35461/live/test167/12345/684.m3u8
@@ -722,12 +723,15 @@ http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8?|Referer=http://dds.oncas
 http://dds.oncast.me:1934/dlive/sp10.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports
+https://networkbest.ru.com/cdn/premium65/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Action
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS", Sky Sports Arena
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [1]
 #http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
 http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+http://midesi.hopto.org:1947/SSC/tracks-v1a1/mono.m3u8
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
 http://ranapk.myftp.org:1932/tvapp/sonysix/playlist.m3u8
