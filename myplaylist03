@@ -154,7 +154,8 @@ https://bds.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="English News",Al Jazeera
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
+#http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
+http://iptv12k.com:35461/live/test167/12345/725.m3u8
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/2560px-BBC_News.svg.png" group-title="English News",BBC News
 #http://182.176.149.106:9100/play/a064
