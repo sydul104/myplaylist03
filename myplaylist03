@@ -25,7 +25,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 http://208.86.19.13:81/604.stream/index.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-[2]
-http://103.55.144.46/hls/nexus.m3u8
+#http://103.55.144.46/hls/nexus.m3u8
+http://10.100.100.140:8081/dugdugi/ekattor/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 #https://somoy.appv.jagobd.com:444/somoy/independent-8-org.stream/playlist.m3u8
@@ -47,7 +48,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-11 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA",ATN NEWS [BD]
 #http://103.136.200.246:8082/Atn-News/tracks-v1a1/mono.m3u8
-http://10.16.100.245/hindi/atNnews_1st0p.m3u8
+#http://10.16.100.245/hindi/atNnews_1st0p.m3u8
+https://tv.kotha.im/ATN_News_SD/index.m3u8
 
 #EXTINF:-12 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"group-title="BANGLA",ATN Bangla
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
@@ -58,10 +60,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-29 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA",NTV
-#http://103.136.200.246:8082/Ntv/index.m3u8
-#https://nbn.chowdhury-shaheb.com/live/nk-ntv/chunks.m3u8
 #http://10.16.100.245/hindi/ntv_1sT0p.m3u8
-http://208.86.19.13:81/652.stream/index.m3u8
+#http://208.86.19.13:81/652.stream/index.m3u8
+#https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+https://tv.kotha.im/NTV_SD/index.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
@@ -169,6 +171,7 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 
 #EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/QuranTV.png" group-title="Islamic",Saudi Quran
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina live
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
@@ -215,7 +218,8 @@ http://103.55.144.46/hls/cn.m3u8
 http://103.55.144.46:80/hls/discovery.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
-http://172.17.50.112/live/antbd1008/index.m3u8
+#http://172.17.50.112/live/antbd1008/index.m3u8
+http://10.100.100.140:8081/dugdugi/discovery/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://103.136.200.246:8082/Nat-Geo/index.m3u8
@@ -224,12 +228,13 @@ http://103.55.144.46:80/hls/ngohd.m3u8
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #http://30.30.30.30/live/skyfeed2007/index.m3u8
 #https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-http://iptv12k.com:35461/live/test167/12345/632.m3u8
+#http://iptv12k.com:35461/live/test167/12345/632.m3u8
+http://10.100.100.140:8081/dugdugi/zeestudio/chunks.m3u8?|Referer=http://dugdugilive.com/
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 #http://182.176.149.106:9100/play/a056
-#http://103.55.144.46/hls/wild.m3u8
-http://iptv12k.com:35461/live/test167/12345/630.m3u8
+#http://iptv12k.com:35461/live/test167/12345/630.m3u8
+http://103.55.144.46/hls/wild.m3u8
 
 #EXTINF:-68 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel xp
 #https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -490,8 +495,8 @@ http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/136639.m3u8
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",Fox Movie
-#http://starshare.live:8080/live/usman007/usman007/253.m3u8
-http://iptv12k.com:35461/live/test167/12345/612.m3u8
+#http://iptv12k.com:35461/live/test167/12345/612.m3u8
+http://starshare.live:8080/live/usman007/usman007/253.m3u8
 
 #EXTINF:0 tvg-id="" group-title="English Movie",&flix
 http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34503?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
@@ -543,16 +548,19 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports 2
 #http://103.167.190.250/hls/t-sports.m3u8
 #http://30.30.30.30/live/skyfeed2001/index.m3u8
-http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+#http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
-http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
+#http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
+http://103.168.91.228/tv.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
-http://113.212.111.246:8080/hls/col2.m3u8
+#http://113.212.111.246:8080/hls/col2.m3u8
+http://172.16.50.250:8081/live/mystream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6
 http://nayeemparvez-hp.zapto.org:80/tv.m3u8
@@ -579,7 +587,8 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD-2
 #http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #http://30.30.30.30/live/skyfeed2004/index.m3u8
-http://10.16.100.207:8088/sports/GazItv_hd.m3u8
+#http://10.16.100.207:8088/sports/GazItv_hd.m3u8
+https://tv.kotha.im/GTV_HD/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [1] 
 #http://172.17.50.112/live/antbd1006/index.m3u8
