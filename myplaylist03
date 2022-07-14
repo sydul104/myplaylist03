@@ -123,7 +123,8 @@ http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
 http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
 
 #EXTINF:-35 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="BANGLA",Asian TV
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+https://tv.kotha.im/Asian_TV_HD/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="BANGLA",Bijoy TV
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
@@ -157,13 +158,16 @@ https://bds.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png" group-title="English News",Al Jazeera
 #http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/60
-http://iptv12k.com:35461/live/test167/12345/725.m3u8
+#http://iptv12k.com:35461/live/test167/12345/725.m3u8
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/2560px-BBC_News.svg.png" group-title="English News",BBC News
 #http://182.176.149.106:9100/play/a064
+#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
 http://ip2121.com:8081/live/bbc/playlist.m3u8
 
 #EXTINF:-59 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
+#https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 http://ip2121.com:8081/live/cnn/playlist.m3u8
 
 
