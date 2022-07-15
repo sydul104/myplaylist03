@@ -25,8 +25,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 http://208.86.19.13:81/604.stream/index.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-[2]
-#http://103.55.144.46/hls/nexus.m3u8
-http://10.100.100.140:8081/dugdugi/ekattor/chunks.m3u8?|Referer=http://dugdugilive.com/
+http://103.55.144.46/hls/nexus.m3u8
+
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 #https://somoy.appv.jagobd.com:444/somoy/independent-8-org.stream/playlist.m3u8
@@ -147,8 +147,9 @@ http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/U1CkSyj.png" group-title="BANGLA" ,Teliflim
 https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VgY9OSa.png" group-title="BANGLA" ,CCN BANGLA
+#EXTINF:-1 tvg-logo="https://imgur.com/VgY9OSa.png" group-title="BANGLA" ,CNN BANGLA
 https://live.tvdhaka.com:30443/cnnbangla/01.m3u8/chunks.m3u8
+https://bds.jagobd.com:444/live-orgin/cnnbangla-eu.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2Lv6raR.png" group-title="BANGLA",NRB IPTV [BD]
 https://bds.jagobd.com:444/live-orgin/nrb-eu.stream/chunks.m3u8
@@ -222,8 +223,7 @@ http://103.55.144.46/hls/cn.m3u8
 http://103.55.144.46:80/hls/discovery.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
-#http://172.17.50.112/live/antbd1008/index.m3u8
-http://10.100.100.140:8081/dugdugi/discovery/chunks.m3u8?|Referer=http://dugdugilive.com/
+http://172.17.50.112/live/antbd1008/index.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://103.136.200.246:8082/Nat-Geo/index.m3u8
@@ -231,9 +231,8 @@ http://103.55.144.46:80/hls/ngohd.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #http://30.30.30.30/live/skyfeed2007/index.m3u8
-#https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #http://iptv12k.com:35461/live/test167/12345/632.m3u8
-http://10.100.100.140:8081/dugdugi/zeestudio/chunks.m3u8?|Referer=http://dugdugilive.com/
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-66 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 #http://182.176.149.106:9100/play/a056
@@ -551,9 +550,9 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports 2
 #http://103.167.190.250/hls/t-sports.m3u8
-#http://30.30.30.30/live/skyfeed2001/index.m3u8
 #http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
-http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
+#http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
+http://30.30.30.30/live/skyfeed2001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
@@ -563,8 +562,8 @@ http://103.168.91.228/tv.m3u8
 http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
-#http://113.212.111.246:8080/hls/col2.m3u8
-http://172.16.50.250:8081/live/mystream1/chunks.m3u8
+#http://172.16.50.250:8081/live/mystream1/chunks.m3u8
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6
 http://nayeemparvez-hp.zapto.org:80/tv.m3u8
@@ -658,15 +657,15 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1 SD
 #http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16622
 #http://10.16.100.207:8088/sports/sonyten101onehd.m3u8
-#http://103.55.144.46//hls/sonyten1.m3u8
-http://ranapk.myftp.org:1932/tvapp/sonyten-1/playlist.m3u8
+#http://ranapk.myftp.org:1932/tvapp/sonyten-1/playlist.m3u8
+http://103.55.144.46//hls/sonyten1.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="SPORTS",Sony ten 2 SD
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #http://172.17.50.112/live/antbd1007/index.m3u8
 #http://10.16.100.207:8088/sports/ten2hd_local.m3u8
-#http://103.55.144.46//hls/sonyten2.m3u8
-http://ranapk.myftp.org:1932/tvapp/sonyten-2/playlist.m3u8
+#http://ranapk.myftp.org:1932/tvapp/sonyten-2/playlist.m3u8
+http://103.55.144.46//hls/sonyten2.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="SPORTS",Sony ten 2 HD
 #http://182.50.65.213:8888/udp/239.239.0.34:3001
@@ -682,8 +681,8 @@ http://30.30.30.30/live/skyfeed1007/index.m3u8
 #http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34500?play_token=mL3xE8cGK6&token=TURYAhZYEAwSB1YKDVdTAlBQV1cGWwAOUwRWA1YMUQYCXlVRVFMFDlRGTxBLF0AGVA9uD1IbCQUFBlQFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1BWAF8cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #https://nbn.chowdhury-shaheb.com/live/nb-sonyten3_720p/chunks.m3u8
 #http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
-#http://103.55.144.46//hls/sonyten3.m3u8
-http://ranapk.myftp.org:1932/tvapp/sonyten-3/playlist.m3u8
+#http://ranapk.myftp.org:1932/tvapp/sonyten-3/playlist.m3u8
+http://103.55.144.46//hls/sonyten3.m3u8
 
 #EXTINF:-141 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS",Sony Ten 4
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
@@ -691,26 +690,26 @@ https://nbn.chowdhury-shaheb.com/live/nb-sonyten4_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six HD
 #http://172.17.50.112/live/antbd1006/index.m3u8
-#http://103.55.144.46/hls/sonysix.m3u8
 #http://103.136.200.246:8089/SonySix/index.m3u8
-http://30.30.30.30/live/skyfeed2004/index.m3u8
+#http://30.30.30.30/live/skyfeed2004/index.m3u8
+http://103.55.144.46/hls/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six SD
 #https://nbn.chowdhury-shaheb.com/live/nb-sonysix_720p/chunks.m3u8
 #http://10.16.100.207:8082/sports/s0ny6six.m3u8
-#http://30.30.30.30/live/skyfeed1008/index.m3u8
-http://10.16.100.207:8088/sports/sony6six_local.m3u8
+#http://10.16.100.207:8088/sports/sony6six_local.m3u8
+http://30.30.30.30/live/skyfeed1008/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
 #http://30.30.30.30/live/skyfeed2002/index.m3u8
 #http://10.16.100.245/hindi/pTvSp0rts.m3u8
-#http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #http://103.55.144.46/hls/ptv.m3u8
-https://nbn.chowdhury-shaheb.com/live/ptvsports_720p/chunks.m3u8
+#https://nbn.chowdhury-shaheb.com/live/ptvsports_720p/chunks.m3u8
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
-#http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
+#http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/16088
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -724,7 +723,7 @@ http://208.86.19.13:81/711.stream/index.m3u8
 http://stariptv.org:8080/live/nour2020/123456/148521.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
-http://iptv12k.com:35461/live/test167/12345/684.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://15.1.1.10:8082/WILLOW-CRICKET-HD/index.m3u8
