@@ -601,7 +601,8 @@ http://30.30.30.30:8081/live/bangla51/playlist.m3u8
 #http://30.30.30.30/live/skyfeed1006/index.m3u8
 #https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
 #http://103.136.200.246:8089/Gazi-Tv/index.m3u8
-http://103.55.144.46/hls/Gazi-TV.m3u8
+#http://103.55.144.46/hls/Gazi-TV.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD-2
 #http://103.136.200.246:8082/Gazi-Tv/index.m3u8
@@ -623,12 +624,12 @@ http://30.30.30.30/live/skyfeed1011/index.m3u8
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
-#http://45.86.190.64:25461/9tfkE7P6pDR23zAf/8C8TY14GvnWRCQrv/34513?play_token=t58KaTdCDg&token=TURYAhZYEAwSAgBQXVQCVgEHBlcCXAZSUFFSAQMAVVZQAlYBBAMCUwFGTxBLF0AGVA9uD1IbCQUFBlUGShsTFlMUbwoBEggUAVxRBQlVBEEZQEUPW1wRDAAFUA1TClNRBlIcQRVZVhQKRlEAC1UHQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AFWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRAFABUBMb
-https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
+#https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
+#http://208.86.19.13:81/710.stream/index.m3u8
+http://45.86.190.64:25461/9tfkE7P6pDR23zAf/8C8TY14GvnWRCQrv/34513?play_token=t58KaTdCDg&token=TURYAhZYEAwSAgBQXVQCVgEHBlcCXAZSUFFSAQMAVVZQAlYBBAMCUwFGTxBLF0AGVA9uD1IbCQUFBlUGShsTFlMUbwoBEggUAVxRBQlVBEEZQEUPW1wRDAAFUA1TClNRBlIcQRVZVhQKRlEAC1UHQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AFWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRAFABUBMb
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2
 #http://30.30.30.30/live/skyfeed2004/index.m3u8
-#http://10.16.100.207:8088/sports/starSports2Tw0hd_local.m3u8
 #http://103.55.144.46/hls/starsports2.m3u8
 http://208.86.19.13:81/715.stream/index.m3u8
 
