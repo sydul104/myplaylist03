@@ -26,11 +26,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #http://103.136.200.246:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
 #http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
-http://208.86.19.13:81/604.stream/index.m3u8
+#http://208.86.19.13:81/604.stream/index.m3u8
+http://12.1.1.1:8082/Ekattor-tv/index.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-[2]
 http://103.55.144.46/hls/nexus.m3u8
-
 
 #EXTINF:-6 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA",INDEPENDENT TV
 #https://somoy.appv.jagobd.com:444/somoy/independent-8-org.stream/playlist.m3u8
@@ -96,7 +96,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
-http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+https://tv.kotha.im/Deepto_TV_HD/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga Tv
 #http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
@@ -339,7 +340,8 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 
 #EXTINF:-78 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg" group-title="MUSIC",GAAN BANGLA HD
 #http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+#http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+http://208.86.19.13:81/612.stream/index.m3u8
 
 #EXTINF:-80 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
