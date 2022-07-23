@@ -477,6 +477,9 @@ http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Hindi",SONY MAX-2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 2 FHD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="Hindi", DHIN CHAAK-2 FHD
+http://103.55.144.46:80/hls/dhin.m3u8
+
 
 
 
@@ -510,8 +513,16 @@ http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="English Movie",STAR WORLD HD (IN)
-#http://221.120.204.4/star-world-LOCKLE/index.m3u8
-http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/136639.m3u8
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MN+" tvg-logo="https://i.imgur.com/56cCBrY.png" group-title="English Movie", MN+
+http://103.55.144.46:80/hls/mn+.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MNX" tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English Movie", MNX-HD
+http://103.55.144.46:80/hls/mnx-hd.m3u8
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Movies Kingdom" tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="English Movie", Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="English Movie",Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
@@ -858,9 +869,12 @@ http://iptv12k.com:35461/live/test167/12345/687.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-1
-rtmp://59.124.75.150/sat/tv731
+#rtmp://59.124.75.150/sat/tv731
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Elevel Sports-2
-rtmp://59.124.75.150/sat/tv741
+#rtmp://59.124.75.150/sat/tv741
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sports-1
