@@ -530,31 +530,6 @@ http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="BeIN Movies 1 HD" tvg-logo="http://vod-logo.net/photos/37546be95cdba347f9dd5109a3d28319.png" group-title="Bein Entertainment",BeIN_Movies 1 HD
-http://new-pro.tv:8080/mazen1/123456/2151
-#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="BeIN Movies 2 HD" tvg-logo="http://vod-logo.net/photos/4d2552cce9c13ebc5fe1b1ea56b21a89.png" group-title="Bein Entertainment",BeIN_Movies 2 HD
-http://new-pro.tv:8080/mazen1/123456/2303
-#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="BeIN Movies 3 HD" tvg-logo="http://vod-logo.net/photos/4694d2fd3f944560cbf416450667a99b.png" group-title="Bein Entertainment",BeIN_Movies 3 HD
-http://new-pro.tv:8080/mazen1/123456/4068
-#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="BeIN Movies 4 HD" tvg-logo="http://vod-logo.net/photos/0ce7f1f84f0ae5587846c71b18bb6b88.png" group-title="Bein Entertainment",BeIN_Movies 4 HD
-http://new-pro.tv:8080/mazen1/123456/2712
-#EXTINF:-1 tvg-id="beinseries1.qa" tvg-name="BeIN Series 1 HD" tvg-logo="http://vod-logo.net/photos/6a1e21c06392dea8d7fe9844dfbfe8c3.png" group-title="Bein Entertainment",BeIN_Series 1 HD
-http://new-pro.tv:8080/mazen1/123456/6560
-#EXTINF:-1 tvg-id="beinseries2.qa" tvg-name="BeIN Series 2 HD" tvg-logo="http://vod-logo.net/photos/261a246135ba73eb3c4182fefc20734c.png" group-title="Bein Entertainment",BeIN_Series 2 HD
-http://new-pro.tv:8080/mazen1/123456/9028
-#EXTINF:-1 tvg-id="beindrama.qa" tvg-name="BeIN Drama 1 HD" tvg-logo="http://vod-logo.net/photos/9b0f5913c92c0d483b3095125ef3a687.png" group-title="Bein Entertainment",BeIN_Drama 1 HD
-http://new-pro.tv:8080/mazen1/123456/9031
-#EXTINF:-1 tvg-id="foxmovies.qa" tvg-name="BeIN Fox Movies HD" tvg-logo="http://vod-logo.net/photos/3f57527eed0ef12af2eb44df49551932.png" group-title="Bein Entertainment",Fox_Movies HD
-http://new-pro.tv:8080/mazen1/123456/28015
-#EXTINF:-1 tvg-id="foxmoviesaction.qa" tvg-name="BeIN Fox Action Movies HD" tvg-logo="http://vod-logo.net/photos/7f850de4b9b0989fedec07d413652998.png" group-title="Bein Entertainment",Fox_Action_Movies HD
-http://new-pro.tv:8080/mazen1/123456/28013
-#EXTINF:-1 tvg-id="foxcrime.qa" tvg-name="BeIN Fox Crime HD" tvg-logo="http://vod-logo.net/photos/a686a1424ccd3d1a861da4beb3882ea1.png" group-title="Bein Entertainment",Fox_Crime HD
-http://new-pro.tv:8080/mazen1/123456/45281
-#EXTINF:-1 tvg-id="foxlife.qa" tvg-name="BeIN Fox Life HD" tvg-logo="http://vod-logo.net/photos/ad224f1a0ea9a5c9354cd1f016261264.png" group-title="Bein Entertainment",Fox_Life HD
-http://new-pro.tv:8080/mazen1/123456/45279
-
-
-
 
 
 
