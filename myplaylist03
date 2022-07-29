@@ -286,9 +286,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
-#http://103.55.144.46:80/hls/jalshamovies.m3u8
 #http://103.136.200.246:8089/Jalshamovies/index.m3u8
-http://208.86.19.13:81/617.stream/index.m3u8
+#http://208.86.19.13:81/617.stream/index.m3u8
+http://103.55.144.46:80/hls/jalshamovies.m3u8
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD-2
 #http://103.136.200.246:8082/Jalshamovies/index.m3u8
