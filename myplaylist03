@@ -566,14 +566,15 @@ http://30.30.30.30/live/skyfeed2001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 #http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Cricket_1_HD&q=1200&e=.m3u8
-http://103.168.91.228/tv.m3u8
+#http://103.168.91.228/tv.m3u8
+http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
-#http://172.16.50.250:8081/live/mystream1/chunks.m3u8
-http://113.212.111.246:8080/hls/col2.m3u8
+#http://113.212.111.246:8080/hls/col2.m3u8
+http://172.16.50.250:8081/live/mystream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6
 http://nayeemparvez-hp.zapto.org:80/tv.m3u8
@@ -589,15 +590,17 @@ http://172.17.50.112/live/antbd1005/index.m3u8
 #http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #http://103.136.200.246:8089/T-Sports/index.m3u8
 #http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
-http://30.30.30.30:8081/live/bangla51/playlist.m3u8
+#http://30.30.30.30:8081/live/bangla51/playlist.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
 
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://30.30.30.30/live/skyfeed1006/index.m3u8
 #https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
 #http://103.136.200.246:8089/Gazi-Tv/index.m3u8
-#http://103.55.144.46/hls/Gazi-TV.m3u8
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+#http://103.55.144.46:80/hls/Gazi-TV.m3u8
+http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV HD-2
 #http://103.136.200.246:8082/Gazi-Tv/index.m3u8
@@ -635,8 +638,8 @@ http://30.30.30.30/live/skyfeed1012/index.m3u8
 
 #EXTINF:-133 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 #http://103.153.39.36:8000/play/a00l
-#http://208.86.19.13:81/732.stream/index.m3u8
-http://103.55.144.46/hls/starsports3.m3u8
+#http://103.55.144.46/hls/starsports3.m3u8
+http://208.86.19.13:81/732.stream/index.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1 HD
 #http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
@@ -667,10 +670,10 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1 SD
 #http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16622
-#http://10.16.100.207:8088/sports/sonyten101onehd.m3u8
 #http://ranapk.myftp.org:1932/tvapp/sonyten-1/playlist.m3u8
 #http://103.55.144.46//hls/sonyten1.m3u8
-http://182.50.65.213:8888/udp/239.239.0.33:3001
+#http://182.50.65.213:8888/udp/239.239.0.33:3001
+http://10.16.100.207:8088/sports/sonyten101onehd.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="SPORTS",Sony ten 2 SD
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34491?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
@@ -770,17 +773,20 @@ http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncas
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
 #http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8
+#https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8
+http://stariptv.org:8080/hamza2022/123456/15563
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 2  Premium
 #http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
 #http://stariptv.org:8080/nour2020/123456/141546
-https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8
+#https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8
+http://stariptv.org:8080/hamza2022/123456/15562
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
 #http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 #http://stariptv.org:8080/nour2020/123456/141547
-https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8
+#https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8
+http://stariptv.org:8080/hamza2022/123456/15561
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports
 
