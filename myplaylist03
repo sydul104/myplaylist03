@@ -951,6 +951,29 @@ http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.onc
 
 
 
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/RSoi6ue.png",Radio Foorti (88.0)
+https://node-11.zeno.fm/f0bfdk2w34zuv
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/0HrUDOH.png",Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/oCqZq70.png",Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/gFbrkVK.png",Radio Wow
+https://stream-41.zeno.fm/d22wrdbst5quv
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/srXJwSN.png",Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/CFnUmxM.png",ABC Radio (89.2)
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/UDrB3Z9.png",Radio Shadhin (92.4)
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/YIIvblK.png",Big FM (92.7)
+http://sc-bb.1.fm:8017/;
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/sgjOpqz.png",Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/SzLPkH4.png",Spice FM (96.4)
+http://162.254.149.187:9300/;
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://imgur.com/meR71iP.png",Colours FM (101.6)
+http://45.64.135.88:8000/stream1
+
 
 
 
