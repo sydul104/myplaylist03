@@ -586,6 +586,8 @@ http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34503?play_token=E2oETZbCeU&toke
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movie" tvg-id="" tvg-name="", WB
+http://30.30.30.30/live/skyfeed2008/index.m3u8
+
 #EXTINF:0 tvg-id="" group-title="English Movie",Fox Movie
 
 
@@ -658,6 +660,7 @@ https://tv.kotha.im/GTV_HD/index.m3u8
 #http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 http://30.30.30.30/live/skyfeed1011/index.m3u8
 
+
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2]
 #https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #http://103.55.144.46:80/hls/stersports1hd.m3u8
@@ -665,18 +668,13 @@ http://30.30.30.30/live/skyfeed1011/index.m3u8
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [Hindi]
-#http://208.86.19.13:81/710.stream/index.m3u8
-#http://45.86.190.64:25461/9tfkE7P6pDR23zAf/8C8TY14GvnWRCQrv/34513?play_token=t58KaTdCDg&token=TURYAhZYEAwSAgBQXVQCVgEHBlcCXAZSUFFSAQMAVVZQAlYBBAMCUwFGTxBLF0AGVA9uD1IbCQUFBlUGShsTFlMUbwoBEggUAVxRBQlVBEEZQEUPW1wRDAAFUA1TClNRBlIcQRVZVhQKRlEAC1UHQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AFWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRAFABUBMb
-#http://watchindia.net:8880/live/26490/86400/808.m3u8
-#http://103.127.92.38:81/play/starsp1
-http://103.179.246.243:8000/play/a026
+#http://103.179.246.243:8000/play/a026
+http://208.86.19.13:81/710.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2
 #http://30.30.30.30/live/skyfeed2004/index.m3u8
 #http://103.55.144.46/hls/starsports2.m3u8
-#http://208.86.19.13:81/715.stream/index.m3u8
-#http://watchindia.net:8880/live/26490/86400/2163.m3u8
-http://103.127.92.38:81/play/starsp2
+http://208.86.19.13:81/715.stream/index.m3u8
 
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 [2]
 #http://15.1.1.10:8082/STAR-SPORTS-2HD/index.m3u8
@@ -686,8 +684,8 @@ http://30.30.30.30/live/skyfeed1012/index.m3u8
 #EXTINF:-133 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 #http://103.153.39.36:8000/play/a00l
 #http://103.55.144.46/hls/starsports3.m3u8
-#http://208.86.19.13:81/732.stream/index.m3u8
-http://103.127.92.38:81/play/starsp3
+http://208.86.19.13:81/732.stream/index.m3u8
+
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1 HD
 #http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
@@ -716,9 +714,9 @@ http://watchindia.net:8880/live/26490/86400/1071.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1 HD
 #http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34490?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
-#http://30.30.30.30/live/skyfeed1006/index.m3u8
 #http://103.109.56.116/live/skyfeed1001/index.m3u8
-http://103.179.246.243:8000/play/a00e
+#http://103.179.246.243:8000/play/a00e
+http://30.30.30.30/live/skyfeed1006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="SPORTS", Sony Ten 1 SD
 #http://quality-restream.com:8080/Miglioriptv/9meicgdec6/16622
@@ -737,12 +735,12 @@ http://watchindia.net:8880/live/26490/86400/1757.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="SPORTS",Sony ten 2 HD
 #http://182.50.65.213:8888/udp/239.239.0.34:3001
 #http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
-http://30.30.30.30/live/skyfeed1006/index.m3u8
+http://30.30.30.30/live/skyfeed1007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png"group-title="SPORTS",Sony Ten 3 HD
-#http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672445
 #http://182.50.65.213:8888/udp/239.239.0.35:3001
-http://30.30.30.30/live/skyfeed1007/index.m3u8
+#http://30.30.30.30/live/skyfeed1007/index.m3u8
+http://mag.you24.online:8080/fvgde4k57s/agedm0qu4/672445
 
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png"group-title="SPORTS",Sony Ten 3 SD
 #http://45.86.190.64:25461/UtRkBjTKyH/2Z4YySMe6u/34500?play_token=mL3xE8cGK6&token=TURYAhZYEAwSB1YKDVdTAlBQV1cGWwAOUwRWA1YMUQYCXlVRVFMFDlRGTxBLF0AGVA9uD1IbCQUFBlQFShsTFlMUbwoBEggUAVFQCw9SC0EZQEUPW1wRDAAFUA1RC1BWAF8cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
@@ -787,19 +785,21 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://watchindia.net:8880/live/26490/86400/1068.m3u8
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Cricket
-http://103.127.92.38:81/play/tencricket
+
 
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-https://networkbest.ru.com/cdn/premium369/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium369/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
-https://networkbest.ru.com/cdn/premium449/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 #http://15.1.1.10:8082/WILLOW-CRICKET-HD/index.m3u8
 http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD-2
 http://watchindia.net:8880/live/26490/86400/1067.m3u8
+
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 http://watchindia.net:8880/live/26490/86400/2145.m3u8
 
@@ -913,11 +913,9 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports tv+
-http://cdnrede.com:80/sophia/sophia/207263
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports tv-2
-http://cdnrede.com:80/sophia/sophia/207265
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports tv-3
-http://cdnrede.com:80/sophia/sophia/207266
+
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-1
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-2
@@ -1020,7 +1018,7 @@ http://45.64.135.88:8000/stream1
 
 
 #EXTINF:-202 group-title="Hindi Movies",IN: Housfull-4
-http://10.16.100.248/ftps6d5/Movies/Hindi/Housefull%204%20(2019)%201080p%20WEBDL/Housefull%204%20(2019)%201080p%20WEBDL.mp4
+
 #EXTINF:-202 group-title="Hindi Movies",IN-Ban:BAAZI
 https://assets-1.entertainvideo.com/assets/media/941cb3c1b88a354bbe66c3e01f83a3ee/dash/941cb3c1b88a354bbe66c3e01f83a3ee.mpd
 #EXTINF:-202 group-title="Hindi Movies",IN: Pushpa
