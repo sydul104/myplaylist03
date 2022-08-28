@@ -622,7 +622,8 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 http://watchindia.net:8880/live/26490/86400/1070.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6
-http://113.212.111.246:8080/hls/col2.m3u8
+#http://113.212.111.246:8080/hls/col2.m3u8
+https://piratesiptv.shortcm.li/gazi.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
