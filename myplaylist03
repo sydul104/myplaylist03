@@ -627,9 +627,8 @@ http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://103.55.144.46/hls/t-sports.m3u8
-#https://nbn.chowdhury-shaheb.com/live/tsports/chunks.m3u8
 #http://172.17.50.112/live/antbd1005/index.m3u8
-#http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
+#https://tv.kotha.im/TSports_HD/index.m3u8
 http://30.30.30.30/live/skyfeed2001/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
