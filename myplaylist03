@@ -614,10 +614,12 @@ http://30.30.30.30/live/skyfeed1005/index.m3u8
 #http://103.167.190.250/hls/t-sports.m3u8
 #http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
 #http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
-http://30.30.30.30/live/skyfeed2001/index.m3u8
+#http://30.30.30.30/live/skyfeed2001/index.m3u8
+http://31.172.87.51:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
-http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+#http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+https://engbishal.ml/Starsports1a.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://172.16.50.250:8081/live/mystream1/chunks.m3u8
