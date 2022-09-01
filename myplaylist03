@@ -610,20 +610,22 @@ http://30.30.30.30/live/skyfeed2002/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 #http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
-https://engbishal.ml/Starsports1a.m3u8
+#https://engbishal.ml/Starsports1a.m3u8
+http://stream.serverbd247.com/hls/sky14.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
-#http://172.16.50.250:8081/live/mystream1/chunks.m3u8
+#http://172.16.50.250:8081/live/mystream1/index.m3u8
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
 #http://watchindia.net:8880/live/26490/86400/1070.m3u8
 http://30.30.30.30/live/skyfeed2001/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6 (amrbd)
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 6
 #http://113.212.111.246:8080/hls/col2.m3u8
-#https://piratesiptv.shortcm.li/gazi.m3u8
-http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
+#http://stream.amrbd.com:8082/Gazi-Tv/index.m3u8
+https://piratesiptv.shortcm.li/gazi.m3u8
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
