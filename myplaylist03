@@ -607,11 +607,13 @@ http://30.30.30.30/live/skyfeed2002/index.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports 3
 #http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #https://engbishal.ml/Starsports1a.m3u8
-http://stream.serverbd247.com/hls/sky14.m3u8
+#http://stream.serverbd247.com/hls/sky14.m3u8
+http://103.55.144.46/hls/ten.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 4
 #http://172.16.50.250:8081/live/mystream1/index.m3u8
-http://103.109.56.116/live/skyfeed1001/index.m3u8
+#http://103.109.56.116/live/skyfeed1001/index.m3u8
+http://103.55.144.46/hls/ptv.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
 #http://watchindia.net:8880/live/26490/86400/1070.m3u8
@@ -680,7 +682,8 @@ http://30.30.30.30/live/skyfeed1012/index.m3u8
 http://103.55.144.46/hls/starsports3.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1 HD
-http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
+#http://10.16.100.207:8088/sports/starsselect1hd_locl.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1 SD
 #http://15.1.1.10:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
