@@ -239,18 +239,17 @@ http://iptv.prosto.tv:7000/ch207/video.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
 #http://103.55.144.46:80/hls/discovery.m3u8
-http://116.204.149.11:8000/play/a00w/index.m3u8
+https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
-#http://tv.googledrivelinks.com:8088/live.php?c=Discovery&q=800&e=.m3u8
-#http://tv.googledrivelinks.com:8088/live.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 #http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34519?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
-http://103.179.246.243:8000/play/a00y
+#http://103.162.136.235:4500/play/a008/index.m3u8
+http://116.204.149.11:8000/play/a00w/index.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
-http://103.55.144.46:80/hls/ngohd.m3u8
-http://103.179.246.243:8000/play/a00x
+#http://103.55.144.46:80/hls/ngohd.m3u8
+http://103.162.136.235:4500/play/a007/index.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 #https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -269,16 +268,15 @@ http://103.55.144.46:80/hls/travelxp.m3u8
 
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-68 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Shenja
 http://146.59.19.1:80/5034/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-#http://tv.googledrivelinks.com:8088/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
 #http://103.55.144.46:80/hls/bbcearth.m3u8
-http://103.179.246.243:8000/play/a015
+https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
-#http://103.179.246.243:8000/play/a011
 #http://103.55.144.46/hls/animalplanent.m3u8
 http://116.204.149.11:8000/play/a00t/index.m3u8
 
@@ -295,6 +293,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha
 #http://103.109.56.116/live/skyfeed1003/index.m3u8
 #http://103.55.144.46:80/hls/starjalsha.m3u8
+#http://streams.sarkernet.com/hls/stream4.m3u8
 http://103.16.24.54:8080/channel5/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
@@ -318,7 +317,8 @@ http://208.86.19.13:81/708.stream/index.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #http://103.55.144.46:80/hls/colorsbangla.m3u8
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+https://tv.googledrivelinks.com/live.php?c=Colors_Bangla_SD&q=1200&e=.m3u8
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla-2
 http://208.86.19.13:81/904.stream/index.m3u8
@@ -343,6 +343,9 @@ http://103.55.144.46/hls/enterr10.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla", Enter 10 Bangla 2
 http://14.199.164.20:4001/play/a0j5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",DD Bangla
+https://tv.googledrivelinks.com/live.php?c=DD_Bangla&q=1200&e=.m3u8
 
 
 
@@ -632,7 +635,6 @@ http://30.30.30.30/live/skyfeed2001/index.m3u8
 https://piratesiptv.shortcm.li/gazi.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 7 [ebox]
-http://tv3.ebox.live:8082/T-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 8
 
@@ -666,7 +668,7 @@ http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 http://30.30.30.30/live/skyfeed1011/index.m3u8
 
-#EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2] BCIPTV
+#EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2]
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
 #http://103.55.144.46:80/hls/stersports1hd.m3u8
 #http://103.162.136.235:4500/play/a015/index.m3u8
@@ -751,7 +753,7 @@ http://103.179.246.243:8000/play/a00k
 http://103.162.136.235:4500/play/a01d/index.m3u8
 
 #EXTINF:-141 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS",Sony Ten 4
-hhttps://tvstream.fun/jtv/auto1_tv.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six HD
 #http://103.179.246.243:8000/play/a00f
@@ -764,11 +766,10 @@ http://103.16.24.54:8080/channel7/index.m3u8
 http://30.30.30.30/live/skyfeed1008/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
-#http://30.30.30.30/live/skyfeed2002/index.m3u8
 #http://30.30.30.30/live/skyfeed2004/index.m3u8
 #http://103.55.144.46/hls/ptv.m3u8
 #http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-http://bandookk.xyz:8000/live/asiacup/cricket/17534.m3u8
+http://30.30.30.30/live/skyfeed2001/index.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://221.120.204.4/geo-super-LOCKLE/index.m3u8
@@ -783,16 +784,13 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Cricket
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
-#http://15.1.1.10:8082/WILLOW-CRICKET-HD/index.m3u8
 http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD-2
-
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow Extra HD
 
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS", Sky Sports Cricket
@@ -892,7 +890,6 @@ http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1575
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sports tv-2
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/1581
 
-
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-1
 http://116.204.149.11:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-238884_bt-sport-logo-bt-sports-logo-png-transparent.png" group-title="SPORTS",BT Sports-2
@@ -901,11 +898,11 @@ http://116.204.149.11:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SPORTS",Euro Sports-1
 #http://212.18.115.193:3549/play/a05c/index.m3u8
 #http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+#http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+http://116.204.149.11:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/Eurosport-logo-E3F6A32147-seeklogo.com.png" group-title="SPORTS",Euro Sports-2
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
-
 
 
 
@@ -924,6 +921,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-172 tvg-logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg" group-title="SPORTS",True Premier Football 2
 #EXTINF:-172 tvg-logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg" group-title="SPORTS",True Premier Football 3
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/233-2332507_fox-sports-fs1-logo-white.png" group-title="SPORTS",Fox [FS1]
+
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="SPORTS",ESPN
 http://116.204.149.11:8000/play/a00p/index.m3u8
 
