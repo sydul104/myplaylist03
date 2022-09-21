@@ -622,6 +622,7 @@ http://streams.sarkernet.com/hls/stream3.m3u8
 #http://103.55.144.46/hls/ptv.m3u8
 #http://12.1.1.1:8082/Local-Sports/index.m3u8
 https://d1eh7xhzrmbq5t.cloudfront.net/skillup-uploads/prod-images/2022/07/8e276b65-fe57-4b4a-b751-ce883b7fd845_logo_added/1658704220/hls/index_720p.m3u8
+http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp4.png" group-title="SPORTS", Live Sports 5
 http://30.30.30.30/live/skyfeed2001/index.m3u8
@@ -639,7 +640,7 @@ https://piratesiptv.shortcm.li/gazi.m3u8
 #http://103.55.144.46/hls/t-sports.m3u8
 #http://172.17.50.112/live/antbd1005/index.m3u8
 #http://30.30.30.30/live/skyfeed2001/index.m3u8
-http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+http://172.17.50.112/live/antbd1005/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
@@ -779,7 +780,6 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136667
 
 #EXTINF:-145 tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="SPORTS",Ten Cricket
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
-http://appcustomcdn.azureedge.net/origin/cric/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 
 
