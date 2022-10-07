@@ -245,7 +245,8 @@ http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
 #https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #http://103.121.14.18/hls/discovery.m3u8
-http://103.99.249.107:81/play/a02v
+#http://103.99.249.107:81/play/a02v
+https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 #http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136604
@@ -304,12 +305,12 @@ http://30.30.30.30/live/skyfeed2006/index.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD
 #http://208.86.19.13:81/617.stream/index.m3u8
 #http://103.99.249.107:81/play/a02w
-http://103.99.249.107:81/play/a00k
+#http://103.99.249.107:81/play/a00k
+http://208.86.19.13:81/609.stream/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies HD-2
 #http://30.30.30.30:8081/live/indian3/playlist.m3u8
 #http://watchindia.net:8880/live/vvv/vvv/2282.m3u8
-#http://208.86.19.13:81/609.stream/index.m3u8
 http://103.121.14.18/hls/jalshamovies.m3u8
 
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla
@@ -755,15 +756,15 @@ http://146.59.19.1:80/5030/index.m3u8
 
 
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [1]
-http://37.49.224.248:8081/live/ch2/chunks.m3u8
+
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Cricket [2]
+http://103.162.136.235:4500/play/a02a/index.m3u8
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",Super Sport Granstand
 http://megaott.cx:900/t12mgxy282/556175751453161/159891
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Suppersports Football
 http://megaott.cx:900/t12mgxy282/556175751453161/159895
 #EXTINF:174 group-title="SPORTS"tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200",Laliga tv
-#http://103.99.249.107:81/play/a05h
-http://37.49.224.248:8081/live/ch2/chunks.m3u8
+http://103.99.249.107:81/play/a05h
 #EXTINF: -1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200" group-title="SPORTS", SuperSport Premier League+
 
 #EXTINF:-1 tvg-logo="https://seinhinn.com/wp-content/uploads/2017/07/skynetlist8.jpg" group-title="SPORTS",Sky Net Sports HD
