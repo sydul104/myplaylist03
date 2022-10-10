@@ -192,10 +192,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 
 #EXTINF:-47 tvg-id="(no tvg-id)" tvg-name="Saudi Quran" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/QuranTV.png" group-title="Islamic",Saudi Quran
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#http://m.live.net.sa:1935/live/quran/playlist.m3u8
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/387
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina live
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/388
 
 
 
@@ -254,6 +256,7 @@ http://103.121.14.18/hls/discovery.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 http://103.99.249.107:81/play/a01u
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://103.99.249.107:81/play/a02j
@@ -282,8 +285,8 @@ http://103.121.14.18/hls/bbcearth.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet HD
 #http://116.204.149.11:8000/play/a00t/index.m3u8
-#http://103.99.249.107:81/play/a015
-http://103.121.14.18/hls/animalplanent.m3u8
+#http://103.121.14.18/hls/animalplanent.m3u8
+http://103.99.249.107:81/play/a015
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="Documentary",Nasa tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -316,7 +319,8 @@ http://103.121.14.18/hls/jalshamovies.m3u8
 #http://103.109.56.116/live/skyfeed1004/index.m3u8
 #http://familyplus.me:8080/live/younes123/123456/216751.ts
 #http://103.16.24.54:8080/channel4/index.m3u8
-http://103.121.14.18/hls/zeebanglahd.m3u8
+#http://103.121.14.18/hls/zeebanglahd.m3u8
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/142533
 
 #EXTINF:-54 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 http://208.86.19.13:81/708.stream/index.m3u8
@@ -324,7 +328,8 @@ http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
 #https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #http://103.99.249.107:81/play/a00j
-http://103.121.14.18/hls/colorsbangla.m3u8
+#http://103.121.14.18/hls/colorsbangla.m3u8
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/247530
 
 #EXTINF:-55 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla-2
 #https://tv.googledrivelinks.com/live.php?c=Colors_Bangla_SD&q=1200&e=.m3u8
@@ -354,7 +359,8 @@ http://103.121.14.18/hls/sunbangla.m3u8
 http://14.199.164.20:4001/play/a0j5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",DD Bangla
-
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26560
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45488
 
 
 
@@ -396,10 +402,12 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-87 tvg-logo="https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeats.png" group-title="MUSIC",Mtv Beats
 #https://tv.googledrivelinks.com/live.php?c=MTV_Beats_HD&e=m3u8
 #http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193068
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193068
 
 #EXTINF:-87 tvg-logo="" group-title="MUSIC",Mtv
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193647
 
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
 #http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/70
@@ -562,6 +570,7 @@ http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:0 tvg-id="" group-title="English Movie",&flix
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/z70Ybsx/prive.jpg",&PRIVE HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1280px-Fox_life_logo.svg.png" group-title="English Movie",Fox life
+http://red.ipfox.org:8080/osama2022/osama2023/11
 #EXTINF:-1 tvg-logo="" group-title="English Movie" tvg-id="" tvg-name="", WB
 #EXTINF:0 tvg-id="" group-title="English Movie",Bien Movie Premium
 #EXTINF:0 tvg-id="" group-title="English Movie",Bien Action Movie
@@ -784,13 +793,16 @@ http://iptv.ndasat.com:88/226342532655215/226342532655215/83
 http://103.99.249.107:81/play/a02d
 
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 1  Premium
+http://driptvs.com:8080/live/StevOsnTelegram/Vc9zE2PWHw/18376.m3u8
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 2  Premium
+http://driptvs.com:8080/live/StevOsnTelegram/Vc9zE2PWHw/74131.m3u8
 #EXTINF:-151 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORTS",BeIN Sports 3  Premium
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 #http://api.magiaiptv.com/live/800328/755275/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#http://93.152.174.144:4000/play/bein1ar/index.m3u8
+http://driptvs.com:8080/live/StevOsnTelegram/Vc9zE2PWHw/4606.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="SPORTS",BeIN Sports 2
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports3.qa.png" group-title="SPORTS",BeIN Sports 3
