@@ -697,11 +697,14 @@ http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
+http://175.41.46.16:8081/hls/4.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
 #http://30.30.30.30/live/skyfeed2001/index.m3u8
 #http://172.17.50.112/live/antbd1005/index.m3u8
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [2]
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [3]
 #http://103.99.249.107:81/play/a02k
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1667566800-now.m3u8
 
@@ -724,7 +727,10 @@ http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 #https://tinyurl.com/tatasabbiriptv16
 https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2]
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [2] 
+http://175.41.46.16:8081/hls/2.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1 [3]
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
 #http://103.99.249.107:81/play/a00d
 #http://edge.thunderbd.com:25461/live/tvappsports/roarzone/25.m3u8
@@ -741,12 +747,12 @@ https://tinyurl.com/tatasabbiriptv18
 #http://208.86.19.13:81/715.stream/index.m3u8
 #http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/421
 #http://103.99.249.107:81/play/a00c
-http://103.121.14.18/hls/starsports2.m3u8
+#http://103.121.14.18/hls/starsports2.m3u8
+https://tvs1.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-131 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 2 [2]
 #http://30.30.30.30/live/skyfeed1012/index.m3u8
-#https://tinyurl.com/tatasabbiriptv22
-https://tvs1.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
+https://tinyurl.com/tatasabbiriptv22
 
 #EXTINF:-133 tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png" group-title="SPORTS",Star Sports 3
 #http://103.153.39.36:8000/play/a00l
@@ -763,7 +769,8 @@ https://tinyurl.com/tatasabbiriptv23
 https://tinyurl.com/tatasabbiriptv14
 
 #EXTINF:-135 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="SPORTS",Star Sports Select 1 SD
-http://30.30.30.30/live/skyfeed1009/index.m3u8
+#http://30.30.30.30/live/skyfeed1009/index.m3u8
+http://175.41.46.16:8081/hls/7.m3u8
 
 #EXTINF:-136 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
 #http://30.30.30.30/live/skyfeed1010/index.m3u8
@@ -773,7 +780,8 @@ https://tinyurl.com/tatasabbiriptv15
 #http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/447
 #http://103.99.249.107:81/play/a01e
 #http://edge.thunderbd.com:25461/live/tvappsports/roarzone/28.m3u8
-http://103.121.14.18/hls/select2.m3u8
+#http://103.121.14.18/hls/select2.m3u8
+http://175.41.46.16:8081/hls/6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="SPORTS",Star Sports (old)
@@ -790,7 +798,8 @@ http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
 #http://103.162.136.235:4500/play/a018/index.m3u8
 #http://103.99.249.107:81/play/a00b
 #http://103.121.14.18/hls/sonyten1.m3u8
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/588
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/588
+http://175.41.46.16:8081/hls/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="SPORTS",Sony ten 2 SD
 #http://30.30.30.30/live/skyfeed1007/index.m3u8
@@ -800,7 +809,8 @@ https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
 #http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2906
 #http://103.99.249.107:81/play/a01f
 #http://103.121.14.18/hls/sonyten2.m3u8
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9070
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9070
+http://175.41.46.16:8081/hls/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png"group-title="SPORTS",Sony Ten 3 HD
 #http://103.99.249.107:81/play/a006
@@ -824,7 +834,8 @@ https://tvs1.aynaott.com/SonySix/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="SPORTS", Sony Six SD
 #http://30.30.30.30/live/skyfeed1008/index.m3u8
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+#http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+http://175.41.46.16:8081/hls/1.m3u8
 
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV Sports
