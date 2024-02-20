@@ -222,17 +222,17 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/2560px-BBC_News.svg.png" group-title="English News",BBC News
 #http://182.176.149.106:9100/play/a064
-#http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
-#https://tvs1.aynaott.com/bbcnews/tracks-v1a1/mono.m3u8
-http://ip2121.com:8081/live/bbc/playlist.m3u8
+#http://ip2121.com:8081/live/bbc/playlist.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
 
 #EXTINF:-59 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News",CNN
 #https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#https://tvs1.aynaott.com/cnn/tracks-v1a1/mono.m3u8
-http://ip2121.com:8081/live/cnn/playlist.m3u8
+#http://ip2121.com:8081/live/cnn/playlist.m3u8
+https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 group-title="English News" tvg-logo="https://i.imgur.com/LD1Lj0v.png", DW
-http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
+#http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/chunks.m3u8
 
 
 
@@ -242,13 +242,20 @@ http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/387
 #https://tvs1.aynaott.com/qurantv/tracks-v1a1/mono.m3u8
 #http://m.live.net.sa:1935/live/quran/playlist.m3u8
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+https://edge.taghtia.com/sa/7.m3u8
 
 
 #EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina live
 #http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/388
 #https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+https://edge.taghtia.com/sa/7.m3u8
+
+#EXTINF:-47 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Peace tv Bangla
+#http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100637
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+
 
 
 
@@ -265,11 +272,9 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids", Sony YAY
-#http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34494?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
-#http://103.99.249.107:81/play/a02u
 #http://103.121.14.18/hls/dis-kid.m3u8
 #https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
-http://iptvtree.net:8080/86488e81/5e48c38fdd/1355
+http://103.99.249.107:81/play/a02u
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nick
@@ -304,20 +309,22 @@ https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8
 #https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
 #http://103.121.14.18/hls/discovery.m3u8
 #http://103.99.249.107:81/play/a02v
-https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+#https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Engliah HD
 #http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136604
 #http://103.99.249.107:81/play/a00m
 #http://103.121.14.18/hls/discovery.m3u8
 #http://jadetv.de:80/eagleiptv/SsFAljPDDi/2613
-https://tvs1.aynaott.com/discovery_hd/tracks-v1a1/mono.m3u8
+#https://tvs1.aynaott.com/discovery_hd/tracks-v1a1/mono.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-63 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Science SD
 #http://103.99.249.107:81/play/a01u
 #http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1363
 #https://tvs1.aynaott.com/discovery_science/tracks-v1a1/mono.m3u8
-http://iptvtree.net:8080/86488e81/5e48c38fdd/1363
+https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 
 #EXTINF:-66 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD Bangla
 #http://103.99.249.107:81/play/a02j
